@@ -26,7 +26,7 @@ const ModalIntro: FC<ModalIntroProps> = ({ onContinue }) => {
           color: '#666'
         }}>
           <p style={{ margin: '0 0 8px 0', fontWeight: '600', color: '#333' }}>
-            Made by Yash Dudhe
+            Made by Yogendra-08 [GitHub]
           </p>
           <p style={{ margin: 0 }}>
             For more details visit:{' '}
