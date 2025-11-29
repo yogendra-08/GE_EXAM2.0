@@ -1,0 +1,1720 @@
+
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+1 
+ 
+A. Environmental & Safety Aspects in Car HVAC 
+Systems 
+1. Which refrigerant replaced R-134a in most modern car HVAC systems due to 
+environmental concerns? 
+A) R-12 
+B) R-22 
+C) R-1234yf 
+D) R-410A 
+✅ Answer: C 
+2. The main environmental problem caused by old refrigerants like R-12 was: 
+A) Global warming only 
+B) Ozone layer depletion 
+C) Acid rain 
+D) Water pollution 
+✅ Answer: B 
+3. Which gas from car AC systems contributes to global warming? 
+A) Oxygen 
+B) Carbon dioxide 
+C) Refrigerant gas 
+D) Nitrogen 
+✅ Answer: C 
+4. The Global Warming Potential (GWP) of R-1234yf is: 
+A) Very high 
+B) Moderate 
+C) Very low 
+D) Zero 
+✅ Answer: C 
+5. Which safety device protects the AC system from over-pressure? 
+A) Evaporator 
+B) Condenser 
+C) Pressure relief valve 
+D) Receiver dryer 
+✅ Answer: C 
+6. Which of the following is a personal safety precaution for AC servicing? 
+A) Wearing loose clothes 
+B) Avoiding goggles 
+C) Wearing gloves and safety glasses 
+D) Disconnecting battery is unnecessary 
+✅ Answer: C 
+7. Refrigerant leaks are dangerous mainly because they: 
+A) Smell bad 
+B) Are expensive 
+C) Reduce oxygen level in closed areas 
+D) Make engine noisy 
+✅ Answer: C 
+8. Which tool is used to detect refrigerant leakage? 
+A) Thermostat 
+B) Manifold gauge 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+2 
+ 
+C) Leak detector 
+D) Ammeter 
+✅ Answer: C 
+9. Why should refrigerant never be vented into the atmosphere? 
+A) It damages compressor 
+B) It increases cooling 
+C) It harms the environment 
+D) It reduces airflow 
+✅ Answer: C 
+10. Which component removes moisture from the refrigerant? 
+A) Condenser 
+B) Receiver-drier 
+C) Compressor 
+D) Expansion valve 
+✅ Answer: B 
+ 
+B. Fundamentals of Refrigeration and Air Conditioning 
+11. Refrigeration is the process of: 
+A) Heating a space 
+B) Cooling a space below atmospheric temperature 
+C) Removing humidity 
+D) Supplying hot air 
+✅ Answer: B 
+12. The working fluid in refrigeration is called: 
+A) Coolant 
+B) Refrigerant 
+C) Lubricant 
+D) Water 
+✅ Answer: B 
+13. In an air conditioning system, the main function of the evaporator is to: 
+A) Compress gas 
+B) Absorb heat 
+C) Reject heat 
+D) Pump refrigerant 
+✅ Answer: B 
+14. Which component increases the pressure of the refrigerant? 
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Expansion valve 
+✅ Answer: B 
+15. Air conditioning controls all except: 
+A) Temperature 
+B) Humidity 
+C) Air cleanliness 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+3 
+ 
+D) Fuel consumption 
+✅ Answer: D 
+16. The SI unit of refrigeration capacity is: 
+A) Watt 
+B) Joule 
+C) Watt or kW 
+D) Pascal 
+✅ Answer: C 
+17. The function of a condenser in an AC system is to: 
+A) Absorb heat 
+B) Reject heat to atmosphere 
+C) Increase pressure 
+D) Reduce temperature only 
+✅ Answer: B 
+18. The device used to measure temperature is: 
+A) Hygrometer 
+B) Barometer 
+C) Thermometer 
+D) Anemometer 
+✅ Answer: C 
+19. Relative humidity is defined as: 
+A) Amount of dry air 
+B) Amount of moisture compared to maximum moisture air can hold 
+C) Air pressure difference 
+D) Cooling capacity 
+✅ Answer: B 
+20. Air-conditioning is different from refrigeration because it also controls: 
+A) Pressure 
+B) Only temperature 
+C) Humidity and air purity 
+D) Speed of air 
+✅ Answer: C 
+ 
+C. Vapour Compression Cycle 
+21. The vapour compression cycle has how many main components? 
+A) 2 
+B) 3 
+C) 4 
+D) 5 
+✅ Answer: C 
+22. The function of the expansion valve is to: 
+A) Increase pressure 
+B) Decrease pressure 
+C) Absorb heat 
+D) Reject heat 
+✅ Answer: B 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+4 
+ 
+23. In which component does refrigerant absorb heat? 
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Expansion valve 
+✅ Answer: C 
+24. Which process occurs in the compressor? 
+A) Heat absorption 
+B) Condensation 
+C) Isentropic compression 
+D) Throttling 
+✅ Answer: C 
+25. Heat rejection occurs in the: 
+A) Evaporator 
+B) Compressor 
+C) Condenser 
+D) Expansion device 
+✅ Answer: C 
+26. In a vapour compression cycle, the refrigerant leaves the evaporator as: 
+A) Liquid 
+B) Superheated vapour 
+C) Subcooled liquid 
+D) Wet vapour 
+✅ Answer: B 
+27. The expansion process occurs at: 
+A) Constant pressure 
+B) Constant temperature 
+C) Constant enthalpy 
+D) Constant volume 
+✅ Answer: C 
+28. The refrigerant enters condenser as: 
+A) Low pressure liquid 
+B) High pressure vapour 
+C) Low pressure vapour 
+D) High pressure liquid 
+✅ Answer: B 
+29. Which cycle is used in car AC systems? 
+A) Steam power cycle 
+B) Vapour absorption cycle 
+C) Vapour compression cycle 
+D) Rankine cycle 
+✅ Answer: C 
+30. COP of a refrigeration system is defined as: 
+A) Work done / Heat absorbed 
+B) Heat rejected / Work input 
+C) Heat absorbed / Work input 
+D) Work input / Heat rejected 
+✅ Answer: C 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+5 
+ 
+ 
+A. Components of Car Air Conditioning System 
+1. The main function of the compressor in a car AC system is to: 
+A) Store refrigerant 
+B) Increase pressure of refrigerant 
+C) Cool the refrigerant 
+D) Absorb heat from cabin 
+✅ Answer: B 
+2. Which component converts high-pressure refrigerant gas into liquid? 
+A) Evaporator 
+B) Compressor 
+C) Condenser 
+D) Receiver drier 
+✅ Answer: C 
+3. The expansion valve in the AC system: 
+A) Increases refrigerant temperature 
+B) Reduces refrigerant pressure 
+C) Removes moisture 
+D) Compresses gas 
+✅ Answer: B 
+4. The evaporator is usually located: 
+A) In front of the radiator 
+B) Inside the dashboard 
+C) Near the engine block 
+D) Under the car 
+✅ Answer: B 
+5. Which component removes moisture from refrigerant? 
+A) Condenser 
+B) Receiver-drier 
+C) Expansion valve 
+D) Compressor 
+✅ Answer: B 
+6. Refrigerant in a car AC absorbs heat inside the: 
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Receiver drier 
+✅ Answer: C 
+7. Which of the following is NOT a part of a car AC system? 
+A) Condenser 
+B) Evaporator 
+C) Fuel injector 
+D) Compressor 
+✅ Answer: C 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+6 
+ 
+B. Layout and Operation of HVAC System 
+8. The blower motor is used to: 
+A) Cool engine 
+B) Circulate air in the cabin 
+C) Reduce fuel consumption 
+D) Lubricate compressor 
+✅ Answer: B 
+9. The cabin air filter is located: 
+A) Before the compressor 
+B) In air intake duct 
+C) Inside the condenser 
+D) In refrigerant pipe 
+✅ Answer: B 
+10. The mode door in HVAC system controls: 
+A) Refrigerant flow 
+B) Engine speed 
+C) Direction of airflow 
+D) Pressure of refrigerant 
+✅ Answer: C 
+11. In heating mode, warm air is produced using: 
+A) Hot exhaust gases 
+B) Hot engine coolant 
+C) Hot compressor oil 
+D) Hot radiator fan air 
+✅ Answer: B 
+12. Recirculation flap helps to: 
+A) Increase fuel efficiency 
+B) Prevent refrigerant leakage 
+C) Recirculate cabin air 
+D) Increase compressor speed 
+✅ Answer: C 
+13. In defrost mode, air is mainly directed towards: 
+A) Rear seats 
+B) Side doors 
+C) Windshield 
+D) Floor 
+✅ Answer: C 
+ 
+ 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+7 
+ 
+C. Heating System 
+14. The heater core works as: 
+A) A compressor 
+B) A small radiator 
+C) An expansion valve 
+D) A condenser 
+✅ Answer: B 
+15. Hot engine coolant flows from which part to the heater core? 
+A) Fuel tank 
+B) Exhaust pipe 
+C) Engine block / cylinder head 
+D) Brake lines 
+✅ Answer: C 
+16. The main source of heat for automobile heating system is: 
+A) Battery 
+B) Engine waste heat 
+C) Outside air 
+D) Exhaust muffler 
+✅ Answer: B 
+17. The function of heater control valve is to: 
+A) Control refrigerant pressure 
+B) Control coolant flow to heater core 
+C) Control speed of blower 
+D) Control temperature sensor 
+✅ Answer: B 
+ 
+D. Ventilation System 
+18. The purpose of ventilation in a car is to: 
+A) Heat the engine 
+B) Supply fresh air 
+C) Increase tyre pressure 
+D) Improve acceleration 
+✅ Answer: B 
+19. Which component removes dust before air enters the cabin? 
+A) Expansion valve 
+B) Condenser 
+C) Cabin air filter 
+D) Radiator 
+✅ Answer: C 
+20. The blower motor in ventilation system is used to: 
+A) Push refrigerant into condenser 
+B) Draw in and circulate air 
+C) Compress air 
+D) Cool engine oil 
+✅ Answer: B 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+8 
+ 
+ 
+A. MCQs on Human Comfort Conditions 
+1. The comfortable temperature range for most people is: 
+A) 10–15°C 
+B) 18–27°C 
+C) 30–40°C 
+D) 0–10°C 
+✅ Answer: B 
+2. The ideal relative humidity for human comfort lies between: 
+A) 10–20% 
+B) 20–30% 
+C) 40–60% 
+D) 80–100% 
+✅ Answer: C 
+3. High air velocity in a room causes: 
+A) Better comfort 
+B) Skin dryness 
+C) Feeling of cold discomfort 
+D) No effect 
+✅ Answer: C 
+4. Human comfort mainly depends on: 
+A) Temperature only 
+B) Humidity only 
+C) Air motion only 
+D) Temperature, humidity and air motion 
+✅ Answer: D 
+5. Which of the following reduces body heat through evaporation? 
+A) Radiation 
+B) Conduction 
+C) Evaporation of sweat 
+D) Convection 
+✅ Answer: C 
+6. The ideal air velocity for human comfort in air conditioning is: 
+A) 0.1 – 0.25 m/s 
+B) 1 – 2 m/s 
+C) 4 – 5 m/s 
+D) 10 m/s 
+✅ Answer: A 
+7. High relative humidity causes: 
+A) Faster sweat evaporation 
+B) Slower sweat evaporation 
+C) Body cooling increases 
+D) No effect on comfort 
+✅ Answer: B 
+8. Which factor does NOT affect human comfort directly? 
+A) Air temperature 
+B) Noise level 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+9 
+ 
+C) Relative humidity 
+D) Air movement 
+✅ Answer: B 
+9. Human body loses maximum heat through: 
+A) Evaporation 
+B) Radiation 
+C) Conduction 
+D) Respiration 
+✅ Answer: B 
+10. The comfort zone is shown on: 
+A) T–S diagram 
+B) P–V diagram 
+C) Psychrometric chart 
+D) Mollier diagram 
+✅ Answer: C 
+ 
+✅ B. MCQs on Refrigerants Used in Car Air Conditioning 
+& Their Properties 
+11. Which refrigerant is most commonly used in modern car AC systems? 
+A) R-12 
+B) R-134a 
+C) R-22 
+D) R-410A 
+✅ Answer: B 
+12. Which refrigerant is widely used now due to its low global warming potential 
+(GWP)? 
+A) R-12 
+B) R-1234yf 
+C) R-404A 
+D) R-717 
+✅ Answer: B 
+13. The main reason R-12 was banned is because it: 
+A) Is expensive 
+B) Causes ozone depletion 
+C) Has low efficiency 
+D) Causes corrosion 
+✅ Answer: B 
+14. Which property is important for a good refrigerant? 
+A) High boiling point 
+B) High toxicity 
+C) High latent heat of vaporization 
+D) High viscosity 
+✅ Answer: C 
+15. Which of the following refrigerants is ozone-friendly? 
+A) R-12 
+B) R-22 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+10 
+ 
+C) R-1234yf 
+D) R-11 
+✅ Answer: C 
+16. Which refrigerant has zero Ozone Depletion Potential (ODP)? 
+A) R-12 
+B) R-134a 
+C) R-1234yf 
+D) Both B and C 
+✅ Answer: D 
+17. The chemical name of R-134a is: 
+A) Dichlorodifluoromethane 
+B) Tetrafluoroethane 
+C) Chlorodifluoromethane 
+D) Ammonia 
+✅ Answer: B 
+18. Which refrigerant has very low Global Warming Potential compared to R-134a? 
+A) R-22 
+B) R-12 
+C) R-1234yf 
+D) R-407C 
+✅ Answer: C 
+19. The refrigerant used should be: 
+A) Highly flammable 
+B) Highly toxic 
+C) Chemically stable 
+D) Highly corrosive 
+✅ Answer: C 
+20. Which refrigerant is non-toxic and non-flammable? 
+A) R-717 (Ammonia) 
+B) R-12 
+C) R-134a 
+D) R-600a 
+✅ Answer: C 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+11 
+ 
+A. MCQs on Refrigerant Charging Process for Car AC 
+System 
+1. Before charging refrigerant, the system should be: 
+A) Heated 
+B) Pressurized 
+C) Evacuated 
+D) Oiled 
+✅ Answer: C 
+2. Why is vacuum created before charging refrigerant? 
+A) To increase pressure 
+B) To remove air and moisture 
+C) To cool the pipes 
+D) To test compressor speed 
+✅ Answer: B 
+3. Which instrument is used to measure high and low side pressure during charging? 
+A) Thermometer 
+B) Manifold gauge set 
+C) Hydrometer 
+D) Voltmeter 
+✅ Answer: B 
+4. Undercharging the AC system results in: 
+A) Excess cooling 
+B) Compressor damage 
+C) Reduced cooling effect 
+D) Frost on condenser 
+✅ Answer: C 
+5. Overcharging the refrigerant causes: 
+A) Low pressure 
+B) No cooling 
+C) Higher system pressure 
+D) Freezing of evaporator 
+✅ Answer: C 
+6. Refrigerant should be charged in which state through the low-pressure side? 
+A) Solid 
+B) Liquid 
+C) Vapor 
+D) Plasma 
+✅ Answer: C 
+7. Which component indicates correct refrigerant level in older systems? 
+A) Sight glass 
+B) Thermostat 
+C) Clutch coil 
+D) Fan motor 
+✅ Answer: A 
+8. Which safety precaution is necessary during refrigerant charging? 
+A) Keep system near fire 
+B) Wear safety gloves and goggles 
+C) Touch refrigerant directly 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+12 
+ 
+D) Work in closed room 
+✅ Answer: B 
+9. The standard method of charging refrigerant in car AC is based on: 
+A) Time method 
+B) Pressure method 
+C) Weight method 
+D) Temperature method 
+✅ Answer: C 
+10. After charging, which step should be performed? 
+A) Disconnect compressor belt 
+B) Check for leaks 
+C) Switch off blower 
+D) Open expansion valve 
+✅ Answer: B 
+ 
+✅ B. MCQs on Temperature Control System 
+11. The main function of the temperature control system is to: 
+A) Control vehicle speed 
+B) Maintain desired cabin temperature 
+C) Control fuel injection 
+D) Reduce engine load 
+✅ Answer: B 
+12. The temperature sensor in a car HVAC system senses: 
+A) Engine temperature 
+B) Outside temperature only 
+C) Cabin air temperature 
+D) Tyre temperature 
+✅ Answer: C 
+13. In automatic climate control, temperature is controlled by: 
+A) Driver manually 
+B) ECU and sensors 
+C) Expansion valve only 
+D) Radiator 
+✅ Answer: B 
+14. Which component controls mixed hot and cold air? 
+A) Compressor 
+B) Condenser 
+C) Blend door 
+D) Evaporator 
+✅ Answer: C 
+15. The thermostat in an HVAC system is used to: 
+A) Control refrigerant pressure 
+B) Sense cabin temperature 
+C) Control compressor ON/OFF 
+D) Control blower speed 
+✅ Answer: C 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+13 
+ 
+16. Increasing blower speed will generally: 
+A) Decrease cooling 
+B) Increase cooling 
+C) Stop compressor 
+D) Increase humidity 
+✅ Answer: B 
+ 
+✅ C. MCQs on Humidity Control Systems 
+17. Which component helps in dehumidification in AC? 
+A) Condenser 
+B) Evaporator 
+C) Compressor 
+D) Expansion valve 
+✅ Answer: B 
+18. Dehumidification occurs when: 
+A) Air passes over warm coil 
+B) Air passes over cold evaporator coil 
+C) Air passes through radiator 
+D) Air flows at high speed 
+✅ Answer: B 
+19. Moist air loses its moisture due to: 
+A) Increase in pressure 
+B) Condensation of vapor 
+C) Increase in temperature 
+D) Air compression 
+✅ Answer: B 
+20. High humidity inside car cabin causes: 
+A) Better comfort 
+B) Faster cooling 
+C) Fogging of glass 
+D) Lower temperature 
+✅ Answer: C 
+21. The device used to measure relative humidity is: 
+A) Barometer 
+B) Hygrometer 
+C) Anemometer 
+D) Manometer 
+✅ Answer: B 
+22. Which of these increases humidity control efficiency? 
+A) Higher evaporator temperature 
+B) Lower evaporator temperature 
+C) Lower blower speed always 
+D) Turning off AC 
+✅ Answer: B 
+23.  
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+14 
+ 
+A. Keyless Entry System – Purpose & Operation 
+1. The main purpose of a keyless entry system is to: 
+A) Improve engine power 
+B) Enable remote locking/unlocking of doors 
+C) Increase fuel efficiency 
+D) Control HVAC system 
+✅ Answer: B 
+2. Which component sends the signal in a keyless entry system? 
+A) Door actuator 
+B) Car ECU 
+C) Key fob (Transmitter) 
+D) Receiver motor 
+✅ Answer: C 
+3. Keyless entry systems generally operate using: 
+A) Infrared waves 
+B) Bluetooth only 
+C) Radio Frequency (RF) signals 
+D) Sound waves 
+✅ Answer: C 
+4. In a keyless entry system, the receiver is located: 
+A) Inside the key 
+B) Inside the door lock 
+C) Inside the vehicle body 
+D) Near the battery 
+✅ Answer: C 
+5. Rolling code technology is used in keyless systems to: 
+A) Increase signal range 
+B) Reduce battery usage 
+C) Prevent theft by code duplication 
+D) Improve door motor speed 
+✅ Answer: C 
+ 
+✅ B. Common Anti-Theft System 
+6. The main function of an anti-theft system is to: 
+A) Increase car speed 
+B) Prevent unauthorized vehicle use 
+C) Improve braking 
+D) Improve suspension 
+✅ Answer: B 
+7. An engine immobilizer works by: 
+A) Locking the steering wheel 
+B) Cutting fuel or ignition system 
+C) Locking the doors 
+D) Activating the horn 
+✅ Answer: B 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+15 
+ 
+8. Which of the following is an active anti-theft device? 
+A) Steering wheel lock 
+B) Gear lock 
+C) Car alarm system 
+D) Sunshade 
+✅ Answer: C 
+9. Which sensor detects unauthorised entry into a car? 
+A) Oxygen sensor 
+B) Door sensor 
+C) Temperature sensor 
+D) MAF sensor 
+✅ Answer: B 
+10. A vehicle immobilizer compares the: 
+A) Engine RPM 
+B) Fuel pressure 
+C) Key code with ECU data 
+D) Door position 
+✅ Answer: C 
+ 
+✅ C. Automatic Door Lock System 
+11. Automatic door lock system function is to: 
+A) Lock doors when car reaches a certain speed 
+B) Lock only driver’s door 
+C) Prevent engine overheating 
+D) Increase tyre pressure 
+✅ Answer: A 
+12. In many cars, automatic door locking activates when speed crosses: 
+A) 5 km/h 
+B) 10–15 km/h 
+C) 40 km/h 
+D) 80 km/h 
+✅ Answer: B 
+13. Which sensor supports automatic door locking? 
+A) Oxygen sensor 
+B) Speed sensor 
+C) Rain sensor 
+D) Temperature sensor 
+✅ Answer: B 
+14. The central locking system is controlled by: 
+A) Radiator 
+B) Body Control Module (BCM) 
+C) Alternator 
+D) ECU only 
+✅ Answer: B 
+15. Automatic unlocking usually happens: 
+A) When AC is turned off 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+16 
+ 
+B) When airbags deploy 
+C) When speed increases 
+D) When headlights turn on 
+✅ Answer: B 
+ 
+✅ D. Park Assist System 
+16. The main function of a park assist system is to: 
+A) Increase braking power 
+B) Help driver park safely 
+C) Increase engine RPM 
+D) Boost battery power 
+✅ Answer: B 
+17. Park assist system uses which type of sensor most commonly? 
+A) Temperature sensor 
+B) Ultrasonic sensor 
+C) Pressure sensor 
+D) Oxygen sensor 
+✅ Answer: B 
+18. The park assist system gives warning through: 
+A) Engine sound 
+B) Dashboard lights only 
+C) Beeps and display indication 
+D) Horn only 
+✅ Answer: C 
+19. In automatic park assist, steering is controlled by: 
+A) Driver 
+B) Steering ECU 
+C) Brake system 
+D) GPS 
+✅ Answer: B 
+20. Park assist sensors are usually mounted on: 
+A) Roof of the car 
+B) Side mirrors 
+C) Front and rear bumpers 
+D) Inside tyres 
+✅ Answer: C 
+ 
+ 
+ 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+17 
+ 
+ 
+A. Automatic Headlight Dimming 
+1. The main purpose of automatic headlight dimming is to: 
+A) Increase battery voltage 
+B) Prevent dazzling of oncoming vehicles 
+C) Make headlights brighter 
+D) Improve fuel economy 
+✅ Answer: B 
+2. Automatic headlight dimming mainly works based on: 
+A) Vehicle speed 
+B) Ambient light and oncoming vehicle light intensity 
+C) Engine temperature 
+D) Steering angle 
+✅ Answer: B 
+3. Which sensor is used in automatic headlight dimming? 
+A) Ultrasonic sensor 
+B) Light sensor / Photodiode 
+C) Oxygen sensor 
+D) Speed sensor 
+✅ Answer: B 
+4. When an oncoming vehicle is detected, the headlight system automatically switches 
+from: 
+A) Low beam to fog beam 
+B) Low beam to parking light 
+C) High beam to low beam 
+D) High beam to off 
+✅ Answer: C 
+5. The control of automatic dimming is handled by: 
+A) Ignition switch 
+B) Driver manually 
+C) Body Control Module (BCM) 
+D) Dashboard switch only 
+✅ Answer: C 
+ 
+✅ B. Automatic On/Off Headlights with Time Delay 
+6. Automatic headlight ON/OFF system automatically switches headlights: 
+A) Based on fuel level 
+B) According to light intensity 
+C) Based on engine temperature 
+D) Based on battery voltage only 
+✅ Answer: B 
+7. The time delay in automatic headlight system is mainly used to: 
+A) Save fuel 
+B) Prevent frequent switching due to sudden light changes 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+18 
+ 
+C) Increase headlamp brightness 
+D) Reduce engine load 
+✅ Answer: B 
+8. Which sensor supports automatic ON/OFF headlights? 
+A) Rain sensor 
+B) Light sensor 
+C) Speed sensor 
+D) Temperature sensor 
+✅ Answer: B 
+9. The headlight usually turns ON automatically when: 
+A) Sunlight is strong 
+B) Car is parked 
+C) Ambient light falls below a set level 
+D) Speed increases 
+✅ Answer: C 
+10. The “Follow-me-home” headlight feature is related to: 
+A) Fog lights operation 
+B) Automatic delay OFF headlight 
+C) Brake light operation 
+D) Turn signal system 
+✅ Answer: B 
+ 
+✅ C. Navigation Systems: GPS & GPRS 
+11. GPS stands for: 
+A) Global Position Sensor 
+B) Global Position System 
+C) Geographical Position Satellite 
+D) General Position System 
+✅ Answer: B 
+12. GPS system helps in: 
+A) Engine tuning 
+B) Vehicle location tracking 
+C) Fuel injection 
+D) Airbag deployment 
+✅ Answer: B 
+13. GPRS is mainly used in cars for: 
+A) Wireless braking system 
+B) Mobile data communication 
+C) Cooling system control 
+D) Engine lubrication 
+✅ Answer: B 
+14. GPRS stands for: 
+A) Global Packet Radio Service 
+B) General Packet Routing System 
+C) Global Position Radio Service 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+19 
+ 
+D) General Position Routing System 
+✅ Answer: A 
+15. Which component receives GPS signals from satellites? 
+A) ECU 
+B) GPS receiver/antenna 
+C) BCM 
+D) Engine sensor 
+✅ Answer: B 
+16. GPS requires how many satellites minimum for accurate positioning? 
+A) 1 
+B) 2 
+C) 3 
+D) 4 
+✅ Answer: D 
+17. GPRS mainly helps in: 
+A) Offline navigation only 
+B) Real-time traffic updates and internet services 
+C) Headlamp brightness control 
+D) Fuel pressure regulation 
+✅ Answer: B 
+18. Which system works without mobile network? 
+A) GPRS 
+B) Bluetooth 
+C) GPS 
+D) Wi-Fi 
+✅ Answer: C 
+19. GPS navigation uses: 
+A) Sound waves 
+B) Radio waves 
+C) Infrared waves 
+D) Magnetic waves 
+✅ Answer: B 
+20. GPS system accuracy mainly depends on: 
+A) Vehicle color 
+B) Number of satellites visible 
+C) Battery voltage 
+D) Tyre pressure 
+✅ Answer: B 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+20 
+ 
+ 
+1. Environmental & Safety Aspects in Car HVAC 
+1. Which refrigerant is banned due to high ozone depletion potential? 
+A) R134a 
+B) R12 
+C) R1234yf 
+D) R410a 
+2. What is the main environmental issue caused by CFC refrigerants? 
+A) Global warming 
+B) Noise pollution 
+C) Ozone layer depletion 
+D) Water pollution 
+3. Which safety device prevents over-pressure in the AC system? 
+A) Expansion valve 
+B) Pressure relief valve 
+C) Receiver drier 
+D) Accumulator 
+4. Which component traps moisture to avoid acid formation? 
+A) Compressor 
+B) Condenser 
+C) Receiver drier 
+D) Evaporator 
+5. Refrigerant leakage in car AC can cause: 
+A) Increased cooling 
+B) Corrosion of system 
+C) Engine overheating 
+D) Fuel wastage 
+Answers: 1-B, 2-C, 3-B, 4-C, 5-B 
+ 
+2. Fundamentals of Refrigeration & Vapour Compression 
+Cycle 
+1. Refrigeration means __________. 
+A) Heating of space 
+B) Cooling below atmospheric temperature 
+C) Increasing temperature 
+D) Ventilation 
+2. Main function of refrigerant is to: 
+A) Absorb heat 
+B) Increase pressure 
+C) Reduce humidity 
+D) Provide ventilation 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+21 
+ 
+3. The vapour compression cycle consists of: 
+A) Compressor, condenser, expansion valve, evaporator 
+B) Fan, blower, motor, filter 
+C) Heater, vents, ducts, blower 
+D) Battery, alternator, motor, fan 
+4. In which component does refrigerant change from vapour to liquid? 
+A) Evaporator 
+B) Condenser 
+C) Compressor 
+D) Dryer 
+5. COP of a refrigeration system is: 
+A) Power input / Cooling effect 
+B) Cooling effect / Power input 
+C) Heat rejected / Work done 
+D) Work done / Heat absorbed 
+Answers: 1-B, 2-A, 3-A, 4-B, 5-B 
+ 
+3. Components of Car Air Conditioning System 
+1. Which compresses refrigerant gas? 
+A) Condenser 
+B) Evaporator 
+C) Compressor 
+D) Receiver 
+2. Which component cools and condenses refrigerant? 
+A) Compressor 
+B) Evaporator 
+C) Condenser 
+D) Blower 
+3. Function of expansion valve is to: 
+A) Increase pressure 
+B) Control refrigerant flow 
+C) Absorb heat 
+D) Compress gas 
+4. Which device stores liquid refrigerant? 
+A) Receiver drier 
+B) Evaporator 
+C) Fan 
+D) Compressor 
+5. Which removes dust and pollen? 
+A) Cabin air filter 
+B) Evaporator 
+C) Condenser 
+D) Compressor 
+Answers: 1-C, 2-C, 3-B, 4-A, 5-A 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+22 
+ 
+ 
+4. Layout & Operation of HVAC System 
+1. HVAC stands for: 
+A) Heating, Ventilation and Air Conditioning 
+B) High Voltage Air Cooling 
+C) Heating, Vapour and AC 
+D) Heater Ventilation Application 
+2. Blower motor function is: 
+A) Flow refrigerant 
+B) Circulate air 
+C) Compress refrigerant 
+D) Heat coolant 
+3. Evaporator is located in: 
+A) Engine bay 
+B) Condenser area 
+C) Cabin dashboard 
+D) Fuel tank 
+4. Which controls airflow direction? 
+A) Expansion valve 
+B) Air vents 
+C) Condenser 
+D) Compressor 
+5. Recirculation mode: 
+A) Brings fresh air always 
+B) Reuses inside air 
+C) Stops blower 
+D) Heats engine 
+Answers: 1-A, 2-B, 3-C, 4-B, 5-B 
+ 
+5. Heating & Ventilation System 
+1. Car heating system uses heat from: 
+A) Exhaust gas 
+B) Battery 
+C) Engine coolant 
+D) Radiator fan 
+2. Heater core acts like: 
+A) Condenser 
+B) Evaporator 
+C) Radiator 
+D) Compressor 
+3. Ventilation system helps in: 
+A) Increasing engine power 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+23 
+ 
+B) Air circulation and fresh air supply 
+C) Fuel injection 
+D) Improving mileage 
+4. Blend door is used for: 
+A) Mixing hot and cold air 
+B) Compressing refrigerant 
+C) Filtering air 
+D) Cooling engine 
+5. Heater valve controls: 
+A) Fuel supply 
+B) Coolant flow 
+C) Air flow 
+D) Oil pressure 
+Answers: 1-C, 2-C, 3-B, 4-A, 5-B 
+ 
+6. Human Comfort Conditions 
+1. Comfortable temperature range for car occupants is: 
+A) 5–10°C 
+B) 18–26°C 
+C) 30–40°C 
+D) Above 45°C 
+2. Comfort humidity range is: 
+A) 10–20% 
+B) 30–60% 
+C) 70–90% 
+D) 90–100% 
+3. Human comfort depends on: 
+A) Temperature only 
+B) Humidity only 
+C) Temperature, humidity, air movement 
+D) Sunlight only 
+4. High humidity causes: 
+A) Excess cooling 
+B) Sweating and discomfort 
+C) Cold sensation 
+D) No effect 
+5. Air movement improves comfort by: 
+A) Increasing sweating 
+B) Increasing evaporation of sweat 
+C) Increasing humidity 
+D) Stopping heat loss 
+Answers: 1-B, 2-B, 3-C, 4-B, 5-B 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+24 
+ 
+7. Refrigerants Used in Car AC 
+1. Which refrigerant is currently used in most modern cars? 
+A) R12 
+B) R22 
+C) R134a 
+D) Ammonia 
+2. Eco-friendly refrigerant is: 
+A) R1234yf 
+B) R12 
+C) R500 
+D) R11 
+3. Main property of refrigerant: 
+A) Non-toxic 
+B) Non-flammable 
+C) High latent heat 
+D) All of the above 
+4. Which refrigerant has very low GWP? 
+A) R134a 
+B) R1234yf 
+C) R22 
+D) R410A 
+5. Refrigerant should have: 
+A) High boiling point 
+B) Low boiling point 
+C) High density 
+D) Poor heat transfer 
+Answers: 1-C, 2-A, 3-D, 4-B, 5-B 
+ 
+8. Refrigerant Charging Process 
+1. Refrigerant charging is done: 
+A) In liquid form 
+B) In gaseous form 
+C) Both 
+D) Solid form 
+2. Overcharging results in: 
+A) Poor cooling 
+B) High compressor load 
+C) Both A and B 
+D) Engine stall 
+3. Undercharging causes: 
+A) Ice formation 
+B) Reduced cooling 
+C) Compressor noise 
+D) All of the above 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+25 
+ 
+4. Which tool is used for charging? 
+A) Vacuum pump 
+B) Manifold gauge set 
+C) Screwdriver 
+D) Multimeter 
+5. Before charging, system should be: 
+A) Washed 
+B) Dried and evacuated 
+C) Filled with oil 
+D) Heated 
+Answers: 1-C, 2-C, 3-B, 4-B, 5-B 
+ 
+9. Temperature & Humidity Control Systems 
+1. Thermostat is used to: 
+A) Control engine speed 
+B) Control cabin temperature 
+C) Control blower speed 
+D) Control fuel flow 
+2. Humidity is reduced by: 
+A) Heater core 
+B) Evaporator 
+C) Compressor 
+D) Condenser 
+3. Climate control system is: 
+A) Manual control 
+B) Automatic control 
+C) Mechanical only 
+D) Electrical only 
+4. Cabin temperature sensor measures: 
+A) Engine temp 
+B) Outside temp 
+C) Inside temp 
+D) Refrigerant temp 
+5. Dehumidification occurs when: 
+A) Air passes through evaporator 
+B) Air passes through heater 
+C) Fan stops 
+D) Air is recirculated 
+Answers: 1-B, 2-B, 3-B, 4-C, 5-A 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+26 
+ 
+10. Advanced Accessories & Driver Assistance Systems 
+A. Keyless Entry, Anti-theft & Auto Door Lock 
+1. Keyless entry works using: 
+A) Bluetooth only 
+B) Infrared or RF signal 
+C) Wired connection 
+D) Mechanical link 
+2. Immobilizer prevents: 
+A) Door locking 
+B) Engine starting without authorized key 
+C) Fuel filling 
+D) Brake operation 
+3. Auto door lock system locks doors when: 
+A) Engine starts 
+B) Speed exceeds set limit 
+C) Brake applied 
+D) AC switch ON 
+4. Central locking system: 
+A) Locks all doors together 
+B) Locks only driver door 
+C) Locks engine 
+D) Locks boot only 
+5. Anti-theft alarm activates when: 
+A) Ignition ON 
+B) Unauthorized attempt detected 
+C) AC ON 
+D) Door closed normally 
+Answers: 1-B, 2-B, 3-B, 4-A, 5-B 
+ 
+B. Park Assist System 
+1. Parking sensors use: 
+A) Infrared waves 
+B) Ultrasonic waves 
+C) Radio waves 
+D) Microwave 
+2. Park assist helps in: 
+A) Lane changing 
+B) Accurate parking 
+C) Fuel control 
+D) Suspension control 
+3. Reverse gear activates: 
+A) Wiper 
+B) Parking sensors 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+27 
+ 
+C) Headlights 
+D) AC 
+Answers: 1-B, 2-B, 3-B 
+ 
+C. Automatic Headlight Systems 
+1. Automatic headlight sensor detects: 
+A) Engine temperature 
+B) Light intensity 
+C) Vehicle speed 
+D) Obstacle distance 
+2. Automatic dimming works using: 
+A) Ultrasonic sensor 
+B) Light sensor 
+C) Speed sensor 
+D) Temperature sensor 
+3. Delay off headlight means: 
+A) Light stays ON after ignition OFF 
+B) Light stays ON while driving 
+C) Light OFF immediately 
+D) Light blinks 
+Answers: 1-B, 2-B, 3-A 
+ 
+D. GPS & GPRS 
+1. GPS stands for: 
+A) Global Positioning System 
+B) General Packet System 
+C) Global Power Steering 
+D) Graphical Position System 
+2. GPRS is used for: 
+A) Navigation calculation 
+B) Data transmission 
+C) Vehicle braking 
+D) Parking 
+3. GPS works using: 
+A) Mobile towers 
+B) Satellites 
+C) Radar 
+D) Infrared 
+Answers: 1-A, 2-B, 3-B 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+28 
+ 
+11. Sealed Beam Headlight & Anti-Dazzle System 
+1. Sealed beam headlamp means: 
+A) Bulb can be replaced separately 
+B) Entire unit is sealed and replaced together 
+C) Only lens is sealed 
+D) Reflector is open 
+2. Main parts of sealed beam headlamp are: 
+A) Bulb & battery 
+B) Lens, reflector, filament 
+C) Switch & relay 
+D) Fuse & horn 
+3. Dazzle occurs due to: 
+A) Low beam 
+B) High beam 
+C) Parking light 
+D) Fog lamp 
+4. Anti-dazzle mirror helps reduce: 
+A) Engine noise 
+B) Glare from rear vehicles 
+C) Fuel consumption 
+D) Headlight brightness 
+5. Beam control is achieved by: 
+A) Adjusting headlamp angle 
+B) Changing colour 
+C) Changing battery 
+D) Changing horn 
+Answers: 1-B, 2-B, 3-B, 4-B, 5-A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+29 
+ 
+ 
+1. Air Bag System 
+1. Air bag inflates mainly during: 
+A) Side impact 
+B) Rear collision 
+C) Frontal collision 
+D) Minor vibration 
+2. Air bags inflate within: 
+A) 1 second 
+B) 0.1 to 0.3 seconds 
+C) 2 seconds 
+D) After engine stops 
+3. Which sensor is used to detect crash? 
+A) Temperature sensor 
+B) Impact sensor 
+C) Oxygen sensor 
+D) Speed sensor 
+4. Which gas is commonly used for airbag inflation? 
+A) Nitrogen 
+B) Oxygen 
+C) Hydrogen 
+D) Carbon monoxide 
+5. SRS stands for: 
+A) Safety Restraint System 
+B) Supplemental Restraint System 
+C) Secure Restrain System 
+D) Safety Response System 
+✅ Answers: 1-C, 2-B, 3-B, 4-A, 5-B 
+ 
+2. Seat Belt System 
+6. Seat belt prevents: 
+A) Vehicle rollover 
+B) Occupant ejection during crash 
+C) Engine failure 
+D) Tyre burst 
+7. Three-point seat belt includes: 
+A) Lap belt only 
+B) Shoulder belt only 
+C) Lap and shoulder belt 
+D) Neck support 
+8. Seat belt pretensioner function is to: 
+A) Loosen belt 
+B) Tighten belt during collision 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+30 
+ 
+C) Protect engine 
+D) Activate air bag only 
+9. Which material is used in seat belts? 
+A) Rubber 
+B) Nylon 
+C) Steel 
+D) Cotton 
+10. Load limiter helps to: 
+A) Increase belt force 
+B) Reduce chest injury 
+C) Increase speed 
+D) Prevent engine overheating 
+✅ Answers: 6-B, 7-C, 8-B, 9-B, 10-B 
+ 
+3. Central Locking System 
+11. Central locking allows: 
+A) Only driver door locking 
+B) All doors to be locked/unlocked together 
+C) Only boot door locking 
+D) Engine locking 
+12. Central locking system works using: 
+A) Hydraulic actuators 
+B) Pneumatic actuators 
+C) Electrical actuators 
+D) Mechanical rods only 
+13. Remote key system transmits signals via: 
+A) Wires 
+B) RF waves 
+C) Sound waves 
+D) Light waves 
+✅ Answers: 11-B, 12-C, 13-B 
+ 
+4. Collapsible Steering Column 
+14. Main purpose of collapsible steering is to: 
+A) Improve steering efficiency 
+B) Absorb impact energy during crash 
+C) Increase vehicle speed 
+D) Reduce fuel consumption 
+15. In a frontal crash, rigid steering column can: 
+A) Protect driver 
+B) Increase driver injuries 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+31 
+ 
+C) Lock the brakes 
+D) Control vehicle direction 
+16. Collapsible steering column uses: 
+A) Solid steel rod 
+B) Breakaway sleeve / telescopic arrangement 
+C) Plastic shaft 
+D) Rubber coupling only 
+✅ Answers: 14-B, 15-B, 16-B 
+ 
+5. Anti-Lock Braking System (ABS) 
+17. Purpose of ABS is to: 
+A) Increase brake wear 
+B) Prevent wheel locking during braking 
+C) Increase stopping distance 
+D) Reduce fuel consumption 
+18. ABS works by: 
+A) Locking all wheels 
+B) Pumping the brakes manually 
+C) Modulating brake pressure automatically 
+D) Switching off brakes 
+19. Which sensor is used in ABS? 
+A) Pressure sensor 
+B) Wheel speed sensor 
+C) Temperature sensor 
+D) Oxygen sensor 
+20. ABS mainly improves: 
+A) Steering control during braking 
+B) Engine power 
+C) Air conditioning 
+D) Mileage 
+✅ Answers: 17-B, 18-C, 19-B, 20-A 
+ 
+6. Electronic Stability Control (ESC) 
+21. ESC is used to: 
+A) Prevent engine overheating 
+B) Prevent skidding and loss of control 
+C) Improve air conditioning 
+D) Increase speed 
+22. ESC functions by: 
+A) Applying brakes to individual wheels 
+B) Turning off engine 
+
+MCQ’s on 3
+rd
+ & 4
+th
+ Chapter for GE Category Course Four Wheeler Technology AE391H 
+Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur  
+ 
+32 
+ 
+C) Locking steering 
+D) Increasing tyre pressure 
+23. ESC uses which sensors? 
+A) Engine RPM sensor only 
+B) Yaw rate, steering angle and wheel speed sensors 
+C) Fuel sensors only 
+D) Temperature sensors only 
+24. ESC mainly helps during: 
+A) Straight driving 
+B) Driving in curves/slippery roads 
+C) Vehicle washing 
+D) Parking 
+✅ Answers: 21-B, 22-A, 23-B, 24-B 
+ 
+BONUS: Mixed Safety System Questions 
+25. Which system works together with ABS to improve control? 
+A) Power steering 
+B) ESC 
+C) AC system 
+D) Horn 
+26. Which safety device reduces head and chest injuries? 
+A) Air bag 
+B) Fuse 
+C) GPS 
+D) Tyre 
+27. Which provides primary safety? 
+A) Seat belt 
+B) Air bag 
+C) ESC 
+D) Central locking 
+28. Which prevents car from rolling back on slopes? 
+A) Hill Hold Control 
+B) Central locking 
+C) ABS 
+D) Air bag 
+✅ Answers: 25-B, 26-A, 27-A, 28-A 
+ 
+ 
+ 
+ 

@@ -1,0 +1,2466 @@
+[
+  {
+    "id": 1,
+    "question": "Which refrigerant replaced R-134a in most modern car HVAC systems due to environmental concerns?",
+    "options": [
+      "R-12",
+      "R-22",
+      "R-1234yf",
+      "R-410A"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "The main environmental problem caused by old refrigerants like R-12 was:",
+    "options": [
+      "Global warming only",
+      "Ozone layer depletion",
+      "Acid rain",
+      "Water pollution"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Which gas from car AC systems contributes to global warming?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Refrigerant gas",
+      "Nitrogen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "The Global Warming Potential (GWP) of R-1234yf is:",
+    "options": [
+      "Very high",
+      "Moderate",
+      "Very low",
+      "Zero"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Which safety device protects the AC system from over-pressure?",
+    "options": [
+      "Evaporator",
+      "Condenser",
+      "Pressure relief valve",
+      "Receiver dryer"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a personal safety precaution for AC servicing?",
+    "options": [
+      "Wearing loose clothes",
+      "Avoiding goggles",
+      "Wearing gloves and safety glasses",
+      "Disconnecting battery is unnecessary"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Refrigerant leaks are dangerous mainly because they:",
+    "options": [
+      "Smell bad",
+      "Are expensive",
+      "Reduce oxygen level in closed areas",
+      "Make engine noisy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Which tool is used to detect refrigerant leakage?",
+    "options": [
+      "Thermostat",
+      "Manifold gauge MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 2",
+      "Leak detector",
+      "Ammeter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "Why should refrigerant never be vented into the atmosphere?",
+    "options": [
+      "It damages compressor",
+      "It increases cooling",
+      "It harms the environment",
+      "It reduces airflow"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Which component removes moisture from the refrigerant?",
+    "options": [
+      "Condenser",
+      "Receiver-drier",
+      "Compressor",
+      "Expansion valve B. Fundamentals of Refrigeration and Air Conditioning"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Refrigeration is the process of:",
+    "options": [
+      "Heating a space",
+      "Cooling a space below atmospheric temperature",
+      "Removing humidity",
+      "Supplying hot air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "The working fluid in refrigeration is called:",
+    "options": [
+      "Coolant",
+      "Refrigerant",
+      "Lubricant",
+      "Water"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "In an air conditioning system, the main function of the evaporator is to:",
+    "options": [
+      "Compress gas",
+      "Absorb heat",
+      "Reject heat",
+      "Pump refrigerant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which component increases the pressure of the refrigerant?",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Expansion valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Air conditioning controls all except:",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Air cleanliness MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 3",
+      "Fuel consumption"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 16,
+    "question": "The SI unit of refrigeration capacity is:",
+    "options": [
+      "Watt",
+      "Joule",
+      "Watt or kW",
+      "Pascal"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "The function of a condenser in an AC system is to:",
+    "options": [
+      "Absorb heat",
+      "Reject heat to atmosphere",
+      "Increase pressure",
+      "Reduce temperature only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "The device used to measure temperature is:",
+    "options": [
+      "Hygrometer",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "Relative humidity is defined as:",
+    "options": [
+      "Amount of dry air",
+      "Amount of moisture compared to maximum moisture air can hold",
+      "Air pressure difference",
+      "Cooling capacity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "Air-conditioning is different from refrigeration because it also controls:",
+    "options": [
+      "Pressure",
+      "Only temperature",
+      "Humidity and air purity",
+      "Speed of air C. Vapour Compression Cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "The vapour compression cycle has how many main components?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "The function of the expansion valve is to:",
+    "options": [
+      "Increase pressure",
+      "Decrease pressure",
+      "Absorb heat",
+      "Reject heat MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 4"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "In which component does refrigerant absorb heat?",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Expansion valve"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "Which process occurs in the compressor?",
+    "options": [
+      "Heat absorption",
+      "Condensation",
+      "Isentropic compression",
+      "Throttling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "Heat rejection occurs in the:",
+    "options": [
+      "Evaporator",
+      "Compressor",
+      "Condenser",
+      "Expansion device"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "In a vapour compression cycle, the refrigerant leaves the evaporator as:",
+    "options": [
+      "Liquid",
+      "Superheated vapour",
+      "Subcooled liquid",
+      "Wet vapour"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "The expansion process occurs at:",
+    "options": [
+      "Constant pressure",
+      "Constant temperature",
+      "Constant enthalpy",
+      "Constant volume"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "The refrigerant enters condenser as:",
+    "options": [
+      "Low pressure liquid",
+      "High pressure vapour",
+      "Low pressure vapour",
+      "High pressure liquid"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "Which cycle is used in car AC systems?",
+    "options": [
+      "Steam power cycle",
+      "Vapour absorption cycle",
+      "Vapour compression cycle",
+      "Rankine cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "COP of a refrigeration system is defined as:",
+    "options": [
+      "Work done / Heat absorbed",
+      "Heat rejected / Work input",
+      "Heat absorbed / Work input",
+      "Work input / Heat rejected MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 5 A. Components of Car Air Conditioning System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 31,
+    "question": "The main function of the compressor in a car AC system is to:",
+    "options": [
+      "Store refrigerant",
+      "Increase pressure of refrigerant",
+      "Cool the refrigerant",
+      "Absorb heat from cabin"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "Which component converts high-pressure refrigerant gas into liquid?",
+    "options": [
+      "Evaporator",
+      "Compressor",
+      "Condenser",
+      "Receiver drier"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 33,
+    "question": "The expansion valve in the AC system:",
+    "options": [
+      "Increases refrigerant temperature",
+      "Reduces refrigerant pressure",
+      "Removes moisture",
+      "Compresses gas"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "The evaporator is usually located:",
+    "options": [
+      "In front of the radiator",
+      "Inside the dashboard",
+      "Near the engine block",
+      "Under the car"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 35,
+    "question": "Which component removes moisture from refrigerant?",
+    "options": [
+      "Condenser",
+      "Receiver-drier",
+      "Expansion valve",
+      "Compressor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 36,
+    "question": "Refrigerant in a car AC absorbs heat inside the:",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Receiver drier"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is NOT a part of a car AC system?",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Fuel injector",
+      "Compressor MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 6 B. Layout and Operation of HVAC System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 38,
+    "question": "The blower motor is used to:",
+    "options": [
+      "Cool engine",
+      "Circulate air in the cabin",
+      "Reduce fuel consumption",
+      "Lubricate compressor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 39,
+    "question": "The cabin air filter is located:",
+    "options": [
+      "Before the compressor",
+      "In air intake duct",
+      "Inside the condenser",
+      "In refrigerant pipe"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "The mode door in HVAC system controls:",
+    "options": [
+      "Refrigerant flow",
+      "Engine speed",
+      "Direction of airflow",
+      "Pressure of refrigerant"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 41,
+    "question": "In heating mode, warm air is produced using:",
+    "options": [
+      "Hot exhaust gases",
+      "Hot engine coolant",
+      "Hot compressor oil",
+      "Hot radiator fan air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 42,
+    "question": "Recirculation flap helps to:",
+    "options": [
+      "Increase fuel efficiency",
+      "Prevent refrigerant leakage",
+      "Recirculate cabin air",
+      "Increase compressor speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 43,
+    "question": "In defrost mode, air is mainly directed towards:",
+    "options": [
+      "Rear seats",
+      "Side doors",
+      "Windshield",
+      "Floor MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 7 C. Heating System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 44,
+    "question": "The heater core works as:",
+    "options": [
+      "A compressor",
+      "A small radiator",
+      "An expansion valve",
+      "A condenser"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "Hot engine coolant flows from which part to the heater core?",
+    "options": [
+      "Fuel tank",
+      "Exhaust pipe",
+      "Engine block / cylinder head",
+      "Brake lines"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 46,
+    "question": "The main source of heat for automobile heating system is:",
+    "options": [
+      "Battery",
+      "Engine waste heat",
+      "Outside air",
+      "Exhaust muffler"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 47,
+    "question": "The function of heater control valve is to:",
+    "options": [
+      "Control refrigerant pressure",
+      "Control coolant flow to heater core",
+      "Control speed of blower",
+      "Control temperature sensor D. Ventilation System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "The purpose of ventilation in a car is to:",
+    "options": [
+      "Heat the engine",
+      "Supply fresh air",
+      "Increase tyre pressure",
+      "Improve acceleration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "Which component removes dust before air enters the cabin?",
+    "options": [
+      "Expansion valve",
+      "Condenser",
+      "Cabin air filter",
+      "Radiator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 50,
+    "question": "The blower motor in ventilation system is used to:",
+    "options": [
+      "Push refrigerant into condenser",
+      "Draw in and circulate air",
+      "Compress air",
+      "Cool engine oil MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 8 A. MCQs on Human Comfort Conditions"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "The comfortable temperature range for most people is:",
+    "options": [
+      "10–15°C",
+      "18–27°C",
+      "30–40°C",
+      "0–10°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "The ideal relative humidity for human comfort lies between:",
+    "options": [
+      "10–20%",
+      "20–30%",
+      "40–60%",
+      "80–100%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 53,
+    "question": "High air velocity in a room causes:",
+    "options": [
+      "Better comfort",
+      "Skin dryness",
+      "Feeling of cold discomfort",
+      "No effect"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "Human comfort mainly depends on:",
+    "options": [
+      "Temperature only",
+      "Humidity only",
+      "Air motion only",
+      "Temperature, humidity and air motion"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 55,
+    "question": "Which of the following reduces body heat through evaporation?",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "Evaporation of sweat",
+      "Convection"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "The ideal air velocity for human comfort in air conditioning is:",
+    "options": [
+      "0.1 – 0.25 m/s",
+      "1 – 2 m/s",
+      "4 – 5 m/s",
+      "10 m/s"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "High relative humidity causes:",
+    "options": [
+      "Faster sweat evaporation",
+      "Slower sweat evaporation",
+      "Body cooling increases",
+      "No effect on comfort"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "Which factor does NOT affect human comfort directly?",
+    "options": [
+      "Air temperature",
+      "Noise level MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 9",
+      "Relative humidity",
+      "Air movement"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "Human body loses maximum heat through:",
+    "options": [
+      "Evaporation",
+      "Radiation",
+      "Conduction",
+      "Respiration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "The comfort zone is shown on:",
+    "options": [
+      "T–S diagram",
+      "P–V diagram",
+      "Psychrometric chart",
+      "Mollier diagram ✅ B. MCQs on Refrigerants Used in Car Air Conditioning & Their Properties"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 61,
+    "question": "Which refrigerant is most commonly used in modern car AC systems?",
+    "options": [
+      "R-12",
+      "R-134a",
+      "R-22",
+      "R-410A"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 62,
+    "question": "Which refrigerant is widely used now due to its low global warming potential (GWP)?",
+    "options": [
+      "R-12",
+      "R-1234yf",
+      "R-404A",
+      "R-717"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 63,
+    "question": "The main reason R-12 was banned is because it:",
+    "options": [
+      "Is expensive",
+      "Causes ozone depletion",
+      "Has low efficiency",
+      "Causes corrosion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Which property is important for a good refrigerant?",
+    "options": [
+      "High boiling point",
+      "High toxicity",
+      "High latent heat of vaporization",
+      "High viscosity"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 65,
+    "question": "Which of the following refrigerants is ozone-friendly?",
+    "options": [
+      "R-12",
+      "R-22 MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 10",
+      "R-1234yf",
+      "R-11"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "Which refrigerant has zero Ozone Depletion Potential (ODP)?",
+    "options": [
+      "R-12",
+      "R-134a",
+      "R-1234yf",
+      "Both B and C"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 67,
+    "question": "The chemical name of R-134a is:",
+    "options": [
+      "Dichlorodifluoromethane",
+      "Tetrafluoroethane",
+      "Chlorodifluoromethane",
+      "Ammonia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 68,
+    "question": "Which refrigerant has very low Global Warming Potential compared to R-134a?",
+    "options": [
+      "R-22",
+      "R-12",
+      "R-1234yf",
+      "R-407C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 69,
+    "question": "The refrigerant used should be:",
+    "options": [
+      "Highly flammable",
+      "Highly toxic",
+      "Chemically stable",
+      "Highly corrosive"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 70,
+    "question": "Which refrigerant is non-toxic and non-flammable?",
+    "options": [
+      "R-717 (Ammonia)",
+      "R-12",
+      "R-134a",
+      "R-600a MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 11 A. MCQs on Refrigerant Charging Process for Car AC System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 71,
+    "question": "Before charging refrigerant, the system should be:",
+    "options": [
+      "Heated",
+      "Pressurized",
+      "Evacuated",
+      "Oiled"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 72,
+    "question": "Why is vacuum created before charging refrigerant?",
+    "options": [
+      "To increase pressure",
+      "To remove air and moisture",
+      "To cool the pipes",
+      "To test compressor speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 73,
+    "question": "Which instrument is used to measure high and low side pressure during charging?",
+    "options": [
+      "Thermometer",
+      "Manifold gauge set",
+      "Hydrometer",
+      "Voltmeter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 74,
+    "question": "Undercharging the AC system results in:",
+    "options": [
+      "Excess cooling",
+      "Compressor damage",
+      "Reduced cooling effect",
+      "Frost on condenser"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 75,
+    "question": "Overcharging the refrigerant causes:",
+    "options": [
+      "Low pressure",
+      "No cooling",
+      "Higher system pressure",
+      "Freezing of evaporator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "Refrigerant should be charged in which state through the low-pressure side?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Vapor",
+      "Plasma"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "Which component indicates correct refrigerant level in older systems?",
+    "options": [
+      "Sight glass",
+      "Thermostat",
+      "Clutch coil",
+      "Fan motor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 78,
+    "question": "Which safety precaution is necessary during refrigerant charging?",
+    "options": [
+      "Keep system near fire",
+      "Wear safety gloves and goggles",
+      "Touch refrigerant directly MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 12",
+      "Work in closed room"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 79,
+    "question": "The standard method of charging refrigerant in car AC is based on:",
+    "options": [
+      "Time method",
+      "Pressure method",
+      "Weight method",
+      "Temperature method"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "After charging, which step should be performed?",
+    "options": [
+      "Disconnect compressor belt",
+      "Check for leaks",
+      "Switch off blower",
+      "Open expansion valve ✅ B. MCQs on Temperature Control System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 81,
+    "question": "The main function of the temperature control system is to:",
+    "options": [
+      "Control vehicle speed",
+      "Maintain desired cabin temperature",
+      "Control fuel injection",
+      "Reduce engine load"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 82,
+    "question": "The temperature sensor in a car HVAC system senses:",
+    "options": [
+      "Engine temperature",
+      "Outside temperature only",
+      "Cabin air temperature",
+      "Tyre temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 83,
+    "question": "In automatic climate control, temperature is controlled by:",
+    "options": [
+      "Driver manually",
+      "ECU and sensors",
+      "Expansion valve only",
+      "Radiator"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 84,
+    "question": "Which component controls mixed hot and cold air?",
+    "options": [
+      "Compressor",
+      "Condenser",
+      "Blend door",
+      "Evaporator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "The thermostat in an HVAC system is used to:",
+    "options": [
+      "Control refrigerant pressure",
+      "Sense cabin temperature",
+      "Control compressor ON/OFF",
+      "Control blower speed MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 13"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "Increasing blower speed will generally:",
+    "options": [
+      "Decrease cooling",
+      "Increase cooling",
+      "Stop compressor",
+      "Increase humidity ✅ C. MCQs on Humidity Control Systems"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 87,
+    "question": "Which component helps in dehumidification in AC?",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Compressor",
+      "Expansion valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "Dehumidification occurs when:",
+    "options": [
+      "Air passes over warm coil",
+      "Air passes over cold evaporator coil",
+      "Air passes through radiator",
+      "Air flows at high speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 89,
+    "question": "Moist air loses its moisture due to:",
+    "options": [
+      "Increase in pressure",
+      "Condensation of vapor",
+      "Increase in temperature",
+      "Air compression"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "High humidity inside car cabin causes:",
+    "options": [
+      "Better comfort",
+      "Faster cooling",
+      "Fogging of glass",
+      "Lower temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "The device used to measure relative humidity is:",
+    "options": [
+      "Barometer",
+      "Hygrometer",
+      "Anemometer",
+      "Manometer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Which of these increases humidity control efficiency?",
+    "options": [
+      "Higher evaporator temperature",
+      "Lower evaporator temperature",
+      "Lower blower speed always",
+      "Turning off AC 23. MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 14 A. Keyless Entry System – Purpose & Operation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 93,
+    "question": "The main purpose of a keyless entry system is to:",
+    "options": [
+      "Improve engine power",
+      "Enable remote locking/unlocking of doors",
+      "Increase fuel efficiency",
+      "Control HVAC system"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 94,
+    "question": "Which component sends the signal in a keyless entry system?",
+    "options": [
+      "Door actuator",
+      "Car ECU",
+      "Key fob (Transmitter)",
+      "Receiver motor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 95,
+    "question": "Keyless entry systems generally operate using:",
+    "options": [
+      "Infrared waves",
+      "Bluetooth only",
+      "Radio Frequency (RF) signals",
+      "Sound waves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "In a keyless entry system, the receiver is located:",
+    "options": [
+      "Inside the key",
+      "Inside the door lock",
+      "Inside the vehicle body",
+      "Near the battery"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 97,
+    "question": "Rolling code technology is used in keyless systems to:",
+    "options": [
+      "Increase signal range",
+      "Reduce battery usage",
+      "Prevent theft by code duplication",
+      "Improve door motor speed ✅ B. Common Anti-Theft System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 98,
+    "question": "The main function of an anti-theft system is to:",
+    "options": [
+      "Increase car speed",
+      "Prevent unauthorized vehicle use",
+      "Improve braking",
+      "Improve suspension"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 99,
+    "question": "An engine immobilizer works by:",
+    "options": [
+      "Locking the steering wheel",
+      "Cutting fuel or ignition system",
+      "Locking the doors",
+      "Activating the horn MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 15"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is an active anti-theft device?",
+    "options": [
+      "Steering wheel lock",
+      "Gear lock",
+      "Car alarm system",
+      "Sunshade"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 101,
+    "question": "Which sensor detects unauthorised entry into a car?",
+    "options": [
+      "Oxygen sensor",
+      "Door sensor",
+      "Temperature sensor",
+      "MAF sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "A vehicle immobilizer compares the:",
+    "options": [
+      "Engine RPM",
+      "Fuel pressure",
+      "Key code with ECU data",
+      "Door position ✅ C. Automatic Door Lock System"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 103,
+    "question": "Automatic door lock system function is to:",
+    "options": [
+      "Lock doors when car reaches a certain speed",
+      "Lock only driver’s door",
+      "Prevent engine overheating",
+      "Increase tyre pressure"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 104,
+    "question": "In many cars, automatic door locking activates when speed crosses:",
+    "options": [
+      "5 km/h",
+      "10–15 km/h",
+      "40 km/h",
+      "80 km/h"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 105,
+    "question": "Which sensor supports automatic door locking?",
+    "options": [
+      "Oxygen sensor",
+      "Speed sensor",
+      "Rain sensor",
+      "Temperature sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 106,
+    "question": "The central locking system is controlled by:",
+    "options": [
+      "Radiator",
+      "Body Control Module (BCM)",
+      "Alternator",
+      "ECU only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 107,
+    "question": "Automatic unlocking usually happens:",
+    "options": [
+      "When AC is turned off MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 16",
+      "When airbags deploy",
+      "When speed increases",
+      "When headlights turn on ✅ D. Park Assist System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 108,
+    "question": "The main function of a park assist system is to:",
+    "options": [
+      "Increase braking power",
+      "Help driver park safely",
+      "Increase engine RPM",
+      "Boost battery power"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 109,
+    "question": "Park assist system uses which type of sensor most commonly?",
+    "options": [
+      "Temperature sensor",
+      "Ultrasonic sensor",
+      "Pressure sensor",
+      "Oxygen sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 110,
+    "question": "The park assist system gives warning through:",
+    "options": [
+      "Engine sound",
+      "Dashboard lights only",
+      "Beeps and display indication",
+      "Horn only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "In automatic park assist, steering is controlled by:",
+    "options": [
+      "Driver",
+      "Steering ECU",
+      "Brake system",
+      "GPS"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "Park assist sensors are usually mounted on:",
+    "options": [
+      "Roof of the car",
+      "Side mirrors",
+      "Front and rear bumpers",
+      "Inside tyres MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 17 A. Automatic Headlight Dimming"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "The main purpose of automatic headlight dimming is to:",
+    "options": [
+      "Increase battery voltage",
+      "Prevent dazzling of oncoming vehicles",
+      "Make headlights brighter",
+      "Improve fuel economy"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 114,
+    "question": "Automatic headlight dimming mainly works based on:",
+    "options": [
+      "Vehicle speed",
+      "Ambient light and oncoming vehicle light intensity",
+      "Engine temperature",
+      "Steering angle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 115,
+    "question": "Which sensor is used in automatic headlight dimming?",
+    "options": [
+      "Ultrasonic sensor",
+      "Light sensor / Photodiode",
+      "Oxygen sensor",
+      "Speed sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 116,
+    "question": "When an oncoming vehicle is detected, the headlight system automatically switches from:",
+    "options": [
+      "Low beam to fog beam",
+      "Low beam to parking light",
+      "High beam to low beam",
+      "High beam to off"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 117,
+    "question": "The control of automatic dimming is handled by:",
+    "options": [
+      "Ignition switch",
+      "Driver manually",
+      "Body Control Module (BCM)",
+      "Dashboard switch only ✅ B. Automatic On/Off Headlights with Time Delay"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "Automatic headlight ON/OFF system automatically switches headlights:",
+    "options": [
+      "Based on fuel level",
+      "According to light intensity",
+      "Based on engine temperature",
+      "Based on battery voltage only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 119,
+    "question": "The time delay in automatic headlight system is mainly used to:",
+    "options": [
+      "Save fuel",
+      "Prevent frequent switching due to sudden light changes MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 18",
+      "Increase headlamp brightness",
+      "Reduce engine load"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "Which sensor supports automatic ON/OFF headlights?",
+    "options": [
+      "Rain sensor",
+      "Light sensor",
+      "Speed sensor",
+      "Temperature sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 121,
+    "question": "The headlight usually turns ON automatically when:",
+    "options": [
+      "Sunlight is strong",
+      "Car is parked",
+      "Ambient light falls below a set level",
+      "Speed increases"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "The “Follow-me-home” headlight feature is related to:",
+    "options": [
+      "Fog lights operation",
+      "Automatic delay OFF headlight",
+      "Brake light operation",
+      "Turn signal system ✅ C. Navigation Systems: GPS & GPRS"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "GPS stands for:",
+    "options": [
+      "Global Position Sensor",
+      "Global Position System",
+      "Geographical Position Satellite",
+      "General Position System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 124,
+    "question": "GPS system helps in:",
+    "options": [
+      "Engine tuning",
+      "Vehicle location tracking",
+      "Fuel injection",
+      "Airbag deployment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "GPRS is mainly used in cars for:",
+    "options": [
+      "Wireless braking system",
+      "Mobile data communication",
+      "Cooling system control",
+      "Engine lubrication"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "GPRS stands for:",
+    "options": [
+      "Global Packet Radio Service",
+      "General Packet Routing System",
+      "Global Position Radio Service MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 19",
+      "General Position Routing System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 127,
+    "question": "Which component receives GPS signals from satellites?",
+    "options": [
+      "ECU",
+      "GPS receiver/antenna",
+      "BCM",
+      "Engine sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 128,
+    "question": "GPS requires how many satellites minimum for accurate positioning?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 129,
+    "question": "GPRS mainly helps in:",
+    "options": [
+      "Offline navigation only",
+      "Real-time traffic updates and internet services",
+      "Headlamp brightness control",
+      "Fuel pressure regulation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "Which system works without mobile network?",
+    "options": [
+      "GPRS",
+      "Bluetooth",
+      "GPS",
+      "Wi-Fi"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "GPS navigation uses:",
+    "options": [
+      "Sound waves",
+      "Radio waves",
+      "Infrared waves",
+      "Magnetic waves"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 132,
+    "question": "GPS system accuracy mainly depends on:",
+    "options": [
+      "Vehicle color",
+      "Number of satellites visible",
+      "Battery voltage",
+      "Tyre pressure MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 20"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 134,
+    "question": "Which refrigerant is banned due to high ozone depletion potential?",
+    "options": [
+      "R134a",
+      "R12",
+      "R1234yf",
+      "R410a"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 135,
+    "question": "What is the main environmental issue caused by CFC refrigerants?",
+    "options": [
+      "Global warming",
+      "Noise pollution",
+      "Ozone layer depletion",
+      "Water pollution"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 136,
+    "question": "Which safety device prevents over-pressure in the AC system?",
+    "options": [
+      "Expansion valve",
+      "Pressure relief valve",
+      "Receiver drier",
+      "Accumulator"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 137,
+    "question": "Which component traps moisture to avoid acid formation?",
+    "options": [
+      "Compressor",
+      "Condenser",
+      "Receiver drier",
+      "Evaporator"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 138,
+    "question": "Refrigerant leakage in car AC can cause:",
+    "options": [
+      "Increased cooling",
+      "Corrosion of system",
+      "Engine overheating",
+      "Fuel wastage Answers: 1-B, 2-C, 3-B, 4-C, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 140,
+    "question": "Refrigeration means __________.",
+    "options": [
+      "Heating of space",
+      "Cooling below atmospheric temperature",
+      "Increasing temperature",
+      "Ventilation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 141,
+    "question": "Main function of refrigerant is to:",
+    "options": [
+      "Absorb heat",
+      "Increase pressure",
+      "Reduce humidity",
+      "Provide ventilation MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 21"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 142,
+    "question": "The vapour compression cycle consists of:",
+    "options": [
+      "Compressor, condenser, expansion valve, evaporator",
+      "Fan, blower, motor, filter",
+      "Heater, vents, ducts, blower",
+      "Battery, alternator, motor, fan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 143,
+    "question": "In which component does refrigerant change from vapour to liquid?",
+    "options": [
+      "Evaporator",
+      "Condenser",
+      "Compressor",
+      "Dryer"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 144,
+    "question": "COP of a refrigeration system is:",
+    "options": [
+      "Power input / Cooling effect",
+      "Cooling effect / Power input",
+      "Heat rejected / Work done",
+      "Work done / Heat absorbed Answers: 1-B, 2-A, 3-A, 4-B, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 146,
+    "question": "Which compresses refrigerant gas?",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Compressor",
+      "Receiver"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 147,
+    "question": "Which component cools and condenses refrigerant?",
+    "options": [
+      "Compressor",
+      "Evaporator",
+      "Condenser",
+      "Blower"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 148,
+    "question": "Function of expansion valve is to:",
+    "options": [
+      "Increase pressure",
+      "Control refrigerant flow",
+      "Absorb heat",
+      "Compress gas"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 149,
+    "question": "Which device stores liquid refrigerant?",
+    "options": [
+      "Receiver drier",
+      "Evaporator",
+      "Fan",
+      "Compressor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 150,
+    "question": "Which removes dust and pollen?",
+    "options": [
+      "Cabin air filter",
+      "Evaporator",
+      "Condenser",
+      "Compressor Answers: 1-C, 2-C, 3-B, 4-A, 5-A MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 22"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 152,
+    "question": "HVAC stands for:",
+    "options": [
+      "Heating, Ventilation and Air Conditioning",
+      "High Voltage Air Cooling",
+      "Heating, Vapour and AC",
+      "Heater Ventilation Application"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 153,
+    "question": "Blower motor function is:",
+    "options": [
+      "Flow refrigerant",
+      "Circulate air",
+      "Compress refrigerant",
+      "Heat coolant"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 154,
+    "question": "Evaporator is located in:",
+    "options": [
+      "Engine bay",
+      "Condenser area",
+      "Cabin dashboard",
+      "Fuel tank"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 155,
+    "question": "Which controls airflow direction?",
+    "options": [
+      "Expansion valve",
+      "Air vents",
+      "Condenser",
+      "Compressor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 156,
+    "question": "Recirculation mode:",
+    "options": [
+      "Brings fresh air always",
+      "Reuses inside air",
+      "Stops blower",
+      "Heats engine Answers: 1-A, 2-B, 3-C, 4-B, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 158,
+    "question": "Car heating system uses heat from:",
+    "options": [
+      "Exhaust gas",
+      "Battery",
+      "Engine coolant",
+      "Radiator fan"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 159,
+    "question": "Heater core acts like:",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Radiator",
+      "Compressor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 160,
+    "question": "Ventilation system helps in:",
+    "options": [
+      "Increasing engine power MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 23",
+      "Air circulation and fresh air supply",
+      "Fuel injection",
+      "Improving mileage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 161,
+    "question": "Blend door is used for:",
+    "options": [
+      "Mixing hot and cold air",
+      "Compressing refrigerant",
+      "Filtering air",
+      "Cooling engine"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 162,
+    "question": "Heater valve controls:",
+    "options": [
+      "Fuel supply",
+      "Coolant flow",
+      "Air flow",
+      "Oil pressure Answers: 1-C, 2-C, 3-B, 4-A, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 164,
+    "question": "Comfortable temperature range for car occupants is:",
+    "options": [
+      "5–10°C",
+      "18–26°C",
+      "30–40°C",
+      "Above 45°C"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 165,
+    "question": "Comfort humidity range is:",
+    "options": [
+      "10–20%",
+      "30–60%",
+      "70–90%",
+      "90–100%"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 166,
+    "question": "Human comfort depends on:",
+    "options": [
+      "Temperature only",
+      "Humidity only",
+      "Temperature, humidity, air movement",
+      "Sunlight only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 167,
+    "question": "High humidity causes:",
+    "options": [
+      "Excess cooling",
+      "Sweating and discomfort",
+      "Cold sensation",
+      "No effect"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 168,
+    "question": "Air movement improves comfort by:",
+    "options": [
+      "Increasing sweating",
+      "Increasing evaporation of sweat",
+      "Increasing humidity",
+      "Stopping heat loss Answers: 1-B, 2-B, 3-C, 4-B, 5-B MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 24"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 170,
+    "question": "Which refrigerant is currently used in most modern cars?",
+    "options": [
+      "R12",
+      "R22",
+      "R134a",
+      "Ammonia"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 171,
+    "question": "Eco-friendly refrigerant is:",
+    "options": [
+      "R1234yf",
+      "R12",
+      "R500",
+      "R11"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 172,
+    "question": "Main property of refrigerant:",
+    "options": [
+      "Non-toxic",
+      "Non-flammable",
+      "High latent heat",
+      "All of the above"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 173,
+    "question": "Which refrigerant has very low GWP?",
+    "options": [
+      "R134a",
+      "R1234yf",
+      "R22",
+      "R410A"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 174,
+    "question": "Refrigerant should have:",
+    "options": [
+      "High boiling point",
+      "Low boiling point",
+      "High density",
+      "Poor heat transfer Answers: 1-C, 2-A, 3-D, 4-B, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 176,
+    "question": "Refrigerant charging is done:",
+    "options": [
+      "In liquid form",
+      "In gaseous form",
+      "Both",
+      "Solid form"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 177,
+    "question": "Overcharging results in:",
+    "options": [
+      "Poor cooling",
+      "High compressor load",
+      "Both A and B",
+      "Engine stall"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 178,
+    "question": "Undercharging causes:",
+    "options": [
+      "Ice formation",
+      "Reduced cooling",
+      "Compressor noise",
+      "All of the above MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 25"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 179,
+    "question": "Which tool is used for charging?",
+    "options": [
+      "Vacuum pump",
+      "Manifold gauge set",
+      "Screwdriver",
+      "Multimeter"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 180,
+    "question": "Before charging, system should be:",
+    "options": [
+      "Washed",
+      "Dried and evacuated",
+      "Filled with oil",
+      "Heated Answers: 1-C, 2-C, 3-B, 4-B, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 182,
+    "question": "Thermostat is used to:",
+    "options": [
+      "Control engine speed",
+      "Control cabin temperature",
+      "Control blower speed",
+      "Control fuel flow"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 183,
+    "question": "Humidity is reduced by:",
+    "options": [
+      "Heater core",
+      "Evaporator",
+      "Compressor",
+      "Condenser"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 184,
+    "question": "Climate control system is:",
+    "options": [
+      "Manual control",
+      "Automatic control",
+      "Mechanical only",
+      "Electrical only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 185,
+    "question": "Cabin temperature sensor measures:",
+    "options": [
+      "Engine temp",
+      "Outside temp",
+      "Inside temp",
+      "Refrigerant temp"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 186,
+    "question": "Dehumidification occurs when:",
+    "options": [
+      "Air passes through evaporator",
+      "Air passes through heater",
+      "Fan stops",
+      "Air is recirculated Answers: 1-B, 2-B, 3-B, 4-C, 5-A MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 26"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 188,
+    "question": "Keyless entry works using:",
+    "options": [
+      "Bluetooth only",
+      "Infrared or RF signal",
+      "Wired connection",
+      "Mechanical link"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 189,
+    "question": "Immobilizer prevents:",
+    "options": [
+      "Door locking",
+      "Engine starting without authorized key",
+      "Fuel filling",
+      "Brake operation"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 190,
+    "question": "Auto door lock system locks doors when:",
+    "options": [
+      "Engine starts",
+      "Speed exceeds set limit",
+      "Brake applied",
+      "AC switch ON"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 191,
+    "question": "Central locking system:",
+    "options": [
+      "Locks all doors together",
+      "Locks only driver door",
+      "Locks engine",
+      "Locks boot only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 192,
+    "question": "Anti-theft alarm activates when:",
+    "options": [
+      "Ignition ON",
+      "Unauthorized attempt detected",
+      "AC ON",
+      "Door closed normally Answers: 1-B, 2-B, 3-B, 4-A, 5-B B. Park Assist System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 193,
+    "question": "Parking sensors use:",
+    "options": [
+      "Infrared waves",
+      "Ultrasonic waves",
+      "Radio waves",
+      "Microwave"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 194,
+    "question": "Park assist helps in:",
+    "options": [
+      "Lane changing",
+      "Accurate parking",
+      "Fuel control",
+      "Suspension control"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 195,
+    "question": "Reverse gear activates:",
+    "options": [
+      "Wiper",
+      "Parking sensors MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 27",
+      "Headlights",
+      "AC Answers: 1-B, 2-B, 3-B C. Automatic Headlight Systems"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 196,
+    "question": "Automatic headlight sensor detects:",
+    "options": [
+      "Engine temperature",
+      "Light intensity",
+      "Vehicle speed",
+      "Obstacle distance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 197,
+    "question": "Automatic dimming works using:",
+    "options": [
+      "Ultrasonic sensor",
+      "Light sensor",
+      "Speed sensor",
+      "Temperature sensor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 198,
+    "question": "Delay off headlight means:",
+    "options": [
+      "Light stays ON after ignition OFF",
+      "Light stays ON while driving",
+      "Light OFF immediately",
+      "Light blinks Answers: 1-B, 2-B, 3-A D. GPS & GPRS"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 199,
+    "question": "GPS stands for:",
+    "options": [
+      "Global Positioning System",
+      "General Packet System",
+      "Global Power Steering",
+      "Graphical Position System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 200,
+    "question": "GPRS is used for:",
+    "options": [
+      "Navigation calculation",
+      "Data transmission",
+      "Vehicle braking",
+      "Parking"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 201,
+    "question": "GPS works using:",
+    "options": [
+      "Mobile towers",
+      "Satellites",
+      "Radar",
+      "Infrared Answers: 1-A, 2-B, 3-B MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 28"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 203,
+    "question": "Sealed beam headlamp means:",
+    "options": [
+      "Bulb can be replaced separately",
+      "Entire unit is sealed and replaced together",
+      "Only lens is sealed",
+      "Reflector is open"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 204,
+    "question": "Main parts of sealed beam headlamp are:",
+    "options": [
+      "Bulb & battery",
+      "Lens, reflector, filament",
+      "Switch & relay",
+      "Fuse & horn"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 205,
+    "question": "Dazzle occurs due to:",
+    "options": [
+      "Low beam",
+      "High beam",
+      "Parking light",
+      "Fog lamp"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 206,
+    "question": "Anti-dazzle mirror helps reduce:",
+    "options": [
+      "Engine noise",
+      "Glare from rear vehicles",
+      "Fuel consumption",
+      "Headlight brightness"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 207,
+    "question": "Beam control is achieved by:",
+    "options": [
+      "Adjusting headlamp angle",
+      "Changing colour",
+      "Changing battery",
+      "Changing horn Answers: 1-B, 2-B, 3-B, 4-B, 5-A MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 29"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 209,
+    "question": "Air bag inflates mainly during:",
+    "options": [
+      "Side impact",
+      "Rear collision",
+      "Frontal collision",
+      "Minor vibration"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 210,
+    "question": "Air bags inflate within:",
+    "options": [
+      "1 second",
+      "0.1 to 0.3 seconds",
+      "2 seconds",
+      "After engine stops"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 211,
+    "question": "Which sensor is used to detect crash?",
+    "options": [
+      "Temperature sensor",
+      "Impact sensor",
+      "Oxygen sensor",
+      "Speed sensor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 212,
+    "question": "Which gas is commonly used for airbag inflation?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon monoxide"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 213,
+    "question": "SRS stands for:",
+    "options": [
+      "Safety Restraint System",
+      "Supplemental Restraint System",
+      "Secure Restrain System",
+      "Safety Response System ✅ Answers: 1-C, 2-B, 3-B, 4-A, 5-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 215,
+    "question": "Seat belt prevents:",
+    "options": [
+      "Vehicle rollover",
+      "Occupant ejection during crash",
+      "Engine failure",
+      "Tyre burst"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 216,
+    "question": "Three-point seat belt includes:",
+    "options": [
+      "Lap belt only",
+      "Shoulder belt only",
+      "Lap and shoulder belt",
+      "Neck support"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 217,
+    "question": "Seat belt pretensioner function is to:",
+    "options": [
+      "Loosen belt",
+      "Tighten belt during collision MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 30",
+      "Protect engine",
+      "Activate air bag only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 218,
+    "question": "Which material is used in seat belts?",
+    "options": [
+      "Rubber",
+      "Nylon",
+      "Steel",
+      "Cotton"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 219,
+    "question": "Load limiter helps to:",
+    "options": [
+      "Increase belt force",
+      "Reduce chest injury",
+      "Increase speed",
+      "Prevent engine overheating ✅ Answers: 6-B, 7-C, 8-B, 9-B, 10-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 221,
+    "question": "Central locking allows:",
+    "options": [
+      "Only driver door locking",
+      "All doors to be locked/unlocked together",
+      "Only boot door locking",
+      "Engine locking"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 222,
+    "question": "Central locking system works using:",
+    "options": [
+      "Hydraulic actuators",
+      "Pneumatic actuators",
+      "Electrical actuators",
+      "Mechanical rods only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 223,
+    "question": "Remote key system transmits signals via:",
+    "options": [
+      "Wires",
+      "RF waves",
+      "Sound waves",
+      "Light waves ✅ Answers: 11-B, 12-C, 13-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 225,
+    "question": "Main purpose of collapsible steering is to:",
+    "options": [
+      "Improve steering efficiency",
+      "Absorb impact energy during crash",
+      "Increase vehicle speed",
+      "Reduce fuel consumption"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 226,
+    "question": "In a frontal crash, rigid steering column can:",
+    "options": [
+      "Protect driver",
+      "Increase driver injuries MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 31",
+      "Lock the brakes",
+      "Control vehicle direction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 227,
+    "question": "Collapsible steering column uses:",
+    "options": [
+      "Solid steel rod",
+      "Breakaway sleeve / telescopic arrangement",
+      "Plastic shaft",
+      "Rubber coupling only ✅ Answers: 14-B, 15-B, 16-B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 229,
+    "question": "Purpose of ABS is to:",
+    "options": [
+      "Increase brake wear",
+      "Prevent wheel locking during braking",
+      "Increase stopping distance",
+      "Reduce fuel consumption"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 230,
+    "question": "ABS works by:",
+    "options": [
+      "Locking all wheels",
+      "Pumping the brakes manually",
+      "Modulating brake pressure automatically",
+      "Switching off brakes"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 231,
+    "question": "Which sensor is used in ABS?",
+    "options": [
+      "Pressure sensor",
+      "Wheel speed sensor",
+      "Temperature sensor",
+      "Oxygen sensor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 232,
+    "question": "ABS mainly improves:",
+    "options": [
+      "Steering control during braking",
+      "Engine power",
+      "Air conditioning",
+      "Mileage ✅ Answers: 17-B, 18-C, 19-B, 20-A"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 234,
+    "question": "ESC is used to:",
+    "options": [
+      "Prevent engine overheating",
+      "Prevent skidding and loss of control",
+      "Improve air conditioning",
+      "Increase speed"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 235,
+    "question": "ESC functions by:",
+    "options": [
+      "Applying brakes to individual wheels",
+      "Turning off engine MCQ’s on 3 rd & 4 th Chapter for GE Category Course Four Wheeler Technology AE391H Fom Dr.Samir Telang , Department of Automobile Engg.Govt .Polytechnic, Nagpur 32",
+      "Locking steering",
+      "Increasing tyre pressure"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 236,
+    "question": "ESC uses which sensors?",
+    "options": [
+      "Engine RPM sensor only",
+      "Yaw rate, steering angle and wheel speed sensors",
+      "Fuel sensors only",
+      "Temperature sensors only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 237,
+    "question": "ESC mainly helps during:",
+    "options": [
+      "Straight driving",
+      "Driving in curves/slippery roads",
+      "Vehicle washing",
+      "Parking ✅ Answers: 21-B, 22-A, 23-B, 24-B BONUS: Mixed Safety System Questions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 238,
+    "question": "Which system works together with ABS to improve control?",
+    "options": [
+      "Power steering",
+      "ESC",
+      "AC system",
+      "Horn"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 239,
+    "question": "Which safety device reduces head and chest injuries?",
+    "options": [
+      "Air bag",
+      "Fuse",
+      "GPS",
+      "Tyre"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 240,
+    "question": "Which provides primary safety?",
+    "options": [
+      "Seat belt",
+      "Air bag",
+      "ESC",
+      "Central locking"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 241,
+    "question": "Which prevents car from rolling back on slopes?",
+    "options": [
+      "Hill Hold Control",
+      "Central locking",
+      "ABS",
+      "Air bag ✅ Answers: 25-B, 26-A, 27-A, 28-A"
+    ],
+    "answerIndex": 0
+  }
+]
