@@ -117,24 +117,33 @@ function attemptAutoParse(text) {
   
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
-    
-    // Detect question (starts with number followed by dot)
-    if (/^\d+[\.\)]\s+/.test(line)) {
+
+    // Detect question (supports formats like "Q1." or "1)")
+    const questionMatch = line.match(/^(?:Q\s*)?(\d+)[\.\)]\s+(.*)$/i);
+    if (questionMatch) {
       if (currentQuestion && currentQuestion.options.length === 4) {
         questions.push(currentQuestion);
       }
-      
+
+      const [, questionNumber, questionText] = questionMatch;
+
       currentQuestion = {
-        id: questionId++,
-        question: line.replace(/^\d+[\.\)]\s+/, ''),
+        id: Number(questionNumber) || questionId++,
+        question: questionText,
         options: [],
         answerIndex: 0 // Default
       };
+
+      // Keep internal counter in sync in case numbering resets
+      questionId = currentQuestion.id + 1;
+      continue;
     }
-    // Detect options (starts with a), b), c), or d))
-    else if (currentQuestion && /^[a-d][\)\]]/i.test(line)) {
-      const option = line.replace(/^[a-d][\)\]]\s*/i, '');
+
+    // Detect options (starts with A./B)/C])
+    if (currentQuestion && /^[a-d][\.\)\]]/i.test(line)) {
+      const option = line.replace(/^[a-d][\.\)\]]\s*/i, '');
       currentQuestion.options.push(option);
+      continue;
     }
     // Detect answer (contains ✅ Answer: or Answer:)
     else if (currentQuestion && /✅?\s*Answer:\s*[a-d]/i.test(line)) {
