@@ -27,7 +27,7 @@ try {
   process.exit(1);
 }
 
-const DEFAULT_PDF = path.join(__dirname, '..', "GE MCQ's pdf.pdf");
+const DEFAULT_PDF = path.join(__dirname, '..', 'final_exam.pdf');
 const OUTPUT_PATH = path.join(__dirname, '..', 'public', 'questions.json');
 
 function resolvePdfPath() {
@@ -76,7 +76,7 @@ async function convertPdfToJson() {
     console.log('Please follow these steps:');
     console.log('1. Review the raw text in pdf-raw-text.txt');
     console.log('2. Manually format questions into the JSON structure');
-    console.log('3. Save the result as public/questions.json');
+    console.log('3. Save the result as public/questions.json (sourced from final_exam.pdf)');
     console.log('\nSee public/questions.json for the required format.');
 
     // Attempt basic parsing (this is a simple example and may need adjustment)
