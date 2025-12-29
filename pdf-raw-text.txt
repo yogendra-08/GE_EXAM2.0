@@ -1892,3 +1892,2169 @@ C. Trial-and-error replacement
 D. Vehicle color
 
 Answer: B
+1. Which refrigerant replaced R-134a in most modern car HVAC systems due to 
+environmental concerns? 
+A) R-12 
+B) R-22 
+C) R-1234yf 
+D) R-410A 
+✅ Answer: C 
+2. The main environmental problem caused by old refrigerants like R-12 was: 
+A) Global warming only 
+B) Ozone layer depletion 
+C) Acid rain 
+D) Water pollution 
+✅ Answer: B 
+3. Which gas from car AC systems contributes to global warming? 
+A) Oxygen 
+B) Carbon dioxide 
+C) Refrigerant gas 
+D) Nitrogen 
+✅ Answer: C 
+4. The Global Warming Potential (GWP) of R-1234yf is: 
+A) Very high 
+B) Moderate 
+C) Very low 
+D) Zero 
+✅ Answer: C 
+5. Which safety device protects the AC system from over-pressure? 
+A) Evaporator 
+B) Condenser 
+C) Pli f   l
+
+C) Pressure relief valve 
+D) Receiver dryer 
+✅ Answer: C 
+6. Which of the following is a personal safety precaution for AC servicing? 
+A) Wearing loose clothes 
+B) Avoiding goggles 
+C) Wearing gloves and safety glasses 
+D) Disconnecting battery is unnecessary 
+✅ Answer: C 
+7. Refrigerant leaks are dangerous mainly because they: 
+A) Smell bad 
+B) Are expensive 
+C) Reduce oxygen level in closed areas 
+D) Make engine noisy 
+✅ Answer: C 
+8. Which tool is used to detect refrigerant leakage? 
+A) Thermostat 
+B) Manifold gauge 
+C) Leak detector 
+D) Ammeter 
+✅ Answer: C 
+9. Why should refrigerant never be vented into the atmosphere? 
+A) It damages compressor 
+B) It increases cooling 
+C) It harms the environment 
+D) It reduces airflow 
+✅ Answer: C 
+10. Which component removes moisture from the refrigerant? 
+A) Condenser 
+B) Receiver-drier 
+C) Compressor 
+
+D) Expansion valve 
+✅ Answer: B 
+11. Refrigeration is the process of: 
+A) Heating a space 
+B) Cooling a space below atmospheric temperature 
+C) Removing humidity 
+D) Supplying hot air 
+✅ Answer: B 
+12. The working fluid in refrigeration is called: 
+A) Coolant 
+B) Refrigerant 
+C) Lubricant 
+D) Water 
+✅ Answer: B 
+13. In an air conditioning system, the main function of the evaporator is to: 
+A) Compress gas 
+B) Absorb heat 
+C) Reject heat 
+D) Pump refrigerant 
+✅ Answer: B 
+14. Which component increases the pressure of the refrigerant? 
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Expansion valve 
+✅ Answer: B 
+15. Air conditioning controls all except: 
+A) Temperature 
+B) Humidity 
+C) Air cleanliness 
+D) Fuel consumption 
+✅
+
+✅ Answer: D 
+16. The SI unit of refrigeration capacity is: 
+A) Watt B) Joule C) Watt or kW 
+D) Pascal 
+✅ Answer: C 
+17. The function of a condenser in an AC system is to: 
+A) Absorb heat 
+B) Reject heat to atmosphere 
+C) Increase pressure 
+D) Reduce temperature only 
+✅ Answer: B 
+18. The device used to measure temperature is: 
+A) Hygrometer 
+B) Barometer 
+C) Thermometer 
+D) Anemometer 
+✅ Answer: C 
+19. Relative humidity is defined as: 
+A) Amount of dry air 
+B) Amount of moisture compared to maximum moisture air can hold 
+C) Air pressure difference 
+D) Cooling capacity 
+✅ Answer: B 
+20. Air-conditioning is different from refrigeration because it also controls: 
+A) Pressure 
+B) Only temperature 
+C) Humidity and air purity 
+D) Speed of air 
+✅ Answer: C 
+21. The vapour compression cycle has how many main components? 
+
+A) 2 
+B) 3 
+C) 4 
+D) 5 
+✅ Answer: C 
+22. The function of the expansion valve is to: 
+A) Increase pressure 
+B) Decrease pressure 
+C) Absorb heat 
+D) Reject heat 
+✅ Answer: B 
+23. In which component does refrigerant absorb heat? 
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Expansion valve 
+✅ Answer: C 
+24. Which process occurs in the compressor? 
+A) Heat absorption 
+B) Condensation 
+C) Isentropic compression 
+D) Throttling 
+✅ Answer: C 
+25. Heat rejection occurs in the: 
+A) Evaporator 
+B) Compressor 
+C) Condenser 
+D) Expansion device 
+✅ Answer: C 
+26. In a vapour compression cycle, the refrigerant leaves the evaporator as: 
+
+A) Liquid 
+B) Superheated vapour 
+C) Subcooled liquid 
+D) Wet vapour 
+✅ Answer: B 
+27. The expansion process occurs at: 
+A) Constant pressure 
+B) Constant temperature 
+C) Constant enthalpy 
+D) Constant volume 
+✅ Answer: C 
+28. The refrigerant enters condenser as: 
+A) Low pressure liquid 
+B) High pressure vapour 
+C) Low pressure vapour 
+D) High pressure liquid 
+✅ Answer: B 
+29. Which cycle is used in car AC systems? 
+A) Steam power cycle 
+B) Vapour absorption cycle 
+C) Vapour compression cycle 
+D) Rankine cycle 
+✅ Answer: C 
+30. COP of a refrigeration system is defined as: 
+A) Work done / Heat absorbed 
+B) Heat rejected / Work input 
+C) Heat absorbed / Work input 
+D) Work input / Heat rejected 
+✅ Answer: C 
+1. The main function of the compressor in a car AC system is to: 
+
+A) Store refrigerant 
+B) Increase pressure of refrigerant 
+C) Cool the refrigerant 
+D) Absorb heat from cabin 
+✅ Answer: B 
+2. Which component converts high-pressure refrigerant gas into liquid? 
+A) Evaporator 
+B) Compressor 
+C) Condenser 
+D) Receiver drier 
+✅ Answer: C 
+3. The expansion valve in the AC system: 
+A) Increases refrigerant temperature 
+B) Reduces refrigerant pressure 
+C) Removes moisture 
+D) Compresses gas 
+✅ Answer: B 
+4. The evaporator is usually located: 
+A) In front of the radiator 
+B) Inside the dashboard 
+C) Near the engine block 
+D) Under the car 
+✅ Answer: B 
+5. Which component removes moisture from refrigerant? 
+A) Condenser 
+B) Receiver-drier 
+C) Expansion valve 
+D) Compressor 
+✅ Answer: B 
+6. Refrigerant in a car AC absorbs heat inside the: 
+
+A) Condenser 
+B) Compressor 
+C) Evaporator 
+D) Receiver drier 
+✅ Answer: C 
+7. Which of the following is NOT a part of a car AC system? 
+A) Condenser 
+B) Evaporator 
+C) Fuel injector 
+D) Compressor 
+✅ Answer: C 
+8. The blower motor is used to: 
+A) Cool engine 
+B) Circulate air in the cabin 
+C) Reduce fuel consumption 
+D) Lubricate compressor 
+✅ Answer: B 
+9. The cabin air filter is located: 
+A) Before the compressor 
+B) In air intake duct 
+C) Inside the condenser 
+D) In refrigerant pipe 
+✅ Answer: B 
+10. The mode door in HVAC system controls: 
+A) Refrigerant flow 
+B) Engine speed 
+C) Direction of airflow 
+D) Pressure of refrigerant 
+✅ Answer: C 
+
+11. In heating mode, warm air is produced using: 
+A) Hot exhaust gases 
+B) Hot engine coolant 
+C) Hot compressor oil 
+D) Hot radiator fan air 
+✅ Answer: B 
+12. Recirculation flap helps to: 
+A) Increase fuel efficiency 
+B) Prevent refrigerant leakage 
+C) Recirculate cabin air 
+D) Increase compressor speed 
+✅ Answer: C 
+13. In defrost mode, air is mainly directed towards: 
+A) Rear seats 
+B) Side doors 
+C) Windshield 
+D) Floor 
+✅ Answer: C 
+14. The heater core works as: 
+A) A compressor 
+B) A small radiator 
+C) An expansion valve 
+D) A condenser 
+✅ Answer: B 
+15. Hot engine coolant flows from which part to the heater core? 
+A) Fuel tank 
+B) Exhaust pipe 
+C) Engine block / cylinder head 
+D) Brake lines 
+✅ Answer: C 
+
+16. The main source of heat for automobile heating system is: 
+A) Battery 
+B) Engine waste heat 
+C) Outside air 
+D) Exhaust muffler 
+✅ Answer: B 
+17. The function of heater control valve is to: 
+A) Control refrigerant pressure 
+B) Control coolant flow to heater core 
+C) Control speed of blower 
+D) Control temperature sensor 
+✅ Answer: B 
+18. The purpose of ventilation in a car is to: 
+A) Heat the engine 
+B) Supply fresh air 
+C) Increase tyre pressure 
+D) Improve acceleration 
+✅ Answer: B 
+19. Which component removes dust before air enters the cabin? 
+A) Expansion valve 
+B) Condenser 
+C) Cabin air filter 
+D) Radiator 
+✅ Answer: C 
+20. The blower motor in ventilation system is used to: 
+A) Push refrigerant into condenser 
+B) Draw in and circulate air 
+C) Compress air 
+D) Cool engine oil 
+✅ Answer: B 
+
+ 
+1. The comfortable temperature range for most people is: 
+A) 10–15°C 
+B) 18–27°C 
+C) 30–40°C 
+D) 0–10°C 
+✅ Answer: B 
+2. The ideal relative humidity for human comfort lies between: 
+A) 10–20% 
+B) 20–30% 
+C) 40–60% 
+D) 80–100% 
+✅ Answer: C 
+3. High air velocity in a room causes: 
+A) Better comfort 
+B) Skin dryness 
+C) Feeling of cold discomfort 
+D) No effect 
+✅ Answer: C 
+4. Human comfort mainly depends on: 
+A) Temperature only 
+B) Humidity only 
+C) Air motion only 
+D) Temperature, humidity and air motion 
+✅ Answer: D 
+5. Which of the following reduces body heat through evaporation? 
+A) Radiation 
+B) Conduction 
+C) Evaporation of sweat 
+
+D) Convection 
+✅ Answer: C 
+6. The ideal air velocity for human comfort in air conditioning is: 
+A) 0.1 – 0.25 m/s 
+B) 1 – 2 m/s 
+C) 4 – 5 m/s 
+D) 10 m/s 
+✅ Answer: A 
+7. High relative humidity causes: 
+A) Faster sweat evaporation 
+B) Slower sweat evaporation C
+) Body cooling increases 
+D) No effect on comfort 
+✅ Answer: B 
+8. Which factor does NOT affect human comfort directly? 
+A) Air temperature 
+B) Noise level 
+C) Relative humidity 
+D) Air movement 
+✅ Answer: B 
+9. Human body loses maximum heat through: 
+A) Evaporation
+ B) Radiation 
+C) Conduction 
+D) Respiration 
+✅ Answer: B 
+10. The comfort zone is shown on: 
+A) T–S diagram 
+B) P–V diagram 
+C) Psychrometric chart 
+
+D) Mollier diagram 
+✅ Answer: C 
+11. Which refrigerant is most commonly used in modern car AC systems? 
+A) R-12 
+B) R-134a 
+C) R-22 
+D) R-410A 
+✅ Answer: B 
+12. Which refrigerant is widely used now due to its low global warming potential 
+(GWP)? 
+A) R-12 
+B) R-1234yf 
+C) R-404A 
+D) R-717 
+✅ Answer: B 
+13. The main reason R-12 was banned is because it: 
+A) Is expensive 
+B) Causes ozone depletion 
+C) Has low efficiency 
+D) Causes corrosion 
+✅ Answer: B 
+14. Which property is important for a good refrigerant? 
+A) High boiling point 
+B) High toxicity 
+C) High latent heat of vaporization 
+D) High viscosity 
+✅ Answer: C 
+15. Which of the following refrigerants is ozone-friendly? 
+A) R-12 
+B) R-22 
+C) R-1234yf D) R-11 ✅ Answer: C 
+
+16. Which refrigerant has zero Ozone Depletion Potential (ODP)? 
+A) R-12 B) R-134a 
+C) R-1234yf 
+D) Both B and C 
+✅ Answer: D 
+17. The chemical name of R-134a is: 
+A) Dichlorodifluoromethane 
+B) Tetrafluoroethane 
+C) Chlorodifluoromethane 
+D) Ammonia 
+✅ Answer: B 
+18. Which refrigerant has very low Global Warming Potential compared to R-134a? 
+A) R-22 
+B) R-12 
+C) R-1234yf 
+D) R-407C 
+✅ Answer: C 
+19. The refrigerant used should be: 
+A) Highly flammable 
+B) Highly toxic 
+C) Chemically stable 
+D) Highly corrosive 
+✅ Answer: C 
+20. Which refrigerant is non-toxic and non-flammable? 
+A) R-717 (Ammonia) 
+B) R-12 
+C) R-134a 
+D) R-600a 
+✅ Answer: C 
+1. Before charging refrigerant, the system should be: 
+
+A) Heated 
+B) Pressurized 
+C) Evacuated 
+D) Oiled 
+✅ Answer: C 
+2. Why is vacuum created before charging refrigerant? 
+A) To increase pressure 
+B) To remove air and moisture 
+C) To cool the pipes 
+D) To test compressor speed 
+✅ Answer: B 
+3. Which instrument is used to measure high and low side pressure during charging? 
+A) Thermometer 
+B) Manifold gauge set 
+C) Hydrometer 
+D) Voltmeter 
+✅ Answer: B 
+4. Undercharging the AC system results in: 
+A) Excess cooling 
+B) Compressor damage 
+C) Reduced cooling effect 
+D) Frost on condenser 
+✅ Answer: C 
+5. Overcharging the refrigerant causes: 
+A) Low pressure 
+B) No cooling 
+C) Higher system pressure 
+D) Freezing of evaporator 
+✅ Answer: C 
+6. Refrigerant should be charged in which state through the low-pressure side? 
+
+A) Solid 
+B) Liquid 
+C) Vapor 
+D) Plasma 
+✅ Answer: C 
+7. Which component indicates correct refrigerant level in older systems? 
+A) Sight glass 
+B) Thermostat 
+C) Clutch coil 
+D) Fan motor 
+✅ Answer: A 
+8. Which safety precaution is necessary during refrigerant charging? 
+A) Keep system near fire 
+B) Wear safety gloves and goggles 
+C) Touch refrigerant directly 
+D) Work in closed room 
+✅ Answer: B 
+9. The standard method of charging refrigerant in car AC is based on: 
+A) Time method 
+B) Pressure method 
+C) Weight method 
+D) Temperature method 
+✅ Answer: C 
+10. After charging, which step should be performed? 
+A) Disconnect compressor belt 
+B) Check for leaks 
+C) Switch off blower 
+D) Open expansion valve 
+✅ Answer: B 
+11. The main function of the temperature control system is to: 
+
+A) Control vehicle speed 
+B) Maintain desired cabin temperature 
+C) Control fuel injection 
+D) Reduce engine load 
+✅ Answer: B 
+12. The temperature sensor in a car HVAC system senses: 
+A) Engine temperature 
+B) Outside temperature only 
+C) Cabin air temperature 
+D) Tyre temperature 
+✅ Answer: C 
+13. In automatic climate control, temperature is controlled by: 
+A) Driver manually 
+B) ECU and sensors 
+C) Expansion valve only 
+D) Radiator 
+✅ Answer: B 
+14. Which component controls mixed hot and cold air? 
+A) Compressor 
+B) Condenser 
+C) Blend door 
+D) Evaporator 
+✅ Answer: C 
+15. The thermostat in an HVAC system is used to: 
+A) Control refrigerant pressure 
+B) Sense cabin temperature 
+C) Control compressor ON/OFF 
+D) Control blower speed 
+✅ Answer: C 
+1. The main purpose of a keyless entry system is to: 
+A) Improve engine power
+
+ B) Enable remote locking/unlocking of doors 
+C) Increase fuel efficiency 
+D) Control HVAC system 
+✅ Answer: B 
+2. Which component sends the signal in a keyless entry system? 
+A) Door actuator 
+B) Car ECU 
+C) Key fob (Transmitter) 
+D) Receiver motor 
+✅ Answer: C 
+3. Keyless entry systems generally operate using: 
+A) Infrared waves 
+B) Bluetooth only 
+C) Radio Frequency (RF) signals 
+D) Sound waves 
+✅ Answer: C 
+4. In a keyless entry system, the receiver is located: 
+A) Inside the key 
+B) Inside the door lock 
+C) Inside the vehicle body 
+D) Near the battery 
+✅ Answer: C 
+5. Rolling code technology is used in keyless systems to: 
+A) Increase signal range 
+B) Reduce battery usage 
+C) Prevent theft by code duplication 
+D) Improve door motor speed 
+✅ Answer: C 
+6. The main function of an anti-theft system is to: 
+A) Increase car speed 
+B) Prevent unauthorized vehicle use 
+
+C) Improve braking 
+D) Improve suspension 
+✅ Answer: B 
+7. An engine immobilizer works by: 
+A) Locking the steering wheel 
+B) Cutting fuel or ignition system 
+C) Locking the doors 
+D) Activating the horn 
+✅ Answer: B 
+9. Which sensor detects unauthorised entry into a car? 
+A) Oxygen sensor 
+B) Door sensor 
+C) Temperature sensor 
+D) MAF sensor 
+✅ Answer: B 
+10. A vehicle immobilizer compares the: 
+A) Engine RPM 
+B) Fuel pressure 
+C) Key code with ECU data 
+D) Door position 
+✅ Answer: C 
+11. Automatic door lock system function is to: 
+A) Lock doors when car reaches a certain speed 
+B) Lock only driver’s door 
+C) Prevent engine overheating 
+D) Increase tyre pressure 
+✅ Answer: A 
+12. In many cars, automatic door locking activates when speed crosses: 
+A) 5 km/h 
+B) 10–15 km/h 
+
+C) 40 km/h 
+D) 80 km/h 
+✅ Answer: B 
+13. Which sensor supports automatic door locking? 
+A) Oxygen sensor 
+B) Speed sensor 
+C) Rain sensor 
+D) Temperature sensor 
+✅ Answer: B 
+14. The central locking system is controlled by: 
+A) Radiator 
+B) Body Control Module (BCM) 
+C) Alternator 
+D) ECU only 
+✅ Answer: B 
+15. Automatic unlocking usually happens: 
+A) When AC is turned off 
+B) When airbags deploy 
+C) When speed increases 
+D) When headlights turn on
+ ✅ Answer: B 
+16. The main function of a park assist system is to: 
+A) Increase braking power 
+B) Help driver park safely 
+C) Increase engine RPM 
+D) Boost battery power 
+✅ Answer: B 
+17. Park assist system uses which type of sensor most commonly? 
+A) Temperature sensor 
+B) Ultrasonic sensor 
+
+C) Pressure sensor 
+D) Oxygen sensor 
+✅ Answer: B 
+18. The park assist system gives warning through: 
+A) Engine sound 
+B) Dashboard lights only 
+C) Beeps and display indication 
+D) Horn only 
+✅ Answer: C 
+19. In automatic park assist, steering is controlled by: 
+A) Driver 
+B) Steering ECU 
+C) Brake system 
+D) GPS ✅ Answer: B 
+20. Park assist sensors are usually mounted on: 
+A) Roof of the car 
+B) Side mirrors 
+C) Front and rear bumpers 
+D) Inside tyres 
+✅ Answer: C 
+1. The main purpose of automatic headlight dimming is to: 
+A) Increase battery voltage 
+B) Prevent dazzling of oncoming vehicles 
+C) Make headlights brighter 
+D) Improve fuel economy 
+✅ Answer: B 
+2. Automatic headlight dimming mainly works based on: 
+A) Vehicle speed 
+B) Ambient light and oncoming vehicle light intensity 
+C) Engine temperature 
+
+D) Steering angle 
+✅ Answer: B 
+3. Which sensor is used in automatic headlight dimming? 
+A) Ultrasonic sensor 
+B) Light sensor / Photodiode 
+C) Oxygen sensor 
+D) Speed sensor 
+✅ Answer: B 
+4. When an oncoming vehicle is detected, the headlight system automatically switches 
+from: 
+A) Low beam to fog beam 
+B) Low beam to parking light 
+C) High beam to low beam 
+D) High beam to off 
+✅ Answer: C 
+5. The control of automatic dimming is handled by: 
+A) Ignition switch 
+B) Driver manually 
+C) Body Control Module (BCM) 
+D) Dashboard switch only 
+✅ Answer: C 
+ 
+7. The time delay in automatic headlight system is mainly used to: 
+A) Save fuel 
+B) Prevent frequent switching due to sudden light changes 
+C) Increase headlamp brightness 
+D) Reduce engine load 
+✅ Answer: B 
+8. Which sensor supports automatic ON/OFF headlights? 
+A) Rain sensor B) Light sensor 
+
+C) Speed sensor 
+D) Temperature sensor 
+✅ Answer: B 
+9. The headlight usually turns ON automatically when: 
+A) Sunlight is strong 
+B) Car is parked 
+C) Ambient light falls below a set level 
+D) Speed increases 
+✅ Answer: C 
+10. The “Follow-me-home” headlight feature is related to: 
+A) Fog lights operation 
+B) Automatic delay OFF headlight 
+C) Brake light operation 
+D) Turn signal system 
+✅ Answer: B 
+11. GPS stands for: 
+A) Global Position Sensor 
+B) Global Position System 
+C) Geographical Position Satellite 
+D) General Position System 
+✅ Answer: B 
+12. GPS system helps in: 
+A) Engine tuning 
+B) Vehicle location tracking 
+C) Fuel injection 
+D) Airbag deployment 
+✅ Answer: B 
+13. GPRS is mainly used in cars for: 
+A) Wireless braking system 
+B) Mobile data communication 
+
+C) Cooling system control 
+D) Engine lubrication 
+✅ Answer: B 
+14. GPRS stands for: 
+A) Global Packet Radio Service 
+B) General Packet Routing System 
+C) Global Position Radio Service 
+D) General Position Routing System 
+✅ Answer: A 
+15. Which component receives GPS signals from satellites? 
+A) ECU 
+B) GPS receiver/antenna 
+C) BCM 
+D) Engine sensor 
+✅ Answer: B 
+16. GPS requires how many satellites minimum for accurate positioning? 
+A) 1 
+B) 2 
+C) 3 
+D) 4 
+✅ Answer: D 
+17. GPRS mainly helps in: 
+A) Offline navigation only 
+B) Real-time traffic updates and internet services 
+C) Headlamp brightness control 
+D) Fuel pressure regulation 
+✅ Answer: B 
+18. Which system works without mobile network? 
+A) GPRS 
+B) Bluetooth 
+
+C) GPS 
+D) Wi-Fi 
+✅ Answer: C 
+19. GPS navigation uses: 
+A) Sound waves 
+B) Radio waves 
+C) Infrared waves 
+D) Magnetic waves 
+✅ Answer: B 
+20. GPS system accuracy mainly depends on: 
+A) Vehicle color 
+B) Number of satellites visible 
+C) Battery voltage 
+D) Tyre pressure 
+✅ Answer: B 
+Q1. HVAC stands for:
+A) Heating, Ventilation and Air Conditioning
+B) High Voltage Air Cooling
+C) Heating, Vapour and AC
+D) Heater Ventilation Application
+Answer: A) Heating, Ventilation and Air Conditioning
+Q2. Blower motor function is:
+A) Flow refrigerant
+B) Circulate air
+C) Compress refrigerant
+D) Heat coolant
+
+Answer: B) Circulate air
+Q3. Evaporator is located in:
+A) Engine bay
+B) Condenser area
+C) Cabin dashboard
+D) Fuel tank
+Answer: C) Cabin dashboard
+Q4. Which controls airflow direction?
+A) Expansion valve
+B) Air vents
+C) Condenser
+D) Compressor
+Answer: B) Air vents
+Q5. Recirculation mode:
+A) Brings fresh air always
+B) Reuses inside air
+C) Stops blower
+D) Heats engine
+Answer: B) Reuses inside air
+Q6. Car heating system uses heat from:
+A) Exhaust gas
+B) Battery
+C) Engine coolant
+
+D) Radiator fan
+Answer: C) Engine coolant
+Q7. Heater core acts like:
+A) Condenser
+B) Evaporator
+C) Radiator
+D) Compressor
+Answer: C) Radiator
+Q8. Ventilation system helps in:
+A) Increasing engine power
+B) Air circulation and fresh air supply
+C) Fuel injection
+D) Improving mileage
+Answer: B) Air circulation and fresh air supply
+Q9. Blend door is used for:
+A) Mixing hot and cold air
+B) Compressing refrigerant
+C) Filtering air
+D) Cooling engine
+Answer: A) Mixing hot and cold air
+Q10. Heater valve controls:
+A) Fuel supply
+
+B) Coolant flow
+C) Air flow
+D) Oil pressure
+Answer: B) Coolant flow
+Q11. Comfortable temperature range for car occupants is:
+A) 5–10°C
+B) 18–26°C
+C) 30–40°C
+D) Above 45°C
+Answer: B) 18–26°C
+Q12. Comfort humidity range is:
+A) 10–20%
+B) 30–60%
+C) 70–90%
+D) 90–100%
+Answer: B) 30–60%
+Q13. Human comfort depends on:
+A) Temperature only
+B) Humidity only
+C) Temperature, humidity, air movement
+D) Sunlight only
+Answer: C) Temperature, humidity, air movement
+Q14. High humidity causes:
+
+A) Excess cooling
+B) Sweating and discomfort
+C) Cold sensation
+D) No effect
+Answer: B) Sweating and discomfort
+Q15. Air movement improves comfort by:
+A) Increasing sweating
+B) Increasing evaporation of sweat
+C) Increasing humidity
+D) Stopping heat loss
+Answer: B) Increasing evaporation of sweat
+Q1. Which refrigerant is currently used in most modern cars?
+A) R12
+B) R22
+C) R134a
+D) Ammonia
+Answer: C) R134a
+Q2. Eco-friendly refrigerant is:
+A) R1234yf
+B) R12
+C) R500
+D) R11
+Answer: A) R1234yf
+
+Q3. Main property of refrigerant:
+A) Non-toxic
+B) Non-flammable
+C) High latent heat
+D) All of the above
+Answer: D) All of the above
+Q4. Which refrigerant has very low GWP?
+A) R134a
+B) R1234yf
+C) R22
+D) R410A
+Answer: B) R1234yf
+Q5. Refrigerant should have:
+A) High boiling point
+B) Low boiling point
+C) High density
+D) Poor heat transfer
+Answer: B) Low boiling point
+Q6. Refrigerant charging is done:
+A) In liquid form
+B) In gaseous form
+C) Both
+D) Solid form
+
+Answer: C) Both
+Q7. Overcharging results in:
+A) Poor cooling
+B) High compressor load
+C) Both A and B
+D) Engine stall
+Answer: C) Both A and B
+Q8. Undercharging causes:
+A) Ice formation
+B) Reduced cooling
+C) Compressor noise
+D) All of the above
+Answer: B) Reduced cooling
+Q9. Which tool is used for charging?
+A) Vacuum pump
+B) Manifold gauge set
+C) Screwdriver
+D) Multimeter
+Answer: B) Manifold gauge set
+Q10. Before charging, system should be:
+A) Washed
+B) Dried and evacuated
+C) Filled with oil
+
+D) Heated
+Answer: B) Dried and evacuated
+Q10. Before charging, system should be:
+A) Washed
+B) Dried and evacuated
+C) Filled with oil
+D) Heated
+Answer: B) Dried and evacuated
+Q11. Thermostat is used to:
+A) Control engine speed
+B) Control cabin temperature
+C) Control blower speed
+D) Control fuel flow
+Answer: B) Control cabin temperature
+Q12. Humidity is reduced by:
+A) Heater core
+B) Evaporator
+C) Compressor
+D) Condenser
+Answer: B) Evaporator
+Q13. Climate control system is:
+A) Manual control
+B) Automatic control
+
+C) Mechanical only
+D) Electrical only
+Answer: B) Automatic control
+Q14. Cabin temperature sensor measures:
+A) Engine temperature
+B) Outside temperature
+C) Inside temperature
+D) Refrigerant temperature
+Answer: C) Inside temperature
+Q15. Dehumidification occurs when:
+A) Air passes through evaporator
+B) Air passes through heater
+C) Fan stops
+D) Air is recirculated
+Answer: A) Air passes through evaporator
+Q16. Keyless entry works using:
+A) Bluetooth only
+B) Infrared or RF signal
+C) Wired connection
+D) Mechanical link
+Answer: B) Infrared or RF signal
+Q17. Immobilizer prevents:
+A) Door locking
+
+B) Engine starting without authorized key
+C) Fuel filling
+D) Brake operation
+Answer: B) Engine starting without authorized key
+Q19. Central locking system:
+A) Locks all doors together
+B) Locks only driver door
+C) Locks engine
+D) Locks boot only
+Answer: A) Locks all doors together
+Q20. Anti-theft alarm activates when:
+A) Ignition ON
+B) Unauthorized attempt detected
+C) AC ON
+D) Door closed normally
+Answer: B) Unauthorized attempt detected
+Q21. Parking sensors use:
+A) Infrared waves
+B) Ultrasonic waves
+C) Radio waves
+D) Microwave
+Answer: B) Ultrasonic waves
+
+Q22. Park assist helps in:
+A) Lane changing
+B) Accurate parking
+C) Fuel control
+D) Suspension control
+Answer: B) Accurate parking
+Q24. Automatic headlight sensor detects:
+A) Engine temperature
+B) Light intensity
+C) Vehicle speed
+D) Obstacle distance
+Answer: B) Light intensity
+Q25. Automatic dimming works using:
+A) Ultrasonic sensor
+B) Light sensor
+C) Speed sensor
+D) Temperature sensor
+Answer: B) Light sensor
+Q26. Delay off headlight means:
+A) Light stays ON after ignition OFF
+B) Light stays ON while driving
+C) Light OFF immediately
+D) Light blinks
+Answer: A) Light stays ON after ignition OFF
+Q27. GPS stands for:
+
+A) Global Positioning System
+B) General Packet System
+C) Global Power Steering
+D) Graphical Position System
+Answer: A) Global Positioning System
+Q28. GPRS is used for:
+A) Navigation calculation
+B) Data transmission
+C) Vehicle braking
+D) Parking
+Answer: B) Data transmission
+Q29. GPS works using:
+A) Mobile towers
+B) Satellites
+C) Radar
+D) Infrared
+Answer: B) Satellites
+Q30. Sealed beam headlamp means:
+A) Bulb can be replaced separately
+B) Entire unit is sealed and replaced together
+C) Only lens is sealed
+D) Reflector is open
+Answer: B) Entire unit is sealed and replaced together
+Q31. Main parts of sealed beam headlamp are:
+A) Bulb & battery
+
+B) Lens, reflector, filament
+C) Switch & relay
+D) Fuse & horn
+Answer: B) Lens, reflector, filament
+Q32. Dazzle occurs due to:
+A) Low beam
+B) High beam
+C) Parking light
+D) Fog lamp
+Answer: B) High beam
+Q33. Anti-dazzle mirror helps reduce:
+A) Engine noise
+B) Glare from rear vehicles
+C) Fuel consumption
+D) Headlight brightness
+Answer: B) Glare from rear vehicles
+Q34. Beam control is achieved by:
+A) Adjusting headlamp angle
+B) Changing colour
+C) Changing battery
+D) Changing horn
+Answer: A) Adjusting headlamp angle
+Q35. Air bag inflates mainly during:
+A) Side impact
+B) Rear collision
+
+C) Frontal collision
+D) Minor vibration
+Answer: C) Frontal collision
+Q36. Air bags inflate within:
+A) 1 second
+B) 0.1 to 0.3 seconds
+C) 2 seconds
+D) After engine stops
+Answer: B) 0.1 to 0.3 seconds
+Q37. Which sensor is used to detect crash?
+A) Temperature sensor
+B) Impact sensor
+C) Oxygen sensor
+D) Speed sensor
+Answer: B) Impact sensor
+Q38. Which gas is commonly used for airbag inflation?
+A) Nitrogen
+B) Oxygen
+C) Hydrogen
+D) Carbon monoxide
+Answer: A) Nitrogen
+Q39. SRS stands for:
+A) Safety Restraint System
+B) Supplemental Restraint System
+C) Secure Restrain System
+D) Safety Response System
+Answer: B) Supplemental Restraint System
+Q40. Seat belt prevents:
+
+A) Vehicle rollover
+B) Occupant ejection during crash
+C) Engine failure
+D) Tyre burst
+Answer: B) Occupant ejection during crash
+Q41. Three-point seat belt includes:
+A) Lap belt only
+B) Shoulder belt only
+C) Lap and shoulder belt
+D) Neck support
+Answer: C) Lap and shoulder belt
+Q42. Seat belt pretensioner function is to:
+A) Loosen belt
+B) Tighten belt during collision
+C) Protect engine
+D) Activate air bag only
+Answer: B) Tighten belt during collision
+Q43. Which material is used in seat belts?
+A) Rubber
+B) Nylon
+C) Steel
+D) Cotton
+Answer: B) Nylon
+Q44. Load limiter helps to:
+A) Increase belt force
+B) Reduce chest injury
+C) Increase speed
+
+D) Prevent engine overheating
+Answer: B) Reduce chest injury
+Q45. Central locking allows:
+A) Only driver door locking
+B) All doors to be locked/unlocked together
+C) Only boot door locking
+D) Engine locking
+Answer: B) All doors to be locked/unlocked together
+Q46. Central locking system works using:
+A) Hydraulic actuators
+B) Pneumatic actuators
+C) Electrical actuators
+D) Mechanical rods only
+Answer: C) Electrical actuators
+Q47. Remote key system transmits signals via:
+A) Wires
+B) RF waves
+C) Sound waves
+D) Light waves
+Answer: B) RF waves
+Q48. Main purpose of collapsible steering is to:
+A) Improve steering efficiency
+B) Absorb impact energy during crash
+C) Increase vehicle speed
+D) Reduce fuel consumption
+Answer: B) Absorb impact energy during crash
+Q49. In a frontal crash, rigid steering column can:
+A) Protect driver
+
+B) Increase driver injuries
+C) Lock the brakes
+D) Control vehicle direction
+Answer: B) Increase driver injuries
+Q50. Collapsible steering column uses:
+A) Solid steel rod
+B) Breakaway sleeve / telescopic arrangement
+C) Plastic shaft
+D) Rubber coupling only
+Answer: B) Breakaway sleeve / telescopic arrangement
+Q51. Purpose of ABS is to:
+A) Increase brake wear
+B) Prevent wheel locking during braking
+C) Increase stopping distance
+D) Reduce fuel consumption
+Answer: B) Prevent wheel locking during braking
+Q52. ABS works by:
+A) Locking all wheels
+B) Pumping the brakes manually
+C) Modulating brake pressure automatically
+D) Switching off brakes
+Answer: C) Modulating brake pressure automatically
+Q53. Which sensor is used in ABS?
+A) Pressure sensor
+B) Wheel speed sensor
+C) Temperature sensor
+D) Oxygen sensor
+
+Answer: B) Wheel speed sensor
+Q54. ABS mainly improves:
+A) Steering control during braking
+B) Engine power
+C) Air conditioning
+D) Mileage
+Answer: A) Steering control during braking
+Q55. ESC is used to:
+A) Prevent engine overheating
+B) Prevent skidding and loss of control
+C) Improve air conditioning
+D) Increase speed
+Answer: B) Prevent skidding and loss of control
+Q56. ESC functions by:
+A) Applying brakes to individual wheels
+B) Turning off engine
+C) Locking steering
+D) Increasing tyre pressure
+Answer: A) Applying brakes to individual wheels
+Q57. ESC uses which sensors?
+A) Engine RPM sensor only
+B) Yaw rate, steering angle and wheel speed sensors
+C) Fuel sensors only
+D) Temperature sensors only
+Answer: B) Yaw rate, steering angle and wheel speed sensors
+Q58. ESC mainly helps during:
+A) Straight driving
+B) Driving in curves/slippery roads
+
+C) Vehicle washing
+D) Parking
+Answer: B) Driving in curves/slippery roads
+Q59. Which system works together with ABS to improve control?
+A) Power steering
+B) ESC
+C) AC system
+D) Horn
+Answer: B) ESC
+Q60. Which safety device reduces head and chest injuries?
+A) Air bag
+B) Fuse
+C) GPS
+D) Tyre
+Answer: A) Air bag
+Q61. Which provides primary safety?
+A) Seat belt
+B) Air bag
+C) ESC
+D) Central locking
+Answer: A) Seat belt
+Q62. Which prevents car from rolling back on slopes?
+A) Hill Hold Control
+B) Central locking
+C) ABS
+D) Air bag
+Answer: A) Hill Hold Control
+1. What is the main function of an automobile body? 
+
+A) Improve engine performance 
+B) Support electrical systems 
+C) Provide space for passengers and goods
+ D) Increase fuel consumption
+ Answer: ✅ C) Provide space for passengers and goods 
+2. What is the term used for the lower part of the vehicle which includes the frame and suspension system? 
+A) Roof panel 
+B) Chassis 
+C) Bonnet 
+D) Firewall 
+Answer: ✅ B) Chassis 
+3. Which part of the body separates the engine compartment from the passenger compartment? 
+A) Dash panel 
+B) Firewall 
+C) Bonnet 
+D) Radiator grill 
+Answer: ✅ B) Firewall 
+4. A Monocoque body construction means: 
+A) The body and frame are separate 
+B) The body is built on a wooden frame 
+C) The body and chassis are integrated
+ D) The body is made only of plastic 
+Answer: ✅ C) The body and chassis are integrate
+5. Which type of automobile body is commonly used in sports and racing cars? 
+A) Hatchback 
+B) Convertible 
+C) Coupe 
+D) SUV 
+
+Answer: ✅ C) Coupe 
+6. What is the primary material used in conventional automobile body construction? 
+A) Copper 
+B) Plastic 
+C) Steel 
+D) Aluminum 
+Answer: ✅ C) Steel 
+7. Which of the following is not a vehicle body type? 
+A) Sedan 
+B) Limousine 
+C) Transmission 
+D) Hatchback 
+Answer: ✅ C) Transmission 
+8. In which type of body construction is the frame and body built as one unit? 
+A) Body-on-frame 
+B) Semi-monocoque 
+C) Monocoque 
+D) Ladder frame 
+Answer: ✅ C) Monocoque
+ 9. Which specification is not typically included when comparing vehicle bodies? 
+A) Fuel tank capacity 
+B) Seating capacity
+ C) Boot space 
+D) Number of doors 
+Answer: ✅ A) Fuel tank capacity 
+10. What is a characteristic of a “convertible” car body? 
+A) Has no engine compartment 
+B) Fixed metal roof 
+
+C) Retractable or removable roof 
+D) Only two wheels 
+Answer: ✅ C) Retractable or removable roof 
+11. Which of the following is a feature of a “station wagon” vehicle? 
+A) Small luggage space 
+B) Two seats only
+ C) Extended rear cargo area D
+) No rear window 
+Answer: ✅ C) Extended rear cargo area 
+12. What is the typical body type of a heavy goods vehicle (HGV)? 
+A) Coupe 
+B) SUV 
+C) Truck body 
+D) Sedan 
+Answer: ✅ C) Truck body 
+ 13. What does “SUV” stand for? 
+A) Super Utility Van 
+B) Standard Utility Vehicle 
+C) Sports Utility Vehicle 
+D) Special Use Vehicle 
+Answer: ✅ C) Sports Utility Vehicle 
+14. In body construction, what is the primary purpose of crumple zones? 
+A) Reduce fuel consumption 
+B) Provide comfort 
+C) Absorb impact energy in collisions 
+D) Add aesthetic design 
+Answer: ✅ C) Absorb impact energy in collisions 
+15. Which of the following vehicles is typically built with a body-on-frame construction? 
+
+A) Hatchback 
+B) SUV 
+C) Coupe 
+D) Convertible 
+Answer: ✅ B) SUV 
+16. Which of the following materials is most commonly used in automobile body construction? 
+A) Copper 
+B) Mild Steel 
+C) Brass 
+D) Zinc 
+Answer: ✅ B) Mild Steel 
+17. Aluminium is used in automobile bodies mainly because of its: 
+A) High cost 
+B) High weight 
+C) Corrosion resistance and lightweight 
+D) High strength only 
+Answer: ✅ C) Corrosion resistance and lightweight 
+18. Which material is primarily used in high-performance and luxury cars due to its strength-to-weight ratio? 
+A) Mild steel 
+B) Cast iron 
+C) Carbon fiber 
+D) PVC 
+Answer: ✅ C) Carbon fiber 
+19. What is the purpose of galvanization in automotive body panels? 
+A) Improve paint quality 
+B) Reduce body weight 
+C) Prevent rusting 
+D) Increase thickness 
+
+Answer: ✅ C) Prevent rusting 
+20. The first step in vehicle body fabrication is usually: 
+A) Painting 
+B) Welding 
+C) Cutting and shaping sheet metal 
+D) Sanding 
+Answer: ✅ C) Cutting and shaping sheet metal 
+21. Which type of welding is most commonly used in automobile body repair?
+ A) Arc welding 
+B) Gas welding 
+C) TIG welding 
+D) MIG welding 
+Answer: ✅ D) MIG welding 
+22. What is a common tool used for reshaping dented metal during accident repair? 
+A) Hacksaw 
+B) Dent puller 
+C) Lathe 
+D) Drill machine
+ Answer: ✅ B) Dent puller 
+23. In accidental repairs, which of the following processes is used to smoothen the damaged surface before 
+painting? 
+A) Drilling 
+B) Sanding 
+C) Welding 
+D) Hammering Answer: 
+✅ B) Sanding 
+24. The function of primer in body painting is to: 
+A) Increase thickness 
+B) Provide color 
+
+C) Improve paint adhesion and prevent rust
+ D) Make it waterproof Answer: 
+✅ C) Improve paint adhesion and prevent rust 
+25. Which body accessory helps reduce wind resistance and improve aerodynamics? 
+A) Bumper 
+B) Spoiler 
+C) Mudguard 
+D) Sunroof 
+Answer: ✅ B) Spoiler 
+26. Which of the following is not considered a body accessory? 
+A) Fog lights 
+B) Roof rails 
+C) Chassis 
+D) Side mirrors 
+Answer: ✅ C) Chassis 
+27. What is the main function of a car’s bumper? 
+A) Improve aesthetics 
+B) Absorb impact during minor collisions 
+C) Support headlights 
+D) Help with fuel efficiency 
+Answer: ✅ B) Absorb impact during minor collisions 
+28. The purpose of mud flaps on a vehicle is to: 
+A) Enhance speed B) Reduce noise 
+C) Prevent mud and debris from hitting the body 
+D) Reduce emissions 
+Answer: ✅ C) Prevent mud and debris from hitting the body 
+29. Side view mirrors are mainly used for: 
+A) Decoration 
+
+B) Increasing speed 
+C) Rear and side visibility for safe lane changing 
+D) Engine cooling 
+Answer: ✅ C) Rear and side visibility for safe lane changing 
+30. What is the function of roof rails on a vehicle? 
+A) Decoration only 
+B) Improve aerodynamics 
+C) Carry luggage or cargo on the roof 
+D) Support the windshield 
+Answer: ✅ C) Carry luggage or cargo on the roof 
+31. What is the main benefit of streamlining a vehicle body? 
+A) Better lighting 
+B) Lower manufacturing cost 
+C) Reduction in air resistance 
+D) More passenger space 
+Answer: ✅ C) Reduction in air resistance 
+32. Air resistance acting on a vehicle is also known as: 
+A) Gradient resistance
+ B) Rolling resistance 
+C) Aerodynamic drag 
+D) Inertial resistance 
+Answer: ✅ C) Aerodynamic drag 
+33. Which shape offers the least air resistance for vehicles at high speed? 
+A) Rectangular 
+B) Cubical 
+C) Streamlined (teardrop-shaped) 
+D) Square 
+ Answer: ✅ C) Streamlined (teardrop-shaped) 
+
+34. What does rolling resistance depend on most?
+ A) Wind speed 
+B) Tyre material and road surface 
+C) Engine size
+ D) Number of passengers 
+Answer: ✅B) Tyre material and road surface 
+35. Gradient resistance is encountered when: 
+A) Vehicle is in motion on a flat road
+ B) Vehicle moves downhill only 
+C) Vehicle climbs an incline 
+D) Vehicle accelerates on a straight road 
+Answer: ✅ C) Vehicle climbs an incline 
+36. What is the formula for tractive resistance in basic terms? 
+A) Rolling + Gradient + Air resistance 
+B) Rolling – Air resistance 
+C) Gradient × Rolling 
+D) Engine power ÷ Weight Answer: 
+✅ A) Rolling + Gradient + Air resistance 
+37. The force available between the tyre and the road surface to move the vehicle forward is called: 
+A) Drag force
+ B) Gradient force 
+C) Traction 
+D) Resistance
+ Answer: ✅ C) Traction 
+ 38. Tractive effort is defined as:
+ A) Resistance caused by gravity 
+B) Force required to overcome all resistances and move the vehicle
+ C) Power output of the engine 
+
+D) Braking force Answer: ✅ B) Force required to overcome all resistances and move the vehicle 
+39. Which of the following is not a type of resistance faced by a vehicle? 
+A) Air resistance
+ B) Rolling resistance 
+C) Lateral resistance 
+D) Gradient resistance 
+Answer: ✅ C) Lateral resistance 
+40. Which of the following increases when a vehicle travels at high speed? 
+A) Rolling resistance 
+B) Air resistance 
+C) Gradient resistance 
+D) Tractive effort 
+Answer: ✅ B) Air resistance
+ 41. Pitching is the movement of the vehicle about its: 
+A) Longitudinal axis 
+B) Lateral axis (side to side) 
+C) Vertical axis 
+D) Center of gravity 
+Answer: ✅ B) Lateral axis (front up/down) 
+ 42. Rolling refers to the movement about the: 
+A) Vertical axis 
+B) Lateral axis 
+C) Longitudinal axis
+ D) Horizontal plane 
+Answer: ✅ C) Longitudinal axis (side-to-side tilting) 
+43. Yaw is the movement of the vehicle around the: 
+A) Vertical axis 
+B) Lateral axis 
+
+C) Horizontal axis 
+D) Front axle 
+Answer: ✅ A) Vertical axis (left or right turn of the nose) 
+44. Bouncing occurs due to:
+ A) Poor lighting 
+B) Steering misalignment 
+C) Poor suspension or uneven roads 
+D) Overinflated tyres 
+Answer: ✅ C) Poor suspension or uneven roads 
+45. Sway refers to: 
+A) Up and down motion 
+B) Side-to-side motion of the whole body 
+C) Rotating motion 
+D) Forward acceleration 
+Answer: ✅ B) Side-to-side motion of the whole body
+ 46. The primary purpose of applying anticorrosive treatment to a vehicle body is to: 
+A) Improve fuel efficiency 
+B) Enhance engine performance 
+C) Prevent rust and corrosion 
+D) Improve aerodynamics 
+Answer: ✅ C) Prevent rust and corrosion 
+47. Which of the following is the first step in the vehicle painting process? 
+A) Top coat application 
+B) Priming 
+C) Surface cleaning and sanding
+ D) Clear coat application 
+Answer: ✅ C) Surface cleaning and sanding 
+48. Which type of coating is applied immediately after surface cleaning to prevent corrosion? 
+
+A) Clear coat 
+B) Primer 
+C) Base coat 
+D) Top coat Answer: ✅ 
+B) Primer 49. Which layer of paint provides the actual color and aesthetic appearance of the vehicle? 
+A) Base coat 
+B) Clear coat 
+C) Primer 
+D) Epoxy coating 
+Answer: ✅ A) Base coat 
+50. The clear coat in painting is used to:
+A) Add thickness to paint
+ B) Increase friction
+ C) Protect the base coat and give gloss
+ D) Prevent fire hazards
+Answer: C) Protect the base coat and give gloss
+51. What is the primary chemical used for rustproofing underbody parts?
+A) Paint thinner
+ B) Epoxy resin
+ C) Zinc phosphate
+ D) Engine oil
+Answer: C) Zinc phosphate
+52. Which of the following is not a method of anticorrosive treatment?
+A) Galvanizing
+ B) Phosphating
+ C) Painting
+ D) Welding
+Answer: D) Welding
+53. What is the name of the process in which a car body is dipped into a bath for anti-corrosion 
+coating?
+A) Electroplating
+ B) Dip coating
+ C) Electro-deposition (ED) coating
+ D) Spot welding
+
+Answer: C) Electro-deposition (ED) coating
+54. During repainting, what is usually done before applying a new coat of paint?
+A) Wash with plain water
+ B) Wet sanding and removing old paint
+ C) Engine tuning
+ D) Apply base coat directly
+Answer: B) Wet sanding and removing old paint
+55. Which tool is commonly used to apply paint in auto body shops?
+A) Paintbrush
+ B) Sanding block
+ C) Spray gun
+ D) Welding torch
+Answer: C) Spray gun
+56. What is the main purpose of polishing after painting or repainting?
+A) Remove the paint
+ B) Soften the metal
+ C) Improve surface finish and shine
+ D) Reduce weight
+Answer: C) Improve surface finish and shine
+57. Which type of paint is most commonly used in modern automobile painting?
+A) Acrylic enamel
+ B) Water-based emulsion
+ C) Latex paint
+ D) Oil-based paint
+Answer: A) Acrylic enamel
+58. What can cause paint blistering after painting?
+A) Low humidity
+ B) Proper drying
+ C) Moisture or contaminants under paint
+ D) Polishing the surface
+Answer: C) Moisture or contaminants under paint
+59. In multi-layer painting, the layer applied to smooth out imperfections before base coat is 
+called:
+A) Primer
+ B) Putty / filler
+
+ C) Clear coat
+ D) Epoxy layer
+Answer: B) Putty / filler
+60. Which part of the vehicle is most prone to corrosion?
+A) Roof
+ B) Bonnet
+ C) Underbody and wheel arches
+ D) Windows
+Answer: C) Underbody and wheel arches
+61. The primary purpose of applying anticorrosive treatment to a vehicle body is to:
+A) Improve fuel efficiency
+ B) Enhance engine performance
+ C) Prevent rust and corrosion
+ D) Improve aerodynamics
+Answer: C) Prevent rust and corrosion
+62. Which of the following is the first step in the vehicle painting process?
+A) Top coat application
+ B) Priming
+ C) Surface cleaning and sanding
+ D) Clear coat application
+Answer: C) Surface cleaning and sanding
+63. Which type of coating is applied immediately after surface cleaning to prevent corrosion?
+A) Clear coat
+ B) Primer
+ C) Base coat
+ D) Top coat
+Answer: B) Primer
+64. Which layer of paint provides the actual color and aesthetic appearance of the vehicle?
+A) Base coat
+ B) Clear coat
+ C) Primer
+ D) Epoxy coating
+Answer: A) Base coat
+65. The clear coat in painting is used to:
+
+A) Add thickness to paint
+ B) Increase friction
+ C) Protect the base coat and give gloss
+ D) Prevent fire hazards
+Answer: C) Protect the base coat and give gloss
+66. What is the primary chemical used for rustproofing underbody parts?
+A) Paint thinner
+ B) Epoxy resin
+ C) Zinc phosphate
+ D) Engine oil
+Answer: C) Zinc phosphate
+67. Which of the following is not a method of anticorrosive treatment?
+A) Galvanizing
+ B) Phosphating
+ C) Painting
+ D) Welding
+Answer: D) Welding
+68. What is the name of the process in which a car body is dipped into a bath for anti-corrosion 
+coating?
+A) Electroplating
+ B) Dip coating
+ C) Electro-deposition (ED) coating
+ D) Spot welding
+Answer: C) Electro-deposition (ED) coating
+69. During repainting, what is usually done before applying a new coat of paint?
+A) Wash with plain water
+ B) Wet sanding and removing old paint
+ C) Engine tuning
+ D) Apply base coat directly
+Answer: B) Wet sanding and removing old paint
+70. Which tool is commonly used to apply paint in auto body shops?
+A) Paintbrush
+ B) Sanding block
+ C) Spray gun
+ D) Welding torch
+Answer: C) Spray gun
+
+71. What is the main purpose of polishing after painting or repainting?
+A) Remove the paint
+ B) Soften the metal
+ C) Improve surface finish and shine
+ D) Reduce weight
+Answer: C) Improve surface finish and shine
+72. Which type of paint is most commonly used in modern automobile painting?
+A) Acrylic enamel
+ B) Water-based emulsion
+ C) Latex paint
+ D) Oil-based paint
+Answer: A) Acrylic enamel
+73. What can cause paint blistering after painting?
+A) Low humidity
+ B) Proper drying
+ C) Moisture or contaminants under paint
+ D) Polishing the surface
+Answer: C) Moisture or contaminants under paint
+74. In multi-layer painting, the layer applied to smooth out imperfections before base coat is 
+called:
+A) Primer
+ B) Putty / filler
+ C) Clear coat
+ D) Epoxy layer
+Answer: B) Putty / filler
+75. Which part of the vehicle is most prone to corrosion?
+A) Roof
+ B) Bonnet
+ C) Underbody and wheel arches
+ D) Windows
+Answer: C) Underbody and wheel arches
+76. What is a major drawback of a carbureted SI engine?
+A) Precise air-fuel control
+ B) High fuel efficiency
+ C) Poor cold starting and emissions
+ D) High engine power
+
+Answer: C) Poor cold starting and emissions
+77. In carbureted engines, fuel is mixed with air:
+A) Near the intake valve
+ B) In the combustion chamber
+ C) Inside the exhaust manifold
+ D) In the carburetor
+Answer: D) In the carburetor
+78. Advantage of MPFI over carburetor:
+A) Lower cost
+ B) Easier manufacturing
+ C) Better fuel atomization and control
+ D) No ECU required
+Answer: C) Better fuel atomization and control
+79. In Throttle Body Injection (TBI), fuel is injected:
+A) Into each cylinder
+ B) Into exhaust port
+ C) Just above throttle valve
+ D) Into fuel tank
+Answer: C) Just above throttle valve
+80. In Port Fuel Injection (PFI), fuel is injected:
+A) Before throttle
+ B) Into combustion chamber
+ C) Near intake valve of each cylinder
+ D) After exhaust valve
+Answer: C) Near intake valve of each cylinder
+81. Which system offers more precise fuel delivery?
+A) TBI
+ B) PFI
+ C) Carburetor
+ D) Mechanical injection
+Answer: B) PFI
+82. MPFI stands for:
+A) Multi-Point Fuel Injection
+ B) Multi-Port Fuel Ignition
+ C) Main Power Fuel Injector
+ D) Multiple Pressure Fuel Injection
+
+Answer: A) Multi-Point Fuel Injection
+83. Which is NOT an MPFI sensor?
+A) TPS
+ B) Oxygen sensor
+ C) Knock sensor
+ D) Brake pedal sensor
+Answer: D) Brake pedal sensor
+84. Function of Oxygen sensor:
+A) Detect temperature
+ B) Detect throttle angle
+ C) Monitor exhaust air-fuel ratio
+ D) Increase fuel pressure
+Answer: C) Monitor exhaust air-fuel ratio
+85. MAF sensor measures:
+A) Engine speed
+ B) Throttle position
+ C) Amount of air entering engine
+ D) Fuel temperature
+Answer: C) Amount of air entering engine
+86. Engine temperature sensor:
+A) O₂ sensor
+ B) MAP sensor
+ C) Coolant temperature sensor
+ D) Camshaft sensor
+Answer: C) Coolant temperature sensor
+87. Actuator in MPFI:
+A) MAP sensor
+ B) Fuel injector
+ C) Oxygen sensor
+ D) TPS
+Answer: B) Fuel injector
+88. ECU controls:
+A) Ignition only
+ B) Air supply only
+ C) Fuel injection timing & duration
+ D) Exhaust valves
+
+Answer: C) Fuel injection timing & duration
+89. Engine speed sensor:
+A) TPS
+ B) Crankshaft position sensor
+ C) IAT sensor
+ D) Coolant sensor
+Answer: B) Crankshaft position sensor
+90. Component improving fuel economy & emissions:
+A) Air filter
+ B) Ignition coil
+ C) ECU
+ D) Flywheel
+Answer: C) ECU
+91. CRDI stands for:
+A) Controlled Rail Direct Ignition
+ B) Common Rail Direct Injection
+ C) Constant Rate Direct Injection
+ D) Combined Rail Diesel Injection
+Answer: B) Common Rail Direct Injection
+92. Key feature of CRDI:
+A) Carburetor use
+ B) Low pressure injection
+ C) High-pressure common rail
+ D) Spark ignition
+Answer: C) High-pressure common rail
+93. Fuel injection in CRDI:
+A) Intake manifold
+ B) After exhaust valve
+ C) Directly into combustion chamber
+ D) Fuel tank
+Answer: C) Directly into combustion chamber
+94. NOT a CRDI component:
+A) Common rail
+ B) High-pressure pump
+ C) Spark plug
+ D) ECU
+
+Answer: C) Spark plug
+95. CRDI injection timing is controlled by:
+A) Fuel filter
+ B) Ignition coil
+ C) ECU
+ D) Glow plug
+Answer: C) ECU
+96. Function of common rail:
+A) Return line
+ B) Fuel storage & distribution
+ C) Pressure regulator
+ D) Injector
+Answer: B) Fuel storage & distribution
+97. CRDI injectors are operated by:
+A) Camshaft
+ B) ECU-controlled solenoids / piezo
+ C) Vacuum
+ D) Manual pump
+Answer: B) ECU-controlled solenoids / piezo
+98. CRDI block diagram excludes:
+A) Fuel tank
+ B) High-pressure pump
+ C) Common rail
+ D) Catalytic converter
+Answer: D) Catalytic converter
+99. Advantage of CRDI:
+A) Lower engine weight
+ B) Reduced compression ratio
+ C) Precise fuel control & multiple injections
+ D) Petrol usage
+Answer: C) Precise fuel control & multiple injections
+100. CRDI improves:
+A) Emissions
+ B) Noise
+ C) Fuel efficiency & lower emissions
+ D) Low injection pressure
+
+Answer: C) Fuel efficiency & lower emissions
+101. Pilot injection is used to:
+A) Cool injector
+ B) Reduce noise & improve combustion
+ C) Increase fuel flow
+ D) Heat exhaust
+Answer: B) Reduce noise & improve combustion
+102. Pump used in CRDI:
+A) Diaphragm
+ B) Vane
+ C) High-pressure plunger pump
+ D) Water pump
+Answer: C) High-pressure plunger pump
+103. CRDI pressure range:
+A) 10–20 bar
+ B) 100–200 bar
+ C) 1000–2000 bar
+ D) 5000–6000 bar
+Answer: C) 1000–2000 bar
+104. CRDI injection is:
+A) Constant
+ B) Fixed volume
+ C) Variable timing & pressure
+ D) After exhaust
+Answer: C) Variable timing & pressure
+105. Advantage of CRDI engines:
+A) Higher NOx
+ B) Low efficiency
+ C) Smooth operation & reduced knock
+ D) More mechanics
+Answer: C) Smooth operation & reduced knock
+106. Advantage of VGT:
+A) Smaller engine
+ B) Low-speed only performance
+ C) Optimal boost across RPM
+ D) Higher fuel use
+
+Answer: C) Optimal boost across RPM
+107. VGT vanes regulate:
+A) Coolant flow
+ B) Air-fuel ratio
+ C) Exhaust gas flow
+ D) Ignition timing
+Answer: C) Exhaust gas flow
+108. VGT benefit:
+A) Reduced torque
+ B) Turbo lag
+ C) Lower emissions & better response
+ D) Simple design
+Answer: C) Lower emissions & better response
+109. VVT is used to:
+A) Control fuel pressure
+ B) Increase engine size
+ C) Optimize valve timing
+ D) Reduce plug wear
+Answer: C) Optimize valve timing
+110. VVT does NOT improve:
+A) Power
+ B) Emissions
+ C) Valve damage
+ D) Fuel efficiency
+Answer: C) Valve damage
+111. VVT adjusts:
+A) Injector pressure
+ B) Valve timing
+ C) Piston stroke
+ D) Oil temperature
+Answer: B) Valve timing
+112. GDI injects fuel:
+A) Carburetor
+ B) Intake manifold
+ C) Combustion chamber
+ D) Exhaust manifold
+
+Answer: C) Combustion chamber
+113. Advantage of GDI:
+A) Low pressure
+ B) Rich mixture
+ C) Better economy & performance
+ D) High emissions
+Answer: C) Better economy & performance
+114. Stratified charge is used to:
+A) Cool engine
+ B) Burn rich mix
+ C) Lean burn at light load
+ D) Reduce ignition temp
+Answer: C) Lean burn at light load
+115. Stratified charge means:
+A) Carburetor mixing
+ B) Outside cylinder mixing
+ C) Different mixture zones
+ D) Diesel use
+Answer: C) Different mixture zones
+116. Essential component for stratified charge:
+A) Spark plug
+ B) Direct injector
+ C) Turbocharger
+ D) EGR valve
+Answer: B) Direct injector
+117. Challenge of GDI:
+A) Cooling loss
+ B) Engine size
+ C) Particulate emissions
+ D) Low compression
+Answer: C) Particulate emissions
+118. VVT integrated with:
+A) Fuel tank
+ B) Cooling fan
+ C) Variable Valve Lift
+ D) Starter motor
+
+Answer: C) Variable Valve Lift
+119. Small VGT vane opening causes:
+A) Low boost
+ B) Faster turbine & torque
+ C) Low temperature
+ D) Delay
+Answer: B) Faster turbine & torque
+120. GDI modes:
+A) Turbo / non-turbo
+ B) Cold / hot
+ C) Homogeneous / stratified
+ D) Open / closed loop
+Answer: C) Homogeneous / stratified
+121. Emission control purpose:
+A) Increase fuel use
+ B) Engine size
+ C) Reduce harmful emissions
+ D) Improve sound
+Answer: C) Reduce harmful emissions
+122. EGR stands for:
+A) Engine Gas Reduction
+ B) Exhaust Gas Recirculation
+ C) Electronic Gas Re-injection
+ D) Emission Gas Regulator
+Answer: B) Exhaust Gas Recirculation
+123. EGR reduces:
+A) CO
+ B) HC
+ C) NOx
+ D) PM
+Answer: C) NOx
+124. EGR valve works by:
+A) Fuel pressure rise
+ B) Exhaust gas recirculation
+ C) Sealing exhaust
+ D) Coolant control
+
+Answer: B) Exhaust gas recirculation
+125. EGR reduces NOx by:
+A) Raising temp
+ B) Lowering temp
+ C) Increasing air
+ D) Less fuel
+Answer: B) Lowering temperature
+126. EGR valve is controlled by:
+A) Carburetor
+ B) Throttle
+ C) ECU
+ D) Distributor
+Answer: C) ECU
+127. PCV system:
+A) Adds fuel
+ B) Raises oil pressure
+ C) Recirculates blow-by gases
+ D) Seals crankcase
+Answer: C) Recirculates blow-by gases
+128. Blow-by gases are:
+A) Tailpipe gases
+ B) Tank gases
+ C) Gases past piston rings
+ D) Radiator gases
+Answer: C) Gases past piston rings
+129. PCV reduces:
+A) CO₂
+ B) HC
+ C) NOx
+ D) Lead
+Answer: B) HC
+130. PCV component:
+A) EGR cooler
+ B) Catalytic converter
+ C) PCV valve
+ D) MAP sensor
+
+Answer: C) PCV valve
+131. EVAP system:
+A) Prevent oil leaks
+ B) Trap fuel vapors
+ C) Stop smoke
+ D) Cool radiator
+Answer: B) Trap fuel vapors
+132. Charcoal canister:
+A) Absorbs coolant
+ B) Stores oil
+ C) Absorbs fuel vapors
+ D) Filters air
+Answer: C) Absorbs fuel vapors
+133. Stored vapors are:
+A) Released
+ B) Burned in exhaust
+ C) Sent to intake
+ D) Condensed
+Answer: C) Sent to intake
+134. Emission system active when parked:
+A) PCV
+ B) EGR
+ C) EVAP
+ D) Catalytic converter
+Answer: C) EVAP
+135. Emission & economy control:
+A) PCV
+ B) EGR
+ C) EVAP
+ D) EGR & PCV
+Answer: D) EGR & PCV
+136. EV propulsion:
+A) ICE
+ B) Steam
+ C) Electric motor + battery
+ D) Gas turbine
+
+Answer: C) Electric motor + battery
+137. EV key component:
+A) Injector
+ B) Motor
+ C) Carburetor
+ D) Exhaust
+Answer: B) Motor
+138. BEV energy stored in:
+A) Hydrogen tank
+ B) Diesel tank
+ C) Battery pack
+ D) Flywheel
+Answer: C) Battery pack
+139. Charging infrastructure:
+A) Cooling
+ B) Air supply
+ C) Battery charging
+ D) Lubrication
+Answer: C) Battery charging
+140. EV excludes:
+A) Battery
+ B) Motor
+ C) Gearbox
+ D) Fuel tank & exhaust
+Answer: D) Fuel tank & exhaust
+141. Common EV battery:
+A) Lead-acid
+ B) NiMH
+ C) Lithium-ion
+ D) Zinc-air
+Answer: C) Lithium-ion
+142. Li-ion advantage:
+A) Heavy
+ B) Memory effect
+ C) High energy density
+ D) Water topping
+
+Answer: C) High energy density
+143. BMS function:
+A) Increase speed
+ B) Regulate airflow
+ C) Manage battery health
+ D) Steering
+Answer: C) Manage battery health
+144. NOT BMS function:
+A) Temp monitoring
+ B) SOC control
+ C) Fuel injection
+ D) Safety
+Answer: C) Fuel injection
+145. Common EV motor:
+A) Brushed DC
+ B) Reluctance
+ C) BLDC
+ D) Shaded pole
+Answer: C) BLDC
+146. Regenerative braking:
+A) Oil brakes
+ B) Converts energy to electrical
+ C) Hydraulic braking
+ D) Reverse gear
+Answer: B) Converts energy to electrical
+147. Battery energy depends on:
+A) Voltage
+ B) Capacity
+ C) Current
+ D) Temperature
+Answer: B) Capacity
+148. Fastest EV charging:
+A) Level 1
+ B) Level 2
+ C) DC fast charging
+ D) USB
+
+Answer: C) DC fast charging
+149. Inverter function:
+A) Charging
+ B) AC to DC
+ C) DC to AC
+ D) Cooling
+Answer: C) DC to AC
+150. Electric motor function:
+A) Store energy
+ B) Create fuel
+ C) Convert electrical to mechanical energy
+ D) Control temperature
+Answer: C) Convert electrical to mechanical energy

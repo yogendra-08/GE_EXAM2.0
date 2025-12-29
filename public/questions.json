@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Which refrigerant replaced R-134a in most modern car HVAC systems due to",
+    "question": "Which refrigerant replaced R-134a in most modern car HVAC systems due to environmental concerns?",
     "options": [
       "R-12",
       "R-22",
@@ -902,7 +902,7 @@
     "answerIndex": 2
   },
   {
-    "id": 83,
+    "id": 1,
     "question": "The primary purpose of an automobile body is to:",
     "options": [
       "Increase engine efficiency",
@@ -913,7 +913,7 @@
     "answerIndex": 1
   },
   {
-    "id": 84,
+    "id": 2,
     "question": "The term “vehicle overhang” refers to:",
     "options": [
       "Distance between wheels",
@@ -924,7 +924,7 @@
     "answerIndex": 2
   },
   {
-    "id": 85,
+    "id": 3,
     "question": "Which body construction offers better crash energy absorption?",
     "options": [
       "Ladder frame",
@@ -935,7 +935,7 @@
     "answerIndex": 2
   },
   {
-    "id": 86,
+    "id": 4,
     "question": "Which parameter directly affects vehicle stability during cornering?",
     "options": [
       "Body color",
@@ -946,7 +946,7 @@
     "answerIndex": 1
   },
   {
-    "id": 87,
+    "id": 5,
     "question": "A semi-monocoque body mainly uses:",
     "options": [
       "Wooden frame",
@@ -957,7 +957,7 @@
     "answerIndex": 2
   },
   {
-    "id": 88,
+    "id": 6,
     "question": "Which material is preferred for crumple zones?",
     "options": [
       "Cast iron",
@@ -968,7 +968,7 @@
     "answerIndex": 2
   },
   {
-    "id": 89,
+    "id": 7,
     "question": "Which manufacturing process is commonly used for body panel shaping?",
     "options": [
       "Forging",
@@ -979,7 +979,7 @@
     "answerIndex": 2
   },
   {
-    "id": 90,
+    "id": 8,
     "question": "Which defect is most likely after poor accidental repair?",
     "options": [
       "Increased torque",
@@ -990,7 +990,7 @@
     "answerIndex": 1
   },
   {
-    "id": 91,
+    "id": 9,
     "question": "Which body part contributes maximum aerodynamic drag?",
     "options": [
       "Roof",
@@ -1001,7 +1001,7 @@
     "answerIndex": 1
   },
   {
-    "id": 92,
+    "id": 10,
     "question": "Streamlining of a vehicle body mainly improves:",
     "options": [
       "Cabin comfort",
@@ -1012,7 +1012,7 @@
     "answerIndex": 2
   },
   {
-    "id": 93,
+    "id": 11,
     "question": "Rolling resistance mainly depends on:",
     "options": [
       "Engine speed",
@@ -1023,7 +1023,7 @@
     "answerIndex": 1
   },
   {
-    "id": 94,
+    "id": 12,
     "question": "Air resistance increases with:",
     "options": [
       "Square of speed",
@@ -1034,7 +1034,7 @@
     "answerIndex": 0
   },
   {
-    "id": 95,
+    "id": 13,
     "question": "Gradient resistance acts when vehicle:",
     "options": [
       "Accelerates",
@@ -1045,7 +1045,7 @@
     "answerIndex": 2
   },
   {
-    "id": 96,
+    "id": 14,
     "question": "Tractive effort must overcome:",
     "options": [
       "Only rolling resistance",
@@ -1056,7 +1056,7 @@
     "answerIndex": 2
   },
   {
-    "id": 97,
+    "id": 15,
     "question": "Which motion causes side-to-side tilting of vehicle body?",
     "options": [
       "Pitching",
@@ -1067,7 +1067,7 @@
     "answerIndex": 2
   },
   {
-    "id": 98,
+    "id": 16,
     "question": "Yaw motion occurs about:",
     "options": [
       "Longitudinal axis",
@@ -1078,7 +1078,7 @@
     "answerIndex": 1
   },
   {
-    "id": 99,
+    "id": 17,
     "question": "Bouncing is mainly due to:",
     "options": [
       "Poor steering",
@@ -1089,7 +1089,7 @@
     "answerIndex": 1
   },
   {
-    "id": 100,
+    "id": 18,
     "question": "Sway is most noticeable during:",
     "options": [
       "Straight motion",
@@ -1100,7 +1100,7 @@
     "answerIndex": 1
   },
   {
-    "id": 101,
+    "id": 19,
     "question": "Which resistance exists even when vehicle is stationary?",
     "options": [
       "Rolling resistance",
@@ -1111,7 +1111,7 @@
     "answerIndex": 2
   },
   {
-    "id": 102,
+    "id": 20,
     "question": "Lower center of gravity improves:",
     "options": [
       "Fuel consumption",
@@ -1122,7 +1122,7 @@
     "answerIndex": 1
   },
   {
-    "id": 103,
+    "id": 21,
     "question": "Which accessory improves aerodynamics?",
     "options": [
       "Mud flap",
@@ -1133,7 +1133,7 @@
     "answerIndex": 2
   },
   {
-    "id": 104,
+    "id": 22,
     "question": "Vehicle drag coefficient depends on:",
     "options": [
       "Engine size",
@@ -1144,7 +1144,7 @@
     "answerIndex": 1
   },
   {
-    "id": 105,
+    "id": 23,
     "question": "Which panel protects engine compartment from cabin?",
     "options": [
       "Bonnet",
@@ -1155,7 +1155,7 @@
     "answerIndex": 1
   },
   {
-    "id": 106,
+    "id": 24,
     "question": "Galvanization of body panels is done to:",
     "options": [
       "Increase strength",
@@ -1166,7 +1166,7 @@
     "answerIndex": 2
   },
   {
-    "id": 107,
+    "id": 25,
     "question": "Which coating is applied first during body painting?",
     "options": [
       "Clear coat",
@@ -1177,7 +1177,7 @@
     "answerIndex": 2
   },
   {
-    "id": 108,
+    "id": 26,
     "question": "Underbody coating is mainly applied to:",
     "options": [
       "Improve mileage",
@@ -1188,7 +1188,7 @@
     "answerIndex": 1
   },
   {
-    "id": 109,
+    "id": 27,
     "question": "Which body type offers maximum cargo space?",
     "options": [
       "Coupe",
@@ -1199,7 +1199,7 @@
     "answerIndex": 2
   },
   {
-    "id": 110,
+    "id": 28,
     "question": "Accident repair quality affects:",
     "options": [
       "Engine efficiency only",
@@ -1210,7 +1210,7 @@
     "answerIndex": 1
   },
   {
-    "id": 111,
+    "id": 29,
     "question": "Spot welding is commonly used for:",
     "options": [
       "Engine block",
@@ -1221,7 +1221,7 @@
     "answerIndex": 1
   },
   {
-    "id": 112,
+    "id": 30,
     "question": "Which metal offers best strength-to-weight ratio?",
     "options": [
       "Cast iron",
@@ -1232,7 +1232,7 @@
     "answerIndex": 2
   },
   {
-    "id": 113,
+    "id": 31,
     "question": "Body rigidity helps in:",
     "options": [
       "Better noise insulation",
@@ -1243,7 +1243,7 @@
     "answerIndex": 1
   },
   {
-    "id": 114,
+    "id": 32,
     "question": "Vehicle stability is least affected by:",
     "options": [
       "Wheelbase",
@@ -1254,7 +1254,7 @@
     "answerIndex": 2
   },
   {
-    "id": 115,
+    "id": 33,
     "question": "Aerodynamic lift mainly affects:",
     "options": [
       "Braking",
@@ -1265,7 +1265,7 @@
     "answerIndex": 1
   },
   {
-    "id": 116,
+    "id": 34,
     "question": "Which resistance dominates at low speed?",
     "options": [
       "Air resistance",
@@ -1276,7 +1276,7 @@
     "answerIndex": 1
   },
   {
-    "id": 117,
+    "id": 35,
     "question": "Which body material reduces overall vehicle weight?",
     "options": [
       "Cast iron",
@@ -1287,7 +1287,7 @@
     "answerIndex": 2
   },
   {
-    "id": 118,
+    "id": 36,
     "question": "Which body structure improves passenger safety?",
     "options": [
       "Rigid frame only",
@@ -1298,7 +1298,7 @@
     "answerIndex": 1
   },
   {
-    "id": 119,
+    "id": 37,
     "question": "Vehicle pitching occurs during:",
     "options": [
       "Sudden acceleration or braking",
@@ -1309,7 +1309,7 @@
     "answerIndex": 0
   },
   {
-    "id": 120,
+    "id": 38,
     "question": "Which force keeps tyres in contact with road?",
     "options": [
       "Drag force",
@@ -1320,7 +1320,7 @@
     "answerIndex": 1
   },
   {
-    "id": 121,
+    "id": 39,
     "question": "Which shape offers minimum air drag?",
     "options": [
       "Cubical",
@@ -1331,7 +1331,7 @@
     "answerIndex": 2
   },
   {
-    "id": 122,
+    "id": 40,
     "question": "Increased frontal area causes:",
     "options": [
       "Lower air resistance",
@@ -1342,7 +1342,7 @@
     "answerIndex": 1
   },
   {
-    "id": 123,
+    "id": 41,
     "question": "Which parameter affects tractive effort most?",
     "options": [
       "Tyre-road friction",
@@ -1353,7 +1353,7 @@
     "answerIndex": 0
   },
   {
-    "id": 124,
+    "id": 42,
     "question": "Body accessories should not:",
     "options": [
       "Increase drag excessively",
@@ -1364,7 +1364,7 @@
     "answerIndex": 0
   },
   {
-    "id": 125,
+    "id": 43,
     "question": "Which motion causes nose left-right movement?",
     "options": [
       "Pitch",
@@ -1375,7 +1375,7 @@
     "answerIndex": 2
   },
   {
-    "id": 126,
+    "id": 44,
     "question": "Vehicle resistance always opposes:",
     "options": [
       "Engine torque",
@@ -1386,7 +1386,7 @@
     "answerIndex": 1
   },
   {
-    "id": 127,
+    "id": 45,
     "question": "Better streamlining mainly benefits:",
     "options": [
       "City driving",
@@ -1397,7 +1397,7 @@
     "answerIndex": 1
   },
   {
-    "id": 128,
+    "id": 46,
     "question": "Which body material is recyclable and lightweight?",
     "options": [
       "Steel",
@@ -1408,7 +1408,7 @@
     "answerIndex": 1
   },
   {
-    "id": 129,
+    "id": 47,
     "question": "Which panel reduces splash from wheels?",
     "options": [
       "Bonnet",
@@ -1419,7 +1419,7 @@
     "answerIndex": 1
   },
   {
-    "id": 130,
+    "id": 48,
     "question": "Which resistance depends on slope angle?",
     "options": [
       "Rolling",
@@ -1430,7 +1430,7 @@
     "answerIndex": 2
   },
   {
-    "id": 131,
+    "id": 49,
     "question": "Which force enables vehicle acceleration?",
     "options": [
       "Drag",
@@ -1441,7 +1441,7 @@
     "answerIndex": 2
   },
   {
-    "id": 132,
+    "id": 50,
     "question": "Automobile body design directly influences:",
     "options": [
       "Gear ratios",
@@ -1452,7 +1452,7 @@
     "answerIndex": 2
   },
   {
-    "id": 133,
+    "id": 51,
     "question": "The main drawback of carbureted SI engines is:",
     "options": [
       "High fuel pressure requirement",
@@ -1463,7 +1463,7 @@
     "answerIndex": 1
   },
   {
-    "id": 134,
+    "id": 52,
     "question": "MPFI system injects fuel:",
     "options": [
       "Into carburetor",
@@ -1474,7 +1474,7 @@
     "answerIndex": 2
   },
   {
-    "id": 135,
+    "id": 53,
     "question": "Throttle Body Injection (TBI) is similar to:",
     "options": [
       "Diesel injection",
@@ -1485,7 +1485,7 @@
     "answerIndex": 1
   },
   {
-    "id": 136,
+    "id": 54,
     "question": "Port Fuel Injection (PFI) improves:",
     "options": [
       "Engine weight",
@@ -1496,7 +1496,7 @@
     "answerIndex": 1
   },
   {
-    "id": 137,
+    "id": 55,
     "question": "MPFI system is controlled by:",
     "options": [
       "Mechanical governor",
@@ -1507,7 +1507,7 @@
     "answerIndex": 1
   },
   {
-    "id": 138,
+    "id": 56,
     "question": "Which sensor measures throttle opening?",
     "options": [
       "MAP sensor",
@@ -1518,7 +1518,7 @@
     "answerIndex": 1
   },
   {
-    "id": 139,
+    "id": 57,
     "question": "Oxygen sensor is mounted in:",
     "options": [
       "Intake manifold",
@@ -1529,7 +1529,7 @@
     "answerIndex": 2
   },
   {
-    "id": 140,
+    "id": 58,
     "question": "MAP sensor measures:",
     "options": [
       "Air velocity",
@@ -1540,7 +1540,7 @@
     "answerIndex": 1
   },
   {
-    "id": 141,
+    "id": 59,
     "question": "MAF sensor directly measures:",
     "options": [
       "Air mass entering engine",
@@ -1551,7 +1551,7 @@
     "answerIndex": 0
   },
   {
-    "id": 142,
+    "id": 60,
     "question": "Knock sensor detects:",
     "options": [
       "Engine overheating",
@@ -1562,7 +1562,7 @@
     "answerIndex": 1
   },
   {
-    "id": 143,
+    "id": 61,
     "question": "CRDI stands for:",
     "options": [
       "Controlled Rail Diesel Injection",
@@ -1573,7 +1573,7 @@
     "answerIndex": 1
   },
   {
-    "id": 144,
+    "id": 62,
     "question": "The main advantage of CRDI engine is:",
     "options": [
       "Low injection pressure",
@@ -1584,7 +1584,7 @@
     "answerIndex": 2
   },
   {
-    "id": 145,
+    "id": 63,
     "question": "In CRDI system, fuel pressure is generated by:",
     "options": [
       "Injector",
@@ -1595,7 +1595,7 @@
     "answerIndex": 2
   },
   {
-    "id": 146,
+    "id": 64,
     "question": "Common rail acts as:",
     "options": [
       "Fuel return line",
@@ -1606,7 +1606,7 @@
     "answerIndex": 1
   },
   {
-    "id": 147,
+    "id": 65,
     "question": "CRDI injectors are operated by:",
     "options": [
       "Mechanical cam",
@@ -1617,7 +1617,7 @@
     "answerIndex": 1
   },
   {
-    "id": 148,
+    "id": 66,
     "question": "Injection pressure in CRDI engines can exceed:",
     "options": [
       "100 bar",
@@ -1628,7 +1628,7 @@
     "answerIndex": 2
   },
   {
-    "id": 149,
+    "id": 67,
     "question": "Pilot injection in CRDI engines helps to:",
     "options": [
       "Increase noise",
@@ -1639,7 +1639,7 @@
     "answerIndex": 1
   },
   {
-    "id": 150,
+    "id": 68,
     "question": "Multiple injections per cycle result in:",
     "options": [
       "Rough engine operation",
@@ -1650,7 +1650,7 @@
     "answerIndex": 1
   },
   {
-    "id": 151,
+    "id": 69,
     "question": "CRDI engines are mostly used in:",
     "options": [
       "Petrol cars",
@@ -1661,7 +1661,7 @@
     "answerIndex": 2
   },
   {
-    "id": 152,
+    "id": 70,
     "question": "CRDI system improves:",
     "options": [
       "Emissions and efficiency",
@@ -1672,7 +1672,7 @@
     "answerIndex": 0
   },
   {
-    "id": 153,
+    "id": 71,
     "question": "VGT stands for:",
     "options": [
       "Variable Gear Transmission",
@@ -1683,7 +1683,7 @@
     "answerIndex": 1
   },
   {
-    "id": 154,
+    "id": 72,
     "question": "VGT improves engine performance by:",
     "options": [
       "Controlling exhaust gas flow",
@@ -1694,7 +1694,7 @@
     "answerIndex": 0
   },
   {
-    "id": 155,
+    "id": 73,
     "question": "VGT reduces:",
     "options": [
       "Turbo lag",
@@ -1705,7 +1705,7 @@
     "answerIndex": 0
   },
   {
-    "id": 156,
+    "id": 74,
     "question": "VVT system controls:",
     "options": [
       "Fuel pressure",
@@ -1716,7 +1716,7 @@
     "answerIndex": 2
   },
   {
-    "id": 157,
+    "id": 75,
     "question": "Main benefit of VVT is:",
     "options": [
       "Reduced engine speed",
@@ -1727,7 +1727,7 @@
     "answerIndex": 1
   },
   {
-    "id": 158,
+    "id": 76,
     "question": "GDI stands for:",
     "options": [
       "Gasoline Direct Injection",
@@ -1738,7 +1738,7 @@
     "answerIndex": 0
   },
   {
-    "id": 159,
+    "id": 77,
     "question": "In GDI engines, fuel is injected:",
     "options": [
       "In intake manifold",
@@ -1749,7 +1749,7 @@
     "answerIndex": 2
   },
   {
-    "id": 160,
+    "id": 78,
     "question": "Stratified charge combustion helps in:",
     "options": [
       "High fuel consumption",
@@ -1760,7 +1760,7 @@
     "answerIndex": 1
   },
   {
-    "id": 161,
+    "id": 79,
     "question": "GDI engines mainly improve:",
     "options": [
       "Vehicle weight",
@@ -1771,7 +1771,7 @@
     "answerIndex": 1
   },
   {
-    "id": 162,
+    "id": 80,
     "question": "GDI engines require:",
     "options": [
       "Low pressure pump only",
@@ -1782,7 +1782,7 @@
     "answerIndex": 1
   },
   {
-    "id": 163,
+    "id": 81,
     "question": "EGR stands for:",
     "options": [
       "Engine Gas Reduction",
@@ -1793,7 +1793,7 @@
     "answerIndex": 1
   },
   {
-    "id": 164,
+    "id": 82,
     "question": "EGR reduces:",
     "options": [
       "CO emissions",
@@ -1804,7 +1804,7 @@
     "answerIndex": 2
   },
   {
-    "id": 165,
+    "id": 83,
     "question": "EGR works by:",
     "options": [
       "Increasing combustion temperature",
@@ -1815,7 +1815,7 @@
     "answerIndex": 1
   },
   {
-    "id": 166,
+    "id": 84,
     "question": "PCV system prevents:",
     "options": [
       "Fuel leakage",
@@ -1826,7 +1826,7 @@
     "answerIndex": 1
   },
   {
-    "id": 167,
+    "id": 85,
     "question": "Evaporative emission control system reduces:",
     "options": [
       "Exhaust smoke",
@@ -1837,7 +1837,7 @@
     "answerIndex": 1
   },
   {
-    "id": 168,
+    "id": 86,
     "question": "Main advantage of electric vehicles is:",
     "options": [
       "High emissions",
@@ -1848,7 +1848,7 @@
     "answerIndex": 1
   },
   {
-    "id": 169,
+    "id": 87,
     "question": "EV propulsion system uses:",
     "options": [
       "Internal combustion engine",
@@ -1859,7 +1859,7 @@
     "answerIndex": 1
   },
   {
-    "id": 170,
+    "id": 88,
     "question": "Most commonly used EV battery is:",
     "options": [
       "Lead acid",
@@ -1870,7 +1870,7 @@
     "answerIndex": 2
   },
   {
-    "id": 171,
+    "id": 89,
     "question": "Battery Management System (BMS) is used to:",
     "options": [
       "Increase vehicle speed",
@@ -1881,7 +1881,7 @@
     "answerIndex": 1
   },
   {
-    "id": 172,
+    "id": 90,
     "question": "Regenerative braking converts:",
     "options": [
       "Heat to sound",
@@ -1892,7 +1892,7 @@
     "answerIndex": 2
   },
   {
-    "id": 173,
+    "id": 91,
     "question": "Electric motors in EVs are preferred because they:",
     "options": [
       "Require gearboxes",
@@ -1903,7 +1903,7 @@
     "answerIndex": 1
   },
   {
-    "id": 174,
+    "id": 92,
     "question": "Charging infrastructure for EVs includes:",
     "options": [
       "Fuel pumps",
@@ -1914,7 +1914,7 @@
     "answerIndex": 1
   },
   {
-    "id": 175,
+    "id": 93,
     "question": "EVs generally have:",
     "options": [
       "Higher maintenance than IC engines",
@@ -1925,7 +1925,7 @@
     "answerIndex": 1
   },
   {
-    "id": 176,
+    "id": 94,
     "question": "Range of EV mainly depends on:",
     "options": [
       "Vehicle color",
@@ -1936,7 +1936,7 @@
     "answerIndex": 1
   },
   {
-    "id": 177,
+    "id": 95,
     "question": "One limitation of EVs is:",
     "options": [
       "High torque",
@@ -1947,7 +1947,7 @@
     "answerIndex": 2
   },
   {
-    "id": 178,
+    "id": 96,
     "question": "Lithium-ion batteries are preferred due to:",
     "options": [
       "High weight",
@@ -1958,7 +1958,7 @@
     "answerIndex": 2
   },
   {
-    "id": 179,
+    "id": 97,
     "question": "Thermal management of EV battery is important to:",
     "options": [
       "Improve aesthetics",
@@ -1969,7 +1969,7 @@
     "answerIndex": 1
   },
   {
-    "id": 180,
+    "id": 98,
     "question": "EV layout eliminates:",
     "options": [
       "Electric motor",
@@ -1980,7 +1980,7 @@
     "answerIndex": 1
   },
   {
-    "id": 181,
+    "id": 99,
     "question": "Electric motor efficiency is generally:",
     "options": [
       "Lower than IC engine",
@@ -1991,7 +1991,7 @@
     "answerIndex": 2
   },
   {
-    "id": 182,
+    "id": 100,
     "question": "EVs contribute to:",
     "options": [
       "Higher pollution",
@@ -2002,7 +2002,7 @@
     "answerIndex": 1
   },
   {
-    "id": 183,
+    "id": 101,
     "question": "HVAC system in a car is mainly designed to:",
     "options": [
       "Cool the engine",
@@ -2013,7 +2013,7 @@
     "answerIndex": 2
   },
   {
-    "id": 184,
+    "id": 102,
     "question": "The term HVAC stands for:",
     "options": [
       "High Velocity Air Cooling",
@@ -2024,7 +2024,7 @@
     "answerIndex": 1
   },
   {
-    "id": 185,
+    "id": 103,
     "question": "Refrigeration in car AC system works on:",
     "options": [
       "Heat addition principle",
@@ -2035,7 +2035,7 @@
     "answerIndex": 1
   },
   {
-    "id": 186,
+    "id": 104,
     "question": "The refrigerant absorbs heat in:",
     "options": [
       "Condenser",
@@ -2046,7 +2046,7 @@
     "answerIndex": 2
   },
   {
-    "id": 187,
+    "id": 105,
     "question": "The main objective of ventilation is to:",
     "options": [
       "Reduce engine heat",
@@ -2057,7 +2057,7 @@
     "answerIndex": 1
   },
   {
-    "id": 188,
+    "id": 106,
     "question": "Vapour compression cycle consists of how many main components?",
     "options": [
       "Two",
@@ -2068,7 +2068,7 @@
     "answerIndex": 2
   },
   {
-    "id": 189,
+    "id": 107,
     "question": "Which component compresses low-pressure refrigerant?",
     "options": [
       "Condenser",
@@ -2079,7 +2079,7 @@
     "answerIndex": 1
   },
   {
-    "id": 190,
+    "id": 108,
     "question": "Heat is rejected to atmosphere in:",
     "options": [
       "Evaporator",
@@ -2090,7 +2090,7 @@
     "answerIndex": 2
   },
   {
-    "id": 191,
+    "id": 109,
     "question": "Expansion valve causes:",
     "options": [
       "Increase in pressure",
@@ -2101,7 +2101,7 @@
     "answerIndex": 1
   },
   {
-    "id": 192,
+    "id": 110,
     "question": "Refrigerant enters the evaporator as:",
     "options": [
       "High-pressure liquid",
@@ -2112,7 +2112,7 @@
     "answerIndex": 1
   },
   {
-    "id": 193,
+    "id": 111,
     "question": "Compressor in AC system is driven by:",
     "options": [
       "Electric motor only",
@@ -2123,7 +2123,7 @@
     "answerIndex": 1
   },
   {
-    "id": 194,
+    "id": 112,
     "question": "Condenser is usually located:",
     "options": [
       "Inside dashboard",
@@ -2134,7 +2134,7 @@
     "answerIndex": 2
   },
   {
-    "id": 195,
+    "id": 113,
     "question": "Receiver-drier performs which function?",
     "options": [
       "Compress refrigerant",
@@ -2145,7 +2145,7 @@
     "answerIndex": 2
   },
   {
-    "id": 196,
+    "id": 114,
     "question": "Evaporator is installed:",
     "options": [
       "In engine compartment",
@@ -2156,7 +2156,7 @@
     "answerIndex": 1
   },
   {
-    "id": 197,
+    "id": 115,
     "question": "Expansion valve controls:",
     "options": [
       "Air flow rate",
@@ -2167,7 +2167,7 @@
     "answerIndex": 1
   },
   {
-    "id": 198,
+    "id": 116,
     "question": "Car heating system utilizes heat from:",
     "options": [
       "Exhaust gases",
@@ -2178,7 +2178,7 @@
     "answerIndex": 1
   },
   {
-    "id": 199,
+    "id": 117,
     "question": "Heater core functions similar to:",
     "options": [
       "Condenser",
@@ -2189,7 +2189,7 @@
     "answerIndex": 2
   },
   {
-    "id": 200,
+    "id": 118,
     "question": "Heater control valve regulates:",
     "options": [
       "Refrigerant pressure",
@@ -2200,7 +2200,7 @@
     "answerIndex": 1
   },
   {
-    "id": 201,
+    "id": 119,
     "question": "Heating system is most effective when:",
     "options": [
       "Engine is cold",
@@ -2211,7 +2211,7 @@
     "answerIndex": 1
   },
   {
-    "id": 202,
+    "id": 120,
     "question": "Heating system does NOT require:",
     "options": [
       "Coolant circulation",
@@ -2222,7 +2222,7 @@
     "answerIndex": 2
   },
   {
-    "id": 203,
+    "id": 121,
     "question": "Blower motor is used to:",
     "options": [
       "Compress refrigerant",
@@ -2233,7 +2233,7 @@
     "answerIndex": 1
   },
   {
-    "id": 204,
+    "id": 122,
     "question": "Cabin air filter removes:",
     "options": [
       "Moisture",
@@ -2244,7 +2244,7 @@
     "answerIndex": 1
   },
   {
-    "id": 205,
+    "id": 123,
     "question": "Fresh air mode allows:",
     "options": [
       "Cabin air circulation",
@@ -2255,7 +2255,7 @@
     "answerIndex": 1
   },
   {
-    "id": 206,
+    "id": 124,
     "question": "Recirculation mode is preferred:",
     "options": [
       "During heavy traffic",
@@ -2266,7 +2266,7 @@
     "answerIndex": 0
   },
   {
-    "id": 207,
+    "id": 125,
     "question": "Ventilation system mainly improves:",
     "options": [
       "Engine efficiency",
@@ -2277,7 +2277,7 @@
     "answerIndex": 1
   },
   {
-    "id": 208,
+    "id": 126,
     "question": "Human comfort depends mainly on:",
     "options": [
       "Temperature only",
@@ -2288,7 +2288,7 @@
     "answerIndex": 2
   },
   {
-    "id": 209,
+    "id": 127,
     "question": "Comfortable temperature inside car cabin is:",
     "options": [
       "5–10°C",
@@ -2299,7 +2299,7 @@
     "answerIndex": 2
   },
   {
-    "id": 210,
+    "id": 128,
     "question": "Ideal relative humidity for comfort is:",
     "options": [
       "10–20%",
@@ -2310,7 +2310,7 @@
     "answerIndex": 2
   },
   {
-    "id": 211,
+    "id": 129,
     "question": "High humidity causes:",
     "options": [
       "Better cooling",
@@ -2321,7 +2321,7 @@
     "answerIndex": 2
   },
   {
-    "id": 212,
+    "id": 130,
     "question": "Comfort zone is represented using:",
     "options": [
       "PV diagram",
@@ -2332,7 +2332,7 @@
     "answerIndex": 2
   },
   {
-    "id": 213,
+    "id": 131,
     "question": "Refrigerant used should have:",
     "options": [
       "High toxicity",
@@ -2343,7 +2343,7 @@
     "answerIndex": 2
   },
   {
-    "id": 214,
+    "id": 132,
     "question": "Eco-friendly refrigerants are selected based on:",
     "options": [
       "Color",
@@ -2354,7 +2354,7 @@
     "answerIndex": 2
   },
   {
-    "id": 215,
+    "id": 133,
     "question": "R-1234yf is preferred due to:",
     "options": [
       "High pressure",
@@ -2365,7 +2365,7 @@
     "answerIndex": 2
   },
   {
-    "id": 216,
+    "id": 134,
     "question": "Refrigerant leakage is dangerous because it:",
     "options": [
       "Increases cooling",
@@ -2376,7 +2376,7 @@
     "answerIndex": 1
   },
   {
-    "id": 217,
+    "id": 135,
     "question": "Refrigerant should never be released into:",
     "options": [
       "Condenser",
@@ -2387,7 +2387,7 @@
     "answerIndex": 2
   },
   {
-    "id": 218,
+    "id": 136,
     "question": "Refrigerant charging is done after:",
     "options": [
       "Heating the system",
@@ -2398,7 +2398,7 @@
     "answerIndex": 1
   },
   {
-    "id": 219,
+    "id": 137,
     "question": "Vacuum pump is used to:",
     "options": [
       "Add refrigerant",
@@ -2409,7 +2409,7 @@
     "answerIndex": 1
   },
   {
-    "id": 220,
+    "id": 138,
     "question": "Overcharging refrigerant leads to:",
     "options": [
       "Low pressure",
@@ -2420,7 +2420,7 @@
     "answerIndex": 1
   },
   {
-    "id": 221,
+    "id": 139,
     "question": "Under-charging refrigerant results in:",
     "options": [
       "Excess cooling",
@@ -2431,7 +2431,7 @@
     "answerIndex": 1
   },
   {
-    "id": 222,
+    "id": 140,
     "question": "Temperature control system maintains:",
     "options": [
       "Engine temperature",
@@ -2442,7 +2442,7 @@
     "answerIndex": 1
   },
   {
-    "id": 223,
+    "id": 141,
     "question": "Dehumidification occurs when air passes over:",
     "options": [
       "Hot heater core",
@@ -2453,7 +2453,7 @@
     "answerIndex": 1
   },
   {
-    "id": 224,
+    "id": 142,
     "question": "Moisture removal prevents:",
     "options": [
       "Engine overheating",
@@ -2464,7 +2464,7 @@
     "answerIndex": 1
   },
   {
-    "id": 225,
+    "id": 143,
     "question": "Humidity control improves:",
     "options": [
       "Engine power",
@@ -2475,7 +2475,7 @@
     "answerIndex": 1
   },
   {
-    "id": 226,
+    "id": 144,
     "question": "Lower evaporator temperature results in:",
     "options": [
       "Poor cooling",
@@ -2486,7 +2486,7 @@
     "answerIndex": 1
   },
   {
-    "id": 227,
+    "id": 145,
     "question": "HVAC system integrates heating, cooling and:",
     "options": [
       "Ignition",
@@ -2497,7 +2497,7 @@
     "answerIndex": 1
   },
   {
-    "id": 228,
+    "id": 146,
     "question": "Keyless entry systems mainly improve:",
     "options": [
       "Engine performance",
@@ -2508,7 +2508,7 @@
     "answerIndex": 1
   },
   {
-    "id": 229,
+    "id": 147,
     "question": "The transmitter used in keyless entry is powered by:",
     "options": [
       "Vehicle battery",
@@ -2519,7 +2519,7 @@
     "answerIndex": 2
   },
   {
-    "id": 230,
+    "id": 148,
     "question": "Keyless entry receiver is generally mounted:",
     "options": [
       "Inside key fob",
@@ -2530,7 +2530,7 @@
     "answerIndex": 1
   },
   {
-    "id": 231,
+    "id": 149,
     "question": "Rolling code system enhances:",
     "options": [
       "Signal strength",
@@ -2541,7 +2541,7 @@
     "answerIndex": 1
   },
   {
-    "id": 232,
+    "id": 150,
     "question": "Immobilizer system prevents:",
     "options": [
       "Door unlocking",
@@ -2552,7 +2552,7 @@
     "answerIndex": 1
   },
   {
-    "id": 233,
+    "id": 151,
     "question": "Automatic door lock system is activated based on:",
     "options": [
       "Engine RPM",
@@ -2563,7 +2563,7 @@
     "answerIndex": 1
   },
   {
-    "id": 234,
+    "id": 152,
     "question": "Central locking system locks:",
     "options": [
       "Only driver door",
@@ -2574,7 +2574,7 @@
     "answerIndex": 1
   },
   {
-    "id": 235,
+    "id": 153,
     "question": "The main controller of central locking system is:",
     "options": [
       "ECU",
@@ -2585,7 +2585,7 @@
     "answerIndex": 1
   },
   {
-    "id": 236,
+    "id": 154,
     "question": "Automatic unlocking in accidents is triggered by:",
     "options": [
       "Speed sensor",
@@ -2596,7 +2596,7 @@
     "answerIndex": 1
   },
   {
-    "id": 237,
+    "id": 155,
     "question": "Door actuator converts:",
     "options": [
       "Electrical energy into mechanical motion",
@@ -2607,7 +2607,7 @@
     "answerIndex": 0
   },
   {
-    "id": 238,
+    "id": 156,
     "question": "Park assist system helps mainly during:",
     "options": [
       "Highway driving",
@@ -2618,7 +2618,7 @@
     "answerIndex": 2
   },
   {
-    "id": 239,
+    "id": 157,
     "question": "Park assist sensors operate on:",
     "options": [
       "Infrared waves",
@@ -2629,7 +2629,7 @@
     "answerIndex": 1
   },
   {
-    "id": 240,
+    "id": 158,
     "question": "The distance is measured by park assist using:",
     "options": [
       "Signal frequency change",
@@ -2640,7 +2640,7 @@
     "answerIndex": 1
   },
   {
-    "id": 241,
+    "id": 159,
     "question": "Park assist warning intensity increases when:",
     "options": [
       "Speed increases",
@@ -2651,7 +2651,7 @@
     "answerIndex": 1
   },
   {
-    "id": 242,
+    "id": 160,
     "question": "Park assist improves:",
     "options": [
       "Fuel efficiency",
@@ -2662,7 +2662,7 @@
     "answerIndex": 1
   },
   {
-    "id": 243,
+    "id": 161,
     "question": "Automatic headlight dimming avoids:",
     "options": [
       "Battery drain",
@@ -2673,7 +2673,7 @@
     "answerIndex": 2
   },
   {
-    "id": 244,
+    "id": 162,
     "question": "Automatic headlight dimming is based on:",
     "options": [
       "Engine speed",
@@ -2684,7 +2684,7 @@
     "answerIndex": 1
   },
   {
-    "id": 245,
+    "id": 163,
     "question": "Photodiode sensor is used to detect:",
     "options": [
       "Temperature",
@@ -2695,7 +2695,7 @@
     "answerIndex": 2
   },
   {
-    "id": 246,
+    "id": 164,
     "question": "High beam is automatically changed to low beam when:",
     "options": [
       "Road is empty",
@@ -2706,7 +2706,7 @@
     "answerIndex": 1
   },
   {
-    "id": 247,
+    "id": 165,
     "question": "Automatic headlight ON/OFF system improves:",
     "options": [
       "Driving convenience",
@@ -2717,7 +2717,7 @@
     "answerIndex": 0
   },
   {
-    "id": 248,
+    "id": 166,
     "question": "GPS helps in:",
     "options": [
       "Engine diagnostics",
@@ -2728,7 +2728,7 @@
     "answerIndex": 1
   },
   {
-    "id": 249,
+    "id": 167,
     "question": "GPS works using:",
     "options": [
       "Mobile towers",
@@ -2739,7 +2739,7 @@
     "answerIndex": 1
   },
   {
-    "id": 250,
+    "id": 168,
     "question": "Minimum satellites required for accurate GPS position are:",
     "options": [
       "Two",
@@ -2750,7 +2750,7 @@
     "answerIndex": 2
   },
   {
-    "id": 251,
+    "id": 169,
     "question": "GPRS is mainly used for:",
     "options": [
       "Offline maps",
@@ -2761,7 +2761,7 @@
     "answerIndex": 1
   },
   {
-    "id": 252,
+    "id": 170,
     "question": "GPS system accuracy depends on:",
     "options": [
       "Vehicle speed",
@@ -2772,7 +2772,7 @@
     "answerIndex": 1
   },
   {
-    "id": 253,
+    "id": 171,
     "question": "Seat belts are classified as:",
     "options": [
       "Active safety",
@@ -2783,7 +2783,7 @@
     "answerIndex": 1
   },
   {
-    "id": 254,
+    "id": 172,
     "question": "Airbags deploy during:",
     "options": [
       "Normal braking",
@@ -2794,7 +2794,7 @@
     "answerIndex": 2
   },
   {
-    "id": 255,
+    "id": 173,
     "question": "Airbag sensors detect:",
     "options": [
       "Vehicle speed",
@@ -2805,7 +2805,7 @@
     "answerIndex": 1
   },
   {
-    "id": 256,
+    "id": 174,
     "question": "ABS prevents:",
     "options": [
       "Brake overheating",
@@ -2816,7 +2816,7 @@
     "answerIndex": 1
   },
   {
-    "id": 257,
+    "id": 175,
     "question": "ABS mainly improves:",
     "options": [
       "Straight-line speed",
@@ -2827,7 +2827,7 @@
     "answerIndex": 1
   },
   {
-    "id": 258,
+    "id": 176,
     "question": "Electronic Stability Control (ESC) prevents:",
     "options": [
       "Engine knocking",
@@ -2838,7 +2838,7 @@
     "answerIndex": 1
   },
   {
-    "id": 259,
+    "id": 177,
     "question": "ESC works using:",
     "options": [
       "Engine sensors only",
@@ -2849,7 +2849,7 @@
     "answerIndex": 1
   },
   {
-    "id": 260,
+    "id": 178,
     "question": "Collapsible steering column is used to:",
     "options": [
       "Improve steering feel",
@@ -2860,7 +2860,7 @@
     "answerIndex": 1
   },
   {
-    "id": 261,
+    "id": 179,
     "question": "Crumple zones are designed to:",
     "options": [
       "Increase stiffness",
@@ -2871,7 +2871,7 @@
     "answerIndex": 1
   },
   {
-    "id": 262,
+    "id": 180,
     "question": "Central locking contributes to:",
     "options": [
       "Passenger safety",
@@ -2882,7 +2882,7 @@
     "answerIndex": 0
   },
   {
-    "id": 263,
+    "id": 181,
     "question": "Active safety systems aim to:",
     "options": [
       "Reduce injury after crash",
@@ -2893,7 +2893,7 @@
     "answerIndex": 1
   },
   {
-    "id": 264,
+    "id": 182,
     "question": "Passive safety systems are effective:",
     "options": [
       "Before accident",
@@ -2904,7 +2904,7 @@
     "answerIndex": 1
   },
   {
-    "id": 265,
+    "id": 183,
     "question": "Safety devices increase:",
     "options": [
       "Vehicle cost only",
@@ -2915,7 +2915,7 @@
     "answerIndex": 2
   },
   {
-    "id": 266,
+    "id": 184,
     "question": "Advanced safety systems rely heavily on:",
     "options": [
       "Mechanical linkages",
@@ -2926,7 +2926,7 @@
     "answerIndex": 1
   },
   {
-    "id": 267,
+    "id": 185,
     "question": "Combination of ABS and ESC improves:",
     "options": [
       "Ride comfort",
@@ -2937,7 +2937,7 @@
     "answerIndex": 1
   },
   {
-    "id": 268,
+    "id": 186,
     "question": "The primary function of an oxygen sensor is to:",
     "options": [
       "Measure engine temperature",
@@ -2948,7 +2948,7 @@
     "answerIndex": 1
   },
   {
-    "id": 269,
+    "id": 187,
     "question": "Oxygen sensor output is generally in the form of:",
     "options": [
       "Current",
@@ -2959,7 +2959,7 @@
     "answerIndex": 2
   },
   {
-    "id": 270,
+    "id": 188,
     "question": "Engine coolant temperature sensor is usually a:",
     "options": [
       "Capacitive sensor",
@@ -2970,7 +2970,7 @@
     "answerIndex": 2
   },
   {
-    "id": 271,
+    "id": 189,
     "question": "Intake air temperature sensor mainly affects:",
     "options": [
       "Ignition timing",
@@ -2981,7 +2981,7 @@
     "answerIndex": 1
   },
   {
-    "id": 272,
+    "id": 190,
     "question": "Throttle Position Sensor (TPS) detects:",
     "options": [
       "Air velocity",
@@ -2992,7 +2992,7 @@
     "answerIndex": 1
   },
   {
-    "id": 273,
+    "id": 191,
     "question": "MAP sensor measures:",
     "options": [
       "Mass air flow",
@@ -3003,7 +3003,7 @@
     "answerIndex": 1
   },
   {
-    "id": 274,
+    "id": 192,
     "question": "Vehicle Speed Sensor (VSS) provides input to:",
     "options": [
       "Fuel pump only",
@@ -3014,7 +3014,7 @@
     "answerIndex": 1
   },
   {
-    "id": 275,
+    "id": 193,
     "question": "MAF sensor malfunction can cause:",
     "options": [
       "Brake failure",
@@ -3025,7 +3025,7 @@
     "answerIndex": 1
   },
   {
-    "id": 276,
+    "id": 194,
     "question": "Knock sensor is used to protect engine from:",
     "options": [
       "Overheating",
@@ -3036,7 +3036,7 @@
     "answerIndex": 1
   },
   {
-    "id": 277,
+    "id": 195,
     "question": "Crankshaft Position Sensor helps ECU to determine:",
     "options": [
       "Engine load",
@@ -3047,7 +3047,7 @@
     "answerIndex": 1
   },
   {
-    "id": 278,
+    "id": 196,
     "question": "Multimeter is used in sensor testing to measure:",
     "options": [
       "Only voltage",
@@ -3058,7 +3058,7 @@
     "answerIndex": 2
   },
   {
-    "id": 279,
+    "id": 197,
     "question": "An open-circuit sensor will show:",
     "options": [
       "Zero resistance",
@@ -3069,7 +3069,7 @@
     "answerIndex": 1
   },
   {
-    "id": 280,
+    "id": 198,
     "question": "A faulty TPS can cause:",
     "options": [
       "Hard steering",
@@ -3080,7 +3080,7 @@
     "answerIndex": 1
   },
   {
-    "id": 281,
+    "id": 199,
     "question": "Incorrect sensor signals may lead to:",
     "options": [
       "Wrong ECU decisions",
@@ -3091,7 +3091,7 @@
     "answerIndex": 0
   },
   {
-    "id": 282,
+    "id": 200,
     "question": "Sensor failure is commonly detected using:",
     "options": [
       "Screwdriver",
@@ -3102,7 +3102,7 @@
     "answerIndex": 1
   },
   {
-    "id": 283,
+    "id": 201,
     "question": "Actuators convert:",
     "options": [
       "Mechanical energy into electrical",
@@ -3113,7 +3113,7 @@
     "answerIndex": 1
   },
   {
-    "id": 284,
+    "id": 202,
     "question": "Fuel injector is an example of:",
     "options": [
       "Sensor",
@@ -3124,7 +3124,7 @@
     "answerIndex": 1
   },
   {
-    "id": 285,
+    "id": 203,
     "question": "Injector opening is controlled by:",
     "options": [
       "Fuel pump",
@@ -3135,7 +3135,7 @@
     "answerIndex": 1
   },
   {
-    "id": 286,
+    "id": 204,
     "question": "Injector “click” sound test checks:",
     "options": [
       "Fuel quality",
@@ -3146,7 +3146,7 @@
     "answerIndex": 1
   },
   {
-    "id": 287,
+    "id": 205,
     "question": "Injector resistance is measured using:",
     "options": [
       "Ammeter",
@@ -3157,7 +3157,7 @@
     "answerIndex": 1
   },
   {
-    "id": 288,
+    "id": 206,
     "question": "OBD stands for:",
     "options": [
       "On-Board Device",
@@ -3168,7 +3168,7 @@
     "answerIndex": 1
   },
   {
-    "id": 289,
+    "id": 207,
     "question": "OBD-II system monitors:",
     "options": [
       "Only engine speed",
@@ -3179,7 +3179,7 @@
     "answerIndex": 2
   },
   {
-    "id": 290,
+    "id": 208,
     "question": "Malfunction Indicator Lamp (MIL) glows when:",
     "options": [
       "Fuel tank is empty",
@@ -3190,7 +3190,7 @@
     "answerIndex": 1
   },
   {
-    "id": 291,
+    "id": 209,
     "question": "OBD-II connector is used to:",
     "options": [
       "Charge battery",
@@ -3201,7 +3201,7 @@
     "answerIndex": 1
   },
   {
-    "id": 292,
+    "id": 210,
     "question": "Flash codes were used in:",
     "options": [
       "OBD-III",
@@ -3212,7 +3212,7 @@
     "answerIndex": 1
   },
   {
-    "id": 293,
+    "id": 211,
     "question": "DTCs are standardized under:",
     "options": [
       "ISO standards",
@@ -3223,7 +3223,7 @@
     "answerIndex": 1
   },
   {
-    "id": 294,
+    "id": 212,
     "question": "A 5-digit DTC consists of:",
     "options": [
       "Letters only",
@@ -3234,7 +3234,7 @@
     "answerIndex": 2
   },
   {
-    "id": 295,
+    "id": 213,
     "question": "First letter of DTC indicates:",
     "options": [
       "Severity of fault",
@@ -3245,7 +3245,7 @@
     "answerIndex": 2
   },
   {
-    "id": 296,
+    "id": 214,
     "question": "DTC starting with “P” relates to:",
     "options": [
       "Body system",
@@ -3256,7 +3256,7 @@
     "answerIndex": 2
   },
   {
-    "id": 297,
+    "id": 215,
     "question": "DTC starting with “B” indicates fault in:",
     "options": [
       "Engine",
@@ -3267,7 +3267,7 @@
     "answerIndex": 1
   },
   {
-    "id": 298,
+    "id": 216,
     "question": "ECU stores DTCs in:",
     "options": [
       "RAM",
@@ -3278,7 +3278,7 @@
     "answerIndex": 2
   },
   {
-    "id": 299,
+    "id": 217,
     "question": "Clearing DTCs without repair may:",
     "options": [
       "Permanently solve fault",
@@ -3289,7 +3289,7 @@
     "answerIndex": 1
   },
   {
-    "id": 300,
+    "id": 218,
     "question": "Diagnostic scan tool communicates with ECU using:",
     "options": [
       "Mechanical link",
@@ -3300,7 +3300,7 @@
     "answerIndex": 2
   },
   {
-    "id": 301,
+    "id": 219,
     "question": "Proper diagnosis reduces:",
     "options": [
       "Repair accuracy",
@@ -3311,7 +3311,7 @@
     "answerIndex": 1
   },
   {
-    "id": 302,
+    "id": 220,
     "question": "Correct diagnosis mainly depends on:",
     "options": [
       "Guesswork",
@@ -3320,5 +3320,3734 @@
       "Vehicle color"
     ],
     "answerIndex": 1
+  },
+  {
+    "id": 1,
+    "question": "Which refrigerant replaced R-134a in most modern car HVAC systems due to environmental concerns?",
+    "options": [
+      "R-12",
+      "R-22",
+      "R-1234yf",
+      "R-410A"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "The main environmental problem caused by old refrigerants like R-12 was:",
+    "options": [
+      "Global warming only",
+      "Ozone layer depletion",
+      "Acid rain",
+      "Water pollution"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Which gas from car AC systems contributes to global warming?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Refrigerant gas",
+      "Nitrogen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "The Global Warming Potential (GWP) of R-1234yf is:",
+    "options": [
+      "Very high",
+      "Moderate",
+      "Very low",
+      "Zero"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a personal safety precaution for AC servicing?",
+    "options": [
+      "Wearing loose clothes",
+      "Avoiding goggles",
+      "Wearing gloves and safety glasses",
+      "Disconnecting battery is unnecessary"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Refrigerant leaks are dangerous mainly because they:",
+    "options": [
+      "Smell bad",
+      "Are expensive",
+      "Reduce oxygen level in closed areas",
+      "Make engine noisy"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Which tool is used to detect refrigerant leakage?",
+    "options": [
+      "Thermostat",
+      "Manifold gauge",
+      "Leak detector",
+      "Ammeter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 9,
+    "question": "Why should refrigerant never be vented into the atmosphere?",
+    "options": [
+      "It damages compressor",
+      "It increases cooling",
+      "It harms the environment",
+      "It reduces airflow"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "Which component removes moisture from the refrigerant?",
+    "options": [
+      "Condenser",
+      "Receiver-drier",
+      "Compressor",
+      "Expansion valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Refrigeration is the process of:",
+    "options": [
+      "Heating a space",
+      "Cooling a space below atmospheric temperature",
+      "Removing humidity",
+      "Supplying hot air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "The working fluid in refrigeration is called:",
+    "options": [
+      "Coolant",
+      "Refrigerant",
+      "Lubricant",
+      "Water"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "In an air conditioning system, the main function of the evaporator is to:",
+    "options": [
+      "Compress gas",
+      "Absorb heat",
+      "Reject heat",
+      "Pump refrigerant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which component increases the pressure of the refrigerant?",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Expansion valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Air conditioning controls all except:",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Air cleanliness",
+      "Fuel consumption ✅"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 17,
+    "question": "The function of a condenser in an AC system is to:",
+    "options": [
+      "Absorb heat",
+      "Reject heat to atmosphere",
+      "Increase pressure",
+      "Reduce temperature only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "The device used to measure temperature is:",
+    "options": [
+      "Hygrometer",
+      "Barometer",
+      "Thermometer",
+      "Anemometer"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "Relative humidity is defined as:",
+    "options": [
+      "Amount of dry air",
+      "Amount of moisture compared to maximum moisture air can hold",
+      "Air pressure difference",
+      "Cooling capacity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "Air-conditioning is different from refrigeration because it also controls:",
+    "options": [
+      "Pressure",
+      "Only temperature",
+      "Humidity and air purity",
+      "Speed of air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 21,
+    "question": "The vapour compression cycle has how many main components?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 22,
+    "question": "The function of the expansion valve is to:",
+    "options": [
+      "Increase pressure",
+      "Decrease pressure",
+      "Absorb heat",
+      "Reject heat"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 23,
+    "question": "In which component does refrigerant absorb heat?",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Expansion valve"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 24,
+    "question": "Which process occurs in the compressor?",
+    "options": [
+      "Heat absorption",
+      "Condensation",
+      "Isentropic compression",
+      "Throttling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 25,
+    "question": "Heat rejection occurs in the:",
+    "options": [
+      "Evaporator",
+      "Compressor",
+      "Condenser",
+      "Expansion device"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 26,
+    "question": "In a vapour compression cycle, the refrigerant leaves the evaporator as:",
+    "options": [
+      "Liquid",
+      "Superheated vapour",
+      "Subcooled liquid",
+      "Wet vapour"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 27,
+    "question": "The expansion process occurs at:",
+    "options": [
+      "Constant pressure",
+      "Constant temperature",
+      "Constant enthalpy",
+      "Constant volume"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 28,
+    "question": "The refrigerant enters condenser as:",
+    "options": [
+      "Low pressure liquid",
+      "High pressure vapour",
+      "Low pressure vapour",
+      "High pressure liquid"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "Which cycle is used in car AC systems?",
+    "options": [
+      "Steam power cycle",
+      "Vapour absorption cycle",
+      "Vapour compression cycle",
+      "Rankine cycle"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 30,
+    "question": "COP of a refrigeration system is defined as:",
+    "options": [
+      "Work done / Heat absorbed",
+      "Heat rejected / Work input",
+      "Heat absorbed / Work input",
+      "Work input / Heat rejected"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 1,
+    "question": "The main function of the compressor in a car AC system is to:",
+    "options": [
+      "Store refrigerant",
+      "Increase pressure of refrigerant",
+      "Cool the refrigerant",
+      "Absorb heat from cabin"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which component converts high-pressure refrigerant gas into liquid?",
+    "options": [
+      "Evaporator",
+      "Compressor",
+      "Condenser",
+      "Receiver drier"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "The expansion valve in the AC system:",
+    "options": [
+      "Increases refrigerant temperature",
+      "Reduces refrigerant pressure",
+      "Removes moisture",
+      "Compresses gas"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "The evaporator is usually located:",
+    "options": [
+      "In front of the radiator",
+      "Inside the dashboard",
+      "Near the engine block",
+      "Under the car"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Which component removes moisture from refrigerant?",
+    "options": [
+      "Condenser",
+      "Receiver-drier",
+      "Expansion valve",
+      "Compressor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Refrigerant in a car AC absorbs heat inside the:",
+    "options": [
+      "Condenser",
+      "Compressor",
+      "Evaporator",
+      "Receiver drier"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a part of a car AC system?",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Fuel injector",
+      "Compressor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "The blower motor is used to:",
+    "options": [
+      "Cool engine",
+      "Circulate air in the cabin",
+      "Reduce fuel consumption",
+      "Lubricate compressor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "The cabin air filter is located:",
+    "options": [
+      "Before the compressor",
+      "In air intake duct",
+      "Inside the condenser",
+      "In refrigerant pipe"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "The mode door in HVAC system controls:",
+    "options": [
+      "Refrigerant flow",
+      "Engine speed",
+      "Direction of airflow",
+      "Pressure of refrigerant"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "In heating mode, warm air is produced using:",
+    "options": [
+      "Hot exhaust gases",
+      "Hot engine coolant",
+      "Hot compressor oil",
+      "Hot radiator fan air"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Recirculation flap helps to:",
+    "options": [
+      "Increase fuel efficiency",
+      "Prevent refrigerant leakage",
+      "Recirculate cabin air",
+      "Increase compressor speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "In defrost mode, air is mainly directed towards:",
+    "options": [
+      "Rear seats",
+      "Side doors",
+      "Windshield",
+      "Floor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "The heater core works as:",
+    "options": [
+      "A compressor",
+      "A small radiator",
+      "An expansion valve",
+      "A condenser"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Hot engine coolant flows from which part to the heater core?",
+    "options": [
+      "Fuel tank",
+      "Exhaust pipe",
+      "Engine block / cylinder head",
+      "Brake lines"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 16,
+    "question": "The main source of heat for automobile heating system is:",
+    "options": [
+      "Battery",
+      "Engine waste heat",
+      "Outside air",
+      "Exhaust muffler"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "The function of heater control valve is to:",
+    "options": [
+      "Control refrigerant pressure",
+      "Control coolant flow to heater core",
+      "Control speed of blower",
+      "Control temperature sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "The purpose of ventilation in a car is to:",
+    "options": [
+      "Heat the engine",
+      "Supply fresh air",
+      "Increase tyre pressure",
+      "Improve acceleration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Which component removes dust before air enters the cabin?",
+    "options": [
+      "Expansion valve",
+      "Condenser",
+      "Cabin air filter",
+      "Radiator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "The blower motor in ventilation system is used to:",
+    "options": [
+      "Push refrigerant into condenser",
+      "Draw in and circulate air",
+      "Compress air",
+      "Cool engine oil"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 1,
+    "question": "The comfortable temperature range for most people is:",
+    "options": [
+      "10–15°C",
+      "18–27°C",
+      "30–40°C",
+      "0–10°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "The ideal relative humidity for human comfort lies between:",
+    "options": [
+      "10–20%",
+      "20–30%",
+      "40–60%",
+      "80–100%"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "High air velocity in a room causes:",
+    "options": [
+      "Better comfort",
+      "Skin dryness",
+      "Feeling of cold discomfort",
+      "No effect"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Human comfort mainly depends on:",
+    "options": [
+      "Temperature only",
+      "Humidity only",
+      "Air motion only",
+      "Temperature, humidity and air motion"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 5,
+    "question": "Which of the following reduces body heat through evaporation?",
+    "options": [
+      "Radiation",
+      "Conduction",
+      "Evaporation of sweat",
+      "Convection"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "The ideal air velocity for human comfort in air conditioning is:",
+    "options": [
+      "0.1 – 0.25 m/s",
+      "1 – 2 m/s",
+      "4 – 5 m/s",
+      "10 m/s"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "Which factor does NOT affect human comfort directly?",
+    "options": [
+      "Air temperature",
+      "Noise level",
+      "Relative humidity",
+      "Air movement"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Human body loses maximum heat through:",
+    "options": [
+      "Evaporation",
+      "Radiation",
+      "Conduction",
+      "Respiration"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "The comfort zone is shown on:",
+    "options": [
+      "T–S diagram",
+      "P–V diagram",
+      "Psychrometric chart",
+      "Mollier diagram"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Which refrigerant is most commonly used in modern car AC systems?",
+    "options": [
+      "R-12",
+      "R-134a",
+      "R-22",
+      "R-410A"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Which refrigerant is widely used now due to its low global warming potential (GWP)?",
+    "options": [
+      "R-12",
+      "R-1234yf",
+      "R-404A",
+      "R-717"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "The main reason R-12 was banned is because it:",
+    "options": [
+      "Is expensive",
+      "Causes ozone depletion",
+      "Has low efficiency",
+      "Causes corrosion"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which property is important for a good refrigerant?",
+    "options": [
+      "High boiling point",
+      "High toxicity",
+      "High latent heat of vaporization",
+      "High viscosity"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 17,
+    "question": "The chemical name of R-134a is:",
+    "options": [
+      "Dichlorodifluoromethane",
+      "Tetrafluoroethane",
+      "Chlorodifluoromethane",
+      "Ammonia"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "Which refrigerant has very low Global Warming Potential compared to R-134a?",
+    "options": [
+      "R-22",
+      "R-12",
+      "R-1234yf",
+      "R-407C"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "The refrigerant used should be:",
+    "options": [
+      "Highly flammable",
+      "Highly toxic",
+      "Chemically stable",
+      "Highly corrosive"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 20,
+    "question": "Which refrigerant is non-toxic and non-flammable?",
+    "options": [
+      "R-717 (Ammonia)",
+      "R-12",
+      "R-134a",
+      "R-600a"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 1,
+    "question": "Before charging refrigerant, the system should be:",
+    "options": [
+      "Heated",
+      "Pressurized",
+      "Evacuated",
+      "Oiled"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "Why is vacuum created before charging refrigerant?",
+    "options": [
+      "To increase pressure",
+      "To remove air and moisture",
+      "To cool the pipes",
+      "To test compressor speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Which instrument is used to measure high and low side pressure during charging?",
+    "options": [
+      "Thermometer",
+      "Manifold gauge set",
+      "Hydrometer",
+      "Voltmeter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "Undercharging the AC system results in:",
+    "options": [
+      "Excess cooling",
+      "Compressor damage",
+      "Reduced cooling effect",
+      "Frost on condenser"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Overcharging the refrigerant causes:",
+    "options": [
+      "Low pressure",
+      "No cooling",
+      "Higher system pressure",
+      "Freezing of evaporator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "Refrigerant should be charged in which state through the low-pressure side?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Vapor",
+      "Plasma"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Which component indicates correct refrigerant level in older systems?",
+    "options": [
+      "Sight glass",
+      "Thermostat",
+      "Clutch coil",
+      "Fan motor"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "Which safety precaution is necessary during refrigerant charging?",
+    "options": [
+      "Keep system near fire",
+      "Wear safety gloves and goggles",
+      "Touch refrigerant directly",
+      "Work in closed room"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "The standard method of charging refrigerant in car AC is based on:",
+    "options": [
+      "Time method",
+      "Pressure method",
+      "Weight method",
+      "Temperature method"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "After charging, which step should be performed?",
+    "options": [
+      "Disconnect compressor belt",
+      "Check for leaks",
+      "Switch off blower",
+      "Open expansion valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "The main function of the temperature control system is to:",
+    "options": [
+      "Control vehicle speed",
+      "Maintain desired cabin temperature",
+      "Control fuel injection",
+      "Reduce engine load"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "The temperature sensor in a car HVAC system senses:",
+    "options": [
+      "Engine temperature",
+      "Outside temperature only",
+      "Cabin air temperature",
+      "Tyre temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 13,
+    "question": "In automatic climate control, temperature is controlled by:",
+    "options": [
+      "Driver manually",
+      "ECU and sensors",
+      "Expansion valve only",
+      "Radiator"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Which component controls mixed hot and cold air?",
+    "options": [
+      "Compressor",
+      "Condenser",
+      "Blend door",
+      "Evaporator"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "The thermostat in an HVAC system is used to:",
+    "options": [
+      "Control refrigerant pressure",
+      "Sense cabin temperature",
+      "Control compressor ON/OFF",
+      "Control blower speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 1,
+    "question": "The main purpose of a keyless entry system is to:",
+    "options": [
+      "Improve engine power",
+      "Enable remote locking/unlocking of doors",
+      "Increase fuel efficiency",
+      "Control HVAC system"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Which component sends the signal in a keyless entry system?",
+    "options": [
+      "Door actuator",
+      "Car ECU",
+      "Key fob (Transmitter)",
+      "Receiver motor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 3,
+    "question": "Keyless entry systems generally operate using:",
+    "options": [
+      "Infrared waves",
+      "Bluetooth only",
+      "Radio Frequency (RF) signals",
+      "Sound waves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "In a keyless entry system, the receiver is located:",
+    "options": [
+      "Inside the key",
+      "Inside the door lock",
+      "Inside the vehicle body",
+      "Near the battery"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "Rolling code technology is used in keyless systems to:",
+    "options": [
+      "Increase signal range",
+      "Reduce battery usage",
+      "Prevent theft by code duplication",
+      "Improve door motor speed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 6,
+    "question": "The main function of an anti-theft system is to:",
+    "options": [
+      "Increase car speed",
+      "Prevent unauthorized vehicle use",
+      "Improve braking",
+      "Improve suspension"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 7,
+    "question": "An engine immobilizer works by:",
+    "options": [
+      "Locking the steering wheel",
+      "Cutting fuel or ignition system",
+      "Locking the doors",
+      "Activating the horn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Which sensor detects unauthorised entry into a car?",
+    "options": [
+      "Oxygen sensor",
+      "Door sensor",
+      "Temperature sensor",
+      "MAF sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "A vehicle immobilizer compares the:",
+    "options": [
+      "Engine RPM",
+      "Fuel pressure",
+      "Key code with ECU data",
+      "Door position"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Automatic door lock system function is to:",
+    "options": [
+      "Lock doors when car reaches a certain speed",
+      "Lock only driver’s door",
+      "Prevent engine overheating",
+      "Increase tyre pressure"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "In many cars, automatic door locking activates when speed crosses:",
+    "options": [
+      "5 km/h",
+      "10–15 km/h",
+      "40 km/h",
+      "80 km/h"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "Which sensor supports automatic door locking?",
+    "options": [
+      "Oxygen sensor",
+      "Speed sensor",
+      "Rain sensor",
+      "Temperature sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "The central locking system is controlled by:",
+    "options": [
+      "Radiator",
+      "Body Control Module (BCM)",
+      "Alternator",
+      "ECU only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Automatic unlocking usually happens:",
+    "options": [
+      "When AC is turned off",
+      "When airbags deploy",
+      "When speed increases",
+      "When headlights turn on"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "The main function of a park assist system is to:",
+    "options": [
+      "Increase braking power",
+      "Help driver park safely",
+      "Increase engine RPM",
+      "Boost battery power"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "Park assist system uses which type of sensor most commonly?",
+    "options": [
+      "Temperature sensor",
+      "Ultrasonic sensor",
+      "Pressure sensor",
+      "Oxygen sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "The park assist system gives warning through:",
+    "options": [
+      "Engine sound",
+      "Dashboard lights only",
+      "Beeps and display indication",
+      "Horn only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "In automatic park assist, steering is controlled by:",
+    "options": [
+      "Driver",
+      "Steering ECU",
+      "Brake system",
+      "GPS ✅ Answer: B"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "Park assist sensors are usually mounted on:",
+    "options": [
+      "Roof of the car",
+      "Side mirrors",
+      "Front and rear bumpers",
+      "Inside tyres"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 1,
+    "question": "The main purpose of automatic headlight dimming is to:",
+    "options": [
+      "Increase battery voltage",
+      "Prevent dazzling of oncoming vehicles",
+      "Make headlights brighter",
+      "Improve fuel economy"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 2,
+    "question": "Automatic headlight dimming mainly works based on:",
+    "options": [
+      "Vehicle speed",
+      "Ambient light and oncoming vehicle light intensity",
+      "Engine temperature",
+      "Steering angle"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Which sensor is used in automatic headlight dimming?",
+    "options": [
+      "Ultrasonic sensor",
+      "Light sensor / Photodiode",
+      "Oxygen sensor",
+      "Speed sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 4,
+    "question": "When an oncoming vehicle is detected, the headlight system automatically switches from:",
+    "options": [
+      "Low beam to fog beam",
+      "Low beam to parking light",
+      "High beam to low beam",
+      "High beam to off"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 5,
+    "question": "The control of automatic dimming is handled by:",
+    "options": [
+      "Ignition switch",
+      "Driver manually",
+      "Body Control Module (BCM)",
+      "Dashboard switch only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "The time delay in automatic headlight system is mainly used to:",
+    "options": [
+      "Save fuel",
+      "Prevent frequent switching due to sudden light changes",
+      "Increase headlamp brightness",
+      "Reduce engine load"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "The headlight usually turns ON automatically when:",
+    "options": [
+      "Sunlight is strong",
+      "Car is parked",
+      "Ambient light falls below a set level",
+      "Speed increases"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 10,
+    "question": "The “Follow-me-home” headlight feature is related to:",
+    "options": [
+      "Fog lights operation",
+      "Automatic delay OFF headlight",
+      "Brake light operation",
+      "Turn signal system"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "GPS stands for:",
+    "options": [
+      "Global Position Sensor",
+      "Global Position System",
+      "Geographical Position Satellite",
+      "General Position System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "GPS system helps in:",
+    "options": [
+      "Engine tuning",
+      "Vehicle location tracking",
+      "Fuel injection",
+      "Airbag deployment"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "GPRS is mainly used in cars for:",
+    "options": [
+      "Wireless braking system",
+      "Mobile data communication",
+      "Cooling system control",
+      "Engine lubrication"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "GPRS stands for:",
+    "options": [
+      "Global Packet Radio Service",
+      "General Packet Routing System",
+      "Global Position Radio Service",
+      "General Position Routing System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "Which component receives GPS signals from satellites?",
+    "options": [
+      "ECU",
+      "GPS receiver/antenna",
+      "BCM",
+      "Engine sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 16,
+    "question": "GPS requires how many satellites minimum for accurate positioning?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 17,
+    "question": "GPRS mainly helps in:",
+    "options": [
+      "Offline navigation only",
+      "Real-time traffic updates and internet services",
+      "Headlamp brightness control",
+      "Fuel pressure regulation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 18,
+    "question": "Which system works without mobile network?",
+    "options": [
+      "GPRS",
+      "Bluetooth",
+      "GPS",
+      "Wi-Fi"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 19,
+    "question": "GPS navigation uses:",
+    "options": [
+      "Sound waves",
+      "Radio waves",
+      "Infrared waves",
+      "Magnetic waves"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 20,
+    "question": "GPS system accuracy mainly depends on:",
+    "options": [
+      "Vehicle color",
+      "Number of satellites visible",
+      "Battery voltage",
+      "Tyre pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 1,
+    "question": "HVAC stands for:",
+    "options": [
+      "Heating, Ventilation and Air Conditioning",
+      "High Voltage Air Cooling",
+      "Heating, Vapour and AC",
+      "Heater Ventilation Application"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "Blower motor function is:",
+    "options": [
+      "Flow refrigerant",
+      "Circulate air",
+      "Compress refrigerant",
+      "Heat coolant"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 3,
+    "question": "Evaporator is located in:",
+    "options": [
+      "Engine bay",
+      "Condenser area",
+      "Cabin dashboard",
+      "Fuel tank"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 4,
+    "question": "Which controls airflow direction?",
+    "options": [
+      "Expansion valve",
+      "Air vents",
+      "Condenser",
+      "Compressor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Recirculation mode:",
+    "options": [
+      "Brings fresh air always",
+      "Reuses inside air",
+      "Stops blower",
+      "Heats engine"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Car heating system uses heat from:",
+    "options": [
+      "Exhaust gas",
+      "Battery",
+      "Engine coolant",
+      "Radiator fan"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Heater core acts like:",
+    "options": [
+      "Condenser",
+      "Evaporator",
+      "Radiator",
+      "Compressor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Ventilation system helps in:",
+    "options": [
+      "Increasing engine power",
+      "Air circulation and fresh air supply",
+      "Fuel injection",
+      "Improving mileage"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Blend door is used for:",
+    "options": [
+      "Mixing hot and cold air",
+      "Compressing refrigerant",
+      "Filtering air",
+      "Cooling engine"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "Heater valve controls:",
+    "options": [
+      "Fuel supply",
+      "Coolant flow",
+      "Air flow",
+      "Oil pressure"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Comfortable temperature range for car occupants is:",
+    "options": [
+      "5–10°C",
+      "18–26°C",
+      "30–40°C",
+      "Above 45°C"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Comfort humidity range is:",
+    "options": [
+      "10–20%",
+      "30–60%",
+      "70–90%",
+      "90–100%"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "Human comfort depends on:",
+    "options": [
+      "Temperature only",
+      "Humidity only",
+      "Temperature, humidity, air movement",
+      "Sunlight only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 14,
+    "question": "High humidity causes:",
+    "options": [
+      "Excess cooling",
+      "Sweating and discomfort",
+      "Cold sensation",
+      "No effect"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 15,
+    "question": "Air movement improves comfort by:",
+    "options": [
+      "Increasing sweating",
+      "Increasing evaporation of sweat",
+      "Increasing humidity",
+      "Stopping heat loss"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 1,
+    "question": "Which refrigerant is currently used in most modern cars?",
+    "options": [
+      "R12",
+      "R22",
+      "R134a",
+      "Ammonia"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 2,
+    "question": "Eco-friendly refrigerant is:",
+    "options": [
+      "R1234yf",
+      "R12",
+      "R500",
+      "R11"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "Main property of refrigerant:",
+    "options": [
+      "Non-toxic",
+      "Non-flammable",
+      "High latent heat",
+      "All of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 4,
+    "question": "Which refrigerant has very low GWP?",
+    "options": [
+      "R134a",
+      "R1234yf",
+      "R22",
+      "R410A"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 5,
+    "question": "Refrigerant should have:",
+    "options": [
+      "High boiling point",
+      "Low boiling point",
+      "High density",
+      "Poor heat transfer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 6,
+    "question": "Refrigerant charging is done:",
+    "options": [
+      "In liquid form",
+      "In gaseous form",
+      "Both",
+      "Solid form"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 7,
+    "question": "Overcharging results in:",
+    "options": [
+      "Poor cooling",
+      "High compressor load",
+      "Both A and B",
+      "Engine stall"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 8,
+    "question": "Undercharging causes:",
+    "options": [
+      "Ice formation",
+      "Reduced cooling",
+      "Compressor noise",
+      "All of the above"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 9,
+    "question": "Which tool is used for charging?",
+    "options": [
+      "Vacuum pump",
+      "Manifold gauge set",
+      "Screwdriver",
+      "Multimeter"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Before charging, system should be:",
+    "options": [
+      "Washed",
+      "Dried and evacuated",
+      "Filled with oil",
+      "Heated"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 10,
+    "question": "Before charging, system should be:",
+    "options": [
+      "Washed",
+      "Dried and evacuated",
+      "Filled with oil",
+      "Heated"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 11,
+    "question": "Thermostat is used to:",
+    "options": [
+      "Control engine speed",
+      "Control cabin temperature",
+      "Control blower speed",
+      "Control fuel flow"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 12,
+    "question": "Humidity is reduced by:",
+    "options": [
+      "Heater core",
+      "Evaporator",
+      "Compressor",
+      "Condenser"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 13,
+    "question": "Climate control system is:",
+    "options": [
+      "Manual control",
+      "Automatic control",
+      "Mechanical only",
+      "Electrical only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 14,
+    "question": "Cabin temperature sensor measures:",
+    "options": [
+      "Engine temperature",
+      "Outside temperature",
+      "Inside temperature",
+      "Refrigerant temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 15,
+    "question": "Dehumidification occurs when:",
+    "options": [
+      "Air passes through evaporator",
+      "Air passes through heater",
+      "Fan stops",
+      "Air is recirculated"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 16,
+    "question": "Keyless entry works using:",
+    "options": [
+      "Bluetooth only",
+      "Infrared or RF signal",
+      "Wired connection",
+      "Mechanical link"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 17,
+    "question": "Immobilizer prevents:",
+    "options": [
+      "Door locking",
+      "Engine starting without authorized key",
+      "Fuel filling",
+      "Brake operation"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 19,
+    "question": "Central locking system:",
+    "options": [
+      "Locks all doors together",
+      "Locks only driver door",
+      "Locks engine",
+      "Locks boot only"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "Anti-theft alarm activates when:",
+    "options": [
+      "Ignition ON",
+      "Unauthorized attempt detected",
+      "AC ON",
+      "Door closed normally"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 21,
+    "question": "Parking sensors use:",
+    "options": [
+      "Infrared waves",
+      "Ultrasonic waves",
+      "Radio waves",
+      "Microwave"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 22,
+    "question": "Park assist helps in:",
+    "options": [
+      "Lane changing",
+      "Accurate parking",
+      "Fuel control",
+      "Suspension control"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 24,
+    "question": "Automatic headlight sensor detects:",
+    "options": [
+      "Engine temperature",
+      "Light intensity",
+      "Vehicle speed",
+      "Obstacle distance"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 25,
+    "question": "Automatic dimming works using:",
+    "options": [
+      "Ultrasonic sensor",
+      "Light sensor",
+      "Speed sensor",
+      "Temperature sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 26,
+    "question": "Delay off headlight means:",
+    "options": [
+      "Light stays ON after ignition OFF",
+      "Light stays ON while driving",
+      "Light OFF immediately",
+      "Light blinks"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "GPS stands for:",
+    "options": [
+      "Global Positioning System",
+      "General Packet System",
+      "Global Power Steering",
+      "Graphical Position System"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 28,
+    "question": "GPRS is used for:",
+    "options": [
+      "Navigation calculation",
+      "Data transmission",
+      "Vehicle braking",
+      "Parking"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 29,
+    "question": "GPS works using:",
+    "options": [
+      "Mobile towers",
+      "Satellites",
+      "Radar",
+      "Infrared"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 30,
+    "question": "Sealed beam headlamp means:",
+    "options": [
+      "Bulb can be replaced separately",
+      "Entire unit is sealed and replaced together",
+      "Only lens is sealed",
+      "Reflector is open"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 31,
+    "question": "Main parts of sealed beam headlamp are:",
+    "options": [
+      "Bulb & battery",
+      "Lens, reflector, filament",
+      "Switch & relay",
+      "Fuse & horn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 32,
+    "question": "Dazzle occurs due to:",
+    "options": [
+      "Low beam",
+      "High beam",
+      "Parking light",
+      "Fog lamp"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 33,
+    "question": "Anti-dazzle mirror helps reduce:",
+    "options": [
+      "Engine noise",
+      "Glare from rear vehicles",
+      "Fuel consumption",
+      "Headlight brightness"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 34,
+    "question": "Beam control is achieved by:",
+    "options": [
+      "Adjusting headlamp angle",
+      "Changing colour",
+      "Changing battery",
+      "Changing horn"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "Air bag inflates mainly during:",
+    "options": [
+      "Side impact",
+      "Rear collision",
+      "Frontal collision",
+      "Minor vibration"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 36,
+    "question": "Air bags inflate within:",
+    "options": [
+      "1 second",
+      "0.1 to 0.3 seconds",
+      "2 seconds",
+      "After engine stops"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 37,
+    "question": "Which sensor is used to detect crash?",
+    "options": [
+      "Temperature sensor",
+      "Impact sensor",
+      "Oxygen sensor",
+      "Speed sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 38,
+    "question": "Which gas is commonly used for airbag inflation?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon monoxide"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "SRS stands for:",
+    "options": [
+      "Safety Restraint System",
+      "Supplemental Restraint System",
+      "Secure Restrain System",
+      "Safety Response System"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 40,
+    "question": "Seat belt prevents:",
+    "options": [
+      "Vehicle rollover",
+      "Occupant ejection during crash",
+      "Engine failure",
+      "Tyre burst"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 41,
+    "question": "Three-point seat belt includes:",
+    "options": [
+      "Lap belt only",
+      "Shoulder belt only",
+      "Lap and shoulder belt",
+      "Neck support"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 42,
+    "question": "Seat belt pretensioner function is to:",
+    "options": [
+      "Loosen belt",
+      "Tighten belt during collision",
+      "Protect engine",
+      "Activate air bag only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 43,
+    "question": "Which material is used in seat belts?",
+    "options": [
+      "Rubber",
+      "Nylon",
+      "Steel",
+      "Cotton"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 44,
+    "question": "Load limiter helps to:",
+    "options": [
+      "Increase belt force",
+      "Reduce chest injury",
+      "Increase speed",
+      "Prevent engine overheating"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 45,
+    "question": "Central locking allows:",
+    "options": [
+      "Only driver door locking",
+      "All doors to be locked/unlocked together",
+      "Only boot door locking",
+      "Engine locking"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 46,
+    "question": "Central locking system works using:",
+    "options": [
+      "Hydraulic actuators",
+      "Pneumatic actuators",
+      "Electrical actuators",
+      "Mechanical rods only"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 47,
+    "question": "Remote key system transmits signals via:",
+    "options": [
+      "Wires",
+      "RF waves",
+      "Sound waves",
+      "Light waves"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 48,
+    "question": "Main purpose of collapsible steering is to:",
+    "options": [
+      "Improve steering efficiency",
+      "Absorb impact energy during crash",
+      "Increase vehicle speed",
+      "Reduce fuel consumption"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "In a frontal crash, rigid steering column can:",
+    "options": [
+      "Protect driver",
+      "Increase driver injuries",
+      "Lock the brakes",
+      "Control vehicle direction"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 50,
+    "question": "Collapsible steering column uses:",
+    "options": [
+      "Solid steel rod",
+      "Breakaway sleeve / telescopic arrangement",
+      "Plastic shaft",
+      "Rubber coupling only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 51,
+    "question": "Purpose of ABS is to:",
+    "options": [
+      "Increase brake wear",
+      "Prevent wheel locking during braking",
+      "Increase stopping distance",
+      "Reduce fuel consumption"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 52,
+    "question": "ABS works by:",
+    "options": [
+      "Locking all wheels",
+      "Pumping the brakes manually",
+      "Modulating brake pressure automatically",
+      "Switching off brakes"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 53,
+    "question": "Which sensor is used in ABS?",
+    "options": [
+      "Pressure sensor",
+      "Wheel speed sensor",
+      "Temperature sensor",
+      "Oxygen sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 54,
+    "question": "ABS mainly improves:",
+    "options": [
+      "Steering control during braking",
+      "Engine power",
+      "Air conditioning",
+      "Mileage"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 55,
+    "question": "ESC is used to:",
+    "options": [
+      "Prevent engine overheating",
+      "Prevent skidding and loss of control",
+      "Improve air conditioning",
+      "Increase speed"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 56,
+    "question": "ESC functions by:",
+    "options": [
+      "Applying brakes to individual wheels",
+      "Turning off engine",
+      "Locking steering",
+      "Increasing tyre pressure"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 57,
+    "question": "ESC uses which sensors?",
+    "options": [
+      "Engine RPM sensor only",
+      "Yaw rate, steering angle and wheel speed sensors",
+      "Fuel sensors only",
+      "Temperature sensors only"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 58,
+    "question": "ESC mainly helps during:",
+    "options": [
+      "Straight driving",
+      "Driving in curves/slippery roads",
+      "Vehicle washing",
+      "Parking"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 59,
+    "question": "Which system works together with ABS to improve control?",
+    "options": [
+      "Power steering",
+      "ESC",
+      "AC system",
+      "Horn"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Which safety device reduces head and chest injuries?",
+    "options": [
+      "Air bag",
+      "Fuse",
+      "GPS",
+      "Tyre"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 61,
+    "question": "Which provides primary safety?",
+    "options": [
+      "Seat belt",
+      "Air bag",
+      "ESC",
+      "Central locking"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 62,
+    "question": "Which prevents car from rolling back on slopes?",
+    "options": [
+      "Hill Hold Control",
+      "Central locking",
+      "ABS",
+      "Air bag"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 1,
+    "question": "What is the main function of an automobile body?",
+    "options": [
+      "Improve engine performance",
+      "Support electrical systems",
+      "Provide space for passengers and goods",
+      "Increase fuel consumption Answer: ✅ C) Provide space for passengers and goods"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 2,
+    "question": "What is the term used for the lower part of the vehicle which includes the frame and suspension system?",
+    "options": [
+      "Roof panel",
+      "Chassis",
+      "Bonnet",
+      "Firewall Answer: ✅ B) Chassis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 3,
+    "question": "Which part of the body separates the engine compartment from the passenger compartment?",
+    "options": [
+      "Dash panel",
+      "Firewall",
+      "Bonnet",
+      "Radiator grill Answer: ✅ B) Firewall"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 4,
+    "question": "A Monocoque body construction means:",
+    "options": [
+      "The body and frame are separate",
+      "The body is built on a wooden frame",
+      "The body and chassis are integrated",
+      "The body is made only of plastic Answer: ✅ C) The body and chassis are integrate"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 5,
+    "question": "Which type of automobile body is commonly used in sports and racing cars?",
+    "options": [
+      "Hatchback",
+      "Convertible",
+      "Coupe",
+      "SUV Answer: ✅ C) Coupe"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 6,
+    "question": "What is the primary material used in conventional automobile body construction?",
+    "options": [
+      "Copper",
+      "Plastic",
+      "Steel",
+      "Aluminum Answer: ✅ C) Steel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not a vehicle body type?",
+    "options": [
+      "Sedan",
+      "Limousine",
+      "Transmission",
+      "Hatchback Answer: ✅ C) Transmission"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 8,
+    "question": "In which type of body construction is the frame and body built as one unit?",
+    "options": [
+      "Body-on-frame",
+      "Semi-monocoque",
+      "Monocoque",
+      "Ladder frame Answer: ✅ C) Monocoque"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 9,
+    "question": "Which specification is not typically included when comparing vehicle bodies?",
+    "options": [
+      "Fuel tank capacity",
+      "Seating capacity",
+      "Boot space",
+      "Number of doors Answer: ✅ A) Fuel tank capacity"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 10,
+    "question": "What is a characteristic of a “convertible” car body?",
+    "options": [
+      "Has no engine compartment",
+      "Fixed metal roof",
+      "Retractable or removable roof",
+      "Only two wheels Answer: ✅ C) Retractable or removable roof"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 12,
+    "question": "What is the typical body type of a heavy goods vehicle (HGV)?",
+    "options": [
+      "Coupe",
+      "SUV",
+      "Truck body",
+      "Sedan Answer: ✅ C) Truck body"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 13,
+    "question": "What does “SUV” stand for?",
+    "options": [
+      "Super Utility Van",
+      "Standard Utility Vehicle",
+      "Sports Utility Vehicle",
+      "Special Use Vehicle Answer: ✅ C) Sports Utility Vehicle"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 14,
+    "question": "In body construction, what is the primary purpose of crumple zones?",
+    "options": [
+      "Reduce fuel consumption",
+      "Provide comfort",
+      "Absorb impact energy in collisions",
+      "Add aesthetic design Answer: ✅ C) Absorb impact energy in collisions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 15,
+    "question": "Which of the following vehicles is typically built with a body-on-frame construction?",
+    "options": [
+      "Hatchback",
+      "SUV",
+      "Coupe",
+      "Convertible Answer: ✅ B) SUV"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 16,
+    "question": "Which of the following materials is most commonly used in automobile body construction?",
+    "options": [
+      "Copper",
+      "Mild Steel",
+      "Brass",
+      "Zinc Answer: ✅ B) Mild Steel"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 17,
+    "question": "Aluminium is used in automobile bodies mainly because of its:",
+    "options": [
+      "High cost",
+      "High weight",
+      "Corrosion resistance and lightweight",
+      "High strength only Answer: ✅ C) Corrosion resistance and lightweight"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 18,
+    "question": "Which material is primarily used in high-performance and luxury cars due to its strength-to-weight ratio?",
+    "options": [
+      "Mild steel",
+      "Cast iron",
+      "Carbon fiber",
+      "PVC Answer: ✅ C) Carbon fiber"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 19,
+    "question": "What is the purpose of galvanization in automotive body panels?",
+    "options": [
+      "Improve paint quality",
+      "Reduce body weight",
+      "Prevent rusting",
+      "Increase thickness Answer: ✅ C) Prevent rusting"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 20,
+    "question": "The first step in vehicle body fabrication is usually:",
+    "options": [
+      "Painting",
+      "Welding",
+      "Cutting and shaping sheet metal",
+      "Sanding Answer: ✅ C) Cutting and shaping sheet metal"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 21,
+    "question": "Which type of welding is most commonly used in automobile body repair?",
+    "options": [
+      "Arc welding",
+      "Gas welding",
+      "TIG welding",
+      "MIG welding Answer: ✅ D) MIG welding"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 22,
+    "question": "What is a common tool used for reshaping dented metal during accident repair?",
+    "options": [
+      "Hacksaw",
+      "Dent puller",
+      "Lathe",
+      "Drill machine Answer: ✅ B) Dent puller"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 23,
+    "question": "In accidental repairs, which of the following processes is used to smoothen the damaged surface before painting?",
+    "options": [
+      "Drilling",
+      "Sanding",
+      "Welding",
+      "Hammering Answer: ✅ B) Sanding"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 24,
+    "question": "The function of primer in body painting is to:",
+    "options": [
+      "Increase thickness",
+      "Provide color",
+      "Improve paint adhesion and prevent rust",
+      "Make it waterproof Answer: ✅ C) Improve paint adhesion and prevent rust"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 25,
+    "question": "Which body accessory helps reduce wind resistance and improve aerodynamics?",
+    "options": [
+      "Bumper",
+      "Spoiler",
+      "Mudguard",
+      "Sunroof Answer: ✅ B) Spoiler"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is not considered a body accessory?",
+    "options": [
+      "Fog lights",
+      "Roof rails",
+      "Chassis",
+      "Side mirrors Answer: ✅ C) Chassis"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 27,
+    "question": "What is the main function of a car’s bumper?",
+    "options": [
+      "Improve aesthetics",
+      "Absorb impact during minor collisions",
+      "Support headlights",
+      "Help with fuel efficiency Answer: ✅ B) Absorb impact during minor collisions"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 29,
+    "question": "Side view mirrors are mainly used for:",
+    "options": [
+      "Decoration",
+      "Increasing speed",
+      "Rear and side visibility for safe lane changing",
+      "Engine cooling Answer: ✅ C) Rear and side visibility for safe lane changing"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 30,
+    "question": "What is the function of roof rails on a vehicle?",
+    "options": [
+      "Decoration only",
+      "Improve aerodynamics",
+      "Carry luggage or cargo on the roof",
+      "Support the windshield Answer: ✅ C) Carry luggage or cargo on the roof"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 31,
+    "question": "What is the main benefit of streamlining a vehicle body?",
+    "options": [
+      "Better lighting",
+      "Lower manufacturing cost",
+      "Reduction in air resistance",
+      "More passenger space Answer: ✅ C) Reduction in air resistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 32,
+    "question": "Air resistance acting on a vehicle is also known as:",
+    "options": [
+      "Gradient resistance",
+      "Rolling resistance",
+      "Aerodynamic drag",
+      "Inertial resistance Answer: ✅ C) Aerodynamic drag"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 33,
+    "question": "Which shape offers the least air resistance for vehicles at high speed?",
+    "options": [
+      "Rectangular",
+      "Cubical",
+      "Streamlined (teardrop-shaped)",
+      "Square Answer: ✅ C) Streamlined (teardrop-shaped)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 34,
+    "question": "What does rolling resistance depend on most?",
+    "options": [
+      "Wind speed",
+      "Tyre material and road surface",
+      "Engine size",
+      "Number of passengers Answer: ✅B) Tyre material and road surface"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 35,
+    "question": "Gradient resistance is encountered when:",
+    "options": [
+      "Vehicle is in motion on a flat road",
+      "Vehicle moves downhill only",
+      "Vehicle climbs an incline",
+      "Vehicle accelerates on a straight road Answer: ✅ C) Vehicle climbs an incline"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 36,
+    "question": "What is the formula for tractive resistance in basic terms?",
+    "options": [
+      "Rolling + Gradient + Air resistance",
+      "Rolling – Air resistance",
+      "Gradient × Rolling",
+      "Engine power ÷ Weight Answer: ✅ A) Rolling + Gradient + Air resistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 37,
+    "question": "The force available between the tyre and the road surface to move the vehicle forward is called:",
+    "options": [
+      "Drag force",
+      "Gradient force",
+      "Traction",
+      "Resistance Answer: ✅ C) Traction"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 38,
+    "question": "Tractive effort is defined as:",
+    "options": [
+      "Resistance caused by gravity",
+      "Force required to overcome all resistances and move the vehicle",
+      "Power output of the engine",
+      "Braking force Answer: ✅ B) Force required to overcome all resistances and move the vehicle"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is not a type of resistance faced by a vehicle?",
+    "options": [
+      "Air resistance",
+      "Rolling resistance",
+      "Lateral resistance",
+      "Gradient resistance Answer: ✅ C) Lateral resistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 40,
+    "question": "Which of the following increases when a vehicle travels at high speed?",
+    "options": [
+      "Rolling resistance",
+      "Air resistance",
+      "Gradient resistance",
+      "Tractive effort Answer: ✅ B) Air resistance"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 41,
+    "question": "Pitching is the movement of the vehicle about its:",
+    "options": [
+      "Longitudinal axis",
+      "Lateral axis (side to side)",
+      "Vertical axis",
+      "Center of gravity Answer: ✅ B) Lateral axis (front up/down)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 42,
+    "question": "Rolling refers to the movement about the:",
+    "options": [
+      "Vertical axis",
+      "Lateral axis",
+      "Longitudinal axis",
+      "Horizontal plane Answer: ✅ C) Longitudinal axis (side-to-side tilting)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 43,
+    "question": "Yaw is the movement of the vehicle around the:",
+    "options": [
+      "Vertical axis",
+      "Lateral axis",
+      "Horizontal axis",
+      "Front axle Answer: ✅ A) Vertical axis (left or right turn of the nose)"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 44,
+    "question": "Bouncing occurs due to:",
+    "options": [
+      "Poor lighting",
+      "Steering misalignment",
+      "Poor suspension or uneven roads",
+      "Overinflated tyres Answer: ✅ C) Poor suspension or uneven roads"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 45,
+    "question": "Sway refers to:",
+    "options": [
+      "Up and down motion",
+      "Side-to-side motion of the whole body",
+      "Rotating motion",
+      "Forward acceleration Answer: ✅ B) Side-to-side motion of the whole body"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 46,
+    "question": "The primary purpose of applying anticorrosive treatment to a vehicle body is to:",
+    "options": [
+      "Improve fuel efficiency",
+      "Enhance engine performance",
+      "Prevent rust and corrosion",
+      "Improve aerodynamics Answer: ✅ C) Prevent rust and corrosion"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is the first step in the vehicle painting process?",
+    "options": [
+      "Top coat application",
+      "Priming",
+      "Surface cleaning and sanding",
+      "Clear coat application Answer: ✅ C) Surface cleaning and sanding"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 50,
+    "question": "The clear coat in painting is used to:",
+    "options": [
+      "Add thickness to paint",
+      "Increase friction",
+      "Protect the base coat and give gloss",
+      "Prevent fire hazards"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 51,
+    "question": "What is the primary chemical used for rustproofing underbody parts?",
+    "options": [
+      "Paint thinner",
+      "Epoxy resin",
+      "Zinc phosphate",
+      "Engine oil"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is not a method of anticorrosive treatment?",
+    "options": [
+      "Galvanizing",
+      "Phosphating",
+      "Painting",
+      "Welding"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 53,
+    "question": "What is the name of the process in which a car body is dipped into a bath for anti-corrosion coating?",
+    "options": [
+      "Electroplating",
+      "Dip coating",
+      "Electro-deposition (ED) coating",
+      "Spot welding"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 54,
+    "question": "During repainting, what is usually done before applying a new coat of paint?",
+    "options": [
+      "Wash with plain water",
+      "Wet sanding and removing old paint",
+      "Engine tuning",
+      "Apply base coat directly"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 55,
+    "question": "Which tool is commonly used to apply paint in auto body shops?",
+    "options": [
+      "Paintbrush",
+      "Sanding block",
+      "Spray gun",
+      "Welding torch"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 56,
+    "question": "What is the main purpose of polishing after painting or repainting?",
+    "options": [
+      "Remove the paint",
+      "Soften the metal",
+      "Improve surface finish and shine",
+      "Reduce weight"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 57,
+    "question": "Which type of paint is most commonly used in modern automobile painting?",
+    "options": [
+      "Acrylic enamel",
+      "Water-based emulsion",
+      "Latex paint",
+      "Oil-based paint"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 58,
+    "question": "What can cause paint blistering after painting?",
+    "options": [
+      "Low humidity",
+      "Proper drying",
+      "Moisture or contaminants under paint",
+      "Polishing the surface"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 59,
+    "question": "In multi-layer painting, the layer applied to smooth out imperfections before base coat is called:",
+    "options": [
+      "Primer",
+      "Putty / filler",
+      "Clear coat",
+      "Epoxy layer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 60,
+    "question": "Which part of the vehicle is most prone to corrosion?",
+    "options": [
+      "Roof",
+      "Bonnet",
+      "Underbody and wheel arches",
+      "Windows"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 61,
+    "question": "The primary purpose of applying anticorrosive treatment to a vehicle body is to:",
+    "options": [
+      "Improve fuel efficiency",
+      "Enhance engine performance",
+      "Prevent rust and corrosion",
+      "Improve aerodynamics"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is the first step in the vehicle painting process?",
+    "options": [
+      "Top coat application",
+      "Priming",
+      "Surface cleaning and sanding",
+      "Clear coat application"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 63,
+    "question": "Which type of coating is applied immediately after surface cleaning to prevent corrosion?",
+    "options": [
+      "Clear coat",
+      "Primer",
+      "Base coat",
+      "Top coat"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 64,
+    "question": "Which layer of paint provides the actual color and aesthetic appearance of the vehicle?",
+    "options": [
+      "Base coat",
+      "Clear coat",
+      "Primer",
+      "Epoxy coating"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 65,
+    "question": "The clear coat in painting is used to:",
+    "options": [
+      "Add thickness to paint",
+      "Increase friction",
+      "Protect the base coat and give gloss",
+      "Prevent fire hazards"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 66,
+    "question": "What is the primary chemical used for rustproofing underbody parts?",
+    "options": [
+      "Paint thinner",
+      "Epoxy resin",
+      "Zinc phosphate",
+      "Engine oil"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is not a method of anticorrosive treatment?",
+    "options": [
+      "Galvanizing",
+      "Phosphating",
+      "Painting",
+      "Welding"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 68,
+    "question": "What is the name of the process in which a car body is dipped into a bath for anti-corrosion coating?",
+    "options": [
+      "Electroplating",
+      "Dip coating",
+      "Electro-deposition (ED) coating",
+      "Spot welding"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 69,
+    "question": "During repainting, what is usually done before applying a new coat of paint?",
+    "options": [
+      "Wash with plain water",
+      "Wet sanding and removing old paint",
+      "Engine tuning",
+      "Apply base coat directly"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 70,
+    "question": "Which tool is commonly used to apply paint in auto body shops?",
+    "options": [
+      "Paintbrush",
+      "Sanding block",
+      "Spray gun",
+      "Welding torch"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 71,
+    "question": "What is the main purpose of polishing after painting or repainting?",
+    "options": [
+      "Remove the paint",
+      "Soften the metal",
+      "Improve surface finish and shine",
+      "Reduce weight"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 72,
+    "question": "Which type of paint is most commonly used in modern automobile painting?",
+    "options": [
+      "Acrylic enamel",
+      "Water-based emulsion",
+      "Latex paint",
+      "Oil-based paint"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 73,
+    "question": "What can cause paint blistering after painting?",
+    "options": [
+      "Low humidity",
+      "Proper drying",
+      "Moisture or contaminants under paint",
+      "Polishing the surface"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 74,
+    "question": "In multi-layer painting, the layer applied to smooth out imperfections before base coat is called:",
+    "options": [
+      "Primer",
+      "Putty / filler",
+      "Clear coat",
+      "Epoxy layer"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 75,
+    "question": "Which part of the vehicle is most prone to corrosion?",
+    "options": [
+      "Roof",
+      "Bonnet",
+      "Underbody and wheel arches",
+      "Windows"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 76,
+    "question": "What is a major drawback of a carbureted SI engine?",
+    "options": [
+      "Precise air-fuel control",
+      "High fuel efficiency",
+      "Poor cold starting and emissions",
+      "High engine power"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 77,
+    "question": "In carbureted engines, fuel is mixed with air:",
+    "options": [
+      "Near the intake valve",
+      "In the combustion chamber",
+      "Inside the exhaust manifold",
+      "In the carburetor"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 78,
+    "question": "Advantage of MPFI over carburetor:",
+    "options": [
+      "Lower cost",
+      "Easier manufacturing",
+      "Better fuel atomization and control",
+      "No ECU required"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 79,
+    "question": "In Throttle Body Injection (TBI), fuel is injected:",
+    "options": [
+      "Into each cylinder",
+      "Into exhaust port",
+      "Just above throttle valve",
+      "Into fuel tank"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 80,
+    "question": "In Port Fuel Injection (PFI), fuel is injected:",
+    "options": [
+      "Before throttle",
+      "Into combustion chamber",
+      "Near intake valve of each cylinder",
+      "After exhaust valve"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 81,
+    "question": "Which system offers more precise fuel delivery?",
+    "options": [
+      "TBI",
+      "PFI",
+      "Carburetor",
+      "Mechanical injection"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 82,
+    "question": "MPFI stands for:",
+    "options": [
+      "Multi-Point Fuel Injection",
+      "Multi-Port Fuel Ignition",
+      "Main Power Fuel Injector",
+      "Multiple Pressure Fuel Injection"
+    ],
+    "answerIndex": 0
+  },
+  {
+    "id": 83,
+    "question": "Which is NOT an MPFI sensor?",
+    "options": [
+      "TPS",
+      "Oxygen sensor",
+      "Knock sensor",
+      "Brake pedal sensor"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 84,
+    "question": "Function of Oxygen sensor:",
+    "options": [
+      "Detect temperature",
+      "Detect throttle angle",
+      "Monitor exhaust air-fuel ratio",
+      "Increase fuel pressure"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 85,
+    "question": "MAF sensor measures:",
+    "options": [
+      "Engine speed",
+      "Throttle position",
+      "Amount of air entering engine",
+      "Fuel temperature"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 86,
+    "question": "Engine temperature sensor:",
+    "options": [
+      "O₂ sensor",
+      "MAP sensor",
+      "Coolant temperature sensor",
+      "Camshaft sensor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 87,
+    "question": "Actuator in MPFI:",
+    "options": [
+      "MAP sensor",
+      "Fuel injector",
+      "Oxygen sensor",
+      "TPS"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 88,
+    "question": "ECU controls:",
+    "options": [
+      "Ignition only",
+      "Air supply only",
+      "Fuel injection timing & duration",
+      "Exhaust valves"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 89,
+    "question": "Engine speed sensor:",
+    "options": [
+      "TPS",
+      "Crankshaft position sensor",
+      "IAT sensor",
+      "Coolant sensor"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 90,
+    "question": "Component improving fuel economy & emissions:",
+    "options": [
+      "Air filter",
+      "Ignition coil",
+      "ECU",
+      "Flywheel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 91,
+    "question": "CRDI stands for:",
+    "options": [
+      "Controlled Rail Direct Ignition",
+      "Common Rail Direct Injection",
+      "Constant Rate Direct Injection",
+      "Combined Rail Diesel Injection"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 92,
+    "question": "Key feature of CRDI:",
+    "options": [
+      "Carburetor use",
+      "Low pressure injection",
+      "High-pressure common rail",
+      "Spark ignition"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 93,
+    "question": "Fuel injection in CRDI:",
+    "options": [
+      "Intake manifold",
+      "After exhaust valve",
+      "Directly into combustion chamber",
+      "Fuel tank"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 94,
+    "question": "NOT a CRDI component:",
+    "options": [
+      "Common rail",
+      "High-pressure pump",
+      "Spark plug",
+      "ECU"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 95,
+    "question": "CRDI injection timing is controlled by:",
+    "options": [
+      "Fuel filter",
+      "Ignition coil",
+      "ECU",
+      "Glow plug"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 96,
+    "question": "Function of common rail:",
+    "options": [
+      "Return line",
+      "Fuel storage & distribution",
+      "Pressure regulator",
+      "Injector"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 97,
+    "question": "CRDI injectors are operated by:",
+    "options": [
+      "Camshaft",
+      "ECU-controlled solenoids / piezo",
+      "Vacuum",
+      "Manual pump"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 98,
+    "question": "CRDI block diagram excludes:",
+    "options": [
+      "Fuel tank",
+      "High-pressure pump",
+      "Common rail",
+      "Catalytic converter"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 99,
+    "question": "Advantage of CRDI:",
+    "options": [
+      "Lower engine weight",
+      "Reduced compression ratio",
+      "Precise fuel control & multiple injections",
+      "Petrol usage"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 100,
+    "question": "CRDI improves:",
+    "options": [
+      "Emissions",
+      "Noise",
+      "Fuel efficiency & lower emissions",
+      "Low injection pressure"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 101,
+    "question": "Pilot injection is used to:",
+    "options": [
+      "Cool injector",
+      "Reduce noise & improve combustion",
+      "Increase fuel flow",
+      "Heat exhaust"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 102,
+    "question": "Pump used in CRDI:",
+    "options": [
+      "Diaphragm",
+      "Vane",
+      "High-pressure plunger pump",
+      "Water pump"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 103,
+    "question": "CRDI pressure range:",
+    "options": [
+      "10–20 bar",
+      "100–200 bar",
+      "1000–2000 bar",
+      "5000–6000 bar"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 104,
+    "question": "CRDI injection is:",
+    "options": [
+      "Constant",
+      "Fixed volume",
+      "Variable timing & pressure",
+      "After exhaust"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 105,
+    "question": "Advantage of CRDI engines:",
+    "options": [
+      "Higher NOx",
+      "Low efficiency",
+      "Smooth operation & reduced knock",
+      "More mechanics"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 106,
+    "question": "Advantage of VGT:",
+    "options": [
+      "Smaller engine",
+      "Low-speed only performance",
+      "Optimal boost across RPM",
+      "Higher fuel use"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 107,
+    "question": "VGT vanes regulate:",
+    "options": [
+      "Coolant flow",
+      "Air-fuel ratio",
+      "Exhaust gas flow",
+      "Ignition timing"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 108,
+    "question": "VGT benefit:",
+    "options": [
+      "Reduced torque",
+      "Turbo lag",
+      "Lower emissions & better response",
+      "Simple design"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 109,
+    "question": "VVT is used to:",
+    "options": [
+      "Control fuel pressure",
+      "Increase engine size",
+      "Optimize valve timing",
+      "Reduce plug wear"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 110,
+    "question": "VVT does NOT improve:",
+    "options": [
+      "Power",
+      "Emissions",
+      "Valve damage",
+      "Fuel efficiency"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 111,
+    "question": "VVT adjusts:",
+    "options": [
+      "Injector pressure",
+      "Valve timing",
+      "Piston stroke",
+      "Oil temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 112,
+    "question": "GDI injects fuel:",
+    "options": [
+      "Carburetor",
+      "Intake manifold",
+      "Combustion chamber",
+      "Exhaust manifold"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 113,
+    "question": "Advantage of GDI:",
+    "options": [
+      "Low pressure",
+      "Rich mixture",
+      "Better economy & performance",
+      "High emissions"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 114,
+    "question": "Stratified charge is used to:",
+    "options": [
+      "Cool engine",
+      "Burn rich mix",
+      "Lean burn at light load",
+      "Reduce ignition temp"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 115,
+    "question": "Stratified charge means:",
+    "options": [
+      "Carburetor mixing",
+      "Outside cylinder mixing",
+      "Different mixture zones",
+      "Diesel use"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 116,
+    "question": "Essential component for stratified charge:",
+    "options": [
+      "Spark plug",
+      "Direct injector",
+      "Turbocharger",
+      "EGR valve"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 117,
+    "question": "Challenge of GDI:",
+    "options": [
+      "Cooling loss",
+      "Engine size",
+      "Particulate emissions",
+      "Low compression"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 118,
+    "question": "VVT integrated with:",
+    "options": [
+      "Fuel tank",
+      "Cooling fan",
+      "Variable Valve Lift",
+      "Starter motor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 119,
+    "question": "Small VGT vane opening causes:",
+    "options": [
+      "Low boost",
+      "Faster turbine & torque",
+      "Low temperature",
+      "Delay"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 120,
+    "question": "GDI modes:",
+    "options": [
+      "Turbo / non-turbo",
+      "Cold / hot",
+      "Homogeneous / stratified",
+      "Open / closed loop"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 121,
+    "question": "Emission control purpose:",
+    "options": [
+      "Increase fuel use",
+      "Engine size",
+      "Reduce harmful emissions",
+      "Improve sound"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 122,
+    "question": "EGR stands for:",
+    "options": [
+      "Engine Gas Reduction",
+      "Exhaust Gas Recirculation",
+      "Electronic Gas Re-injection",
+      "Emission Gas Regulator"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 123,
+    "question": "EGR reduces:",
+    "options": [
+      "CO",
+      "HC",
+      "NOx",
+      "PM"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 124,
+    "question": "EGR valve works by:",
+    "options": [
+      "Fuel pressure rise",
+      "Exhaust gas recirculation",
+      "Sealing exhaust",
+      "Coolant control"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 125,
+    "question": "EGR reduces NOx by:",
+    "options": [
+      "Raising temp",
+      "Lowering temp",
+      "Increasing air",
+      "Less fuel"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 126,
+    "question": "EGR valve is controlled by:",
+    "options": [
+      "Carburetor",
+      "Throttle",
+      "ECU",
+      "Distributor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 127,
+    "question": "PCV system:",
+    "options": [
+      "Adds fuel",
+      "Raises oil pressure",
+      "Recirculates blow-by gases",
+      "Seals crankcase"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 128,
+    "question": "Blow-by gases are:",
+    "options": [
+      "Tailpipe gases",
+      "Tank gases",
+      "Gases past piston rings",
+      "Radiator gases"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 129,
+    "question": "PCV reduces:",
+    "options": [
+      "CO₂",
+      "HC",
+      "NOx",
+      "Lead"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 130,
+    "question": "PCV component:",
+    "options": [
+      "EGR cooler",
+      "Catalytic converter",
+      "PCV valve",
+      "MAP sensor"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 131,
+    "question": "EVAP system:",
+    "options": [
+      "Prevent oil leaks",
+      "Trap fuel vapors",
+      "Stop smoke",
+      "Cool radiator"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 132,
+    "question": "Charcoal canister:",
+    "options": [
+      "Absorbs coolant",
+      "Stores oil",
+      "Absorbs fuel vapors",
+      "Filters air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 133,
+    "question": "Stored vapors are:",
+    "options": [
+      "Released",
+      "Burned in exhaust",
+      "Sent to intake",
+      "Condensed"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 134,
+    "question": "Emission system active when parked:",
+    "options": [
+      "PCV",
+      "EGR",
+      "EVAP",
+      "Catalytic converter"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 135,
+    "question": "Emission & economy control:",
+    "options": [
+      "PCV",
+      "EGR",
+      "EVAP",
+      "EGR & PCV"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 136,
+    "question": "EV propulsion:",
+    "options": [
+      "ICE",
+      "Steam",
+      "Electric motor + battery",
+      "Gas turbine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 137,
+    "question": "EV key component:",
+    "options": [
+      "Injector",
+      "Motor",
+      "Carburetor",
+      "Exhaust"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 138,
+    "question": "BEV energy stored in:",
+    "options": [
+      "Hydrogen tank",
+      "Diesel tank",
+      "Battery pack",
+      "Flywheel"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 139,
+    "question": "Charging infrastructure:",
+    "options": [
+      "Cooling",
+      "Air supply",
+      "Battery charging",
+      "Lubrication"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 140,
+    "question": "EV excludes:",
+    "options": [
+      "Battery",
+      "Motor",
+      "Gearbox",
+      "Fuel tank & exhaust"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": 141,
+    "question": "Common EV battery:",
+    "options": [
+      "Lead-acid",
+      "NiMH",
+      "Lithium-ion",
+      "Zinc-air"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 142,
+    "question": "Li-ion advantage:",
+    "options": [
+      "Heavy",
+      "Memory effect",
+      "High energy density",
+      "Water topping"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 143,
+    "question": "BMS function:",
+    "options": [
+      "Increase speed",
+      "Regulate airflow",
+      "Manage battery health",
+      "Steering"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 144,
+    "question": "NOT BMS function:",
+    "options": [
+      "Temp monitoring",
+      "SOC control",
+      "Fuel injection",
+      "Safety"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 145,
+    "question": "Common EV motor:",
+    "options": [
+      "Brushed DC",
+      "Reluctance",
+      "BLDC",
+      "Shaded pole"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 146,
+    "question": "Regenerative braking:",
+    "options": [
+      "Oil brakes",
+      "Converts energy to electrical",
+      "Hydraulic braking",
+      "Reverse gear"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 147,
+    "question": "Battery energy depends on:",
+    "options": [
+      "Voltage",
+      "Capacity",
+      "Current",
+      "Temperature"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 148,
+    "question": "Fastest EV charging:",
+    "options": [
+      "Level 1",
+      "Level 2",
+      "DC fast charging",
+      "USB"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 149,
+    "question": "Inverter function:",
+    "options": [
+      "Charging",
+      "AC to DC",
+      "DC to AC",
+      "Cooling"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 150,
+    "question": "Electric motor function:",
+    "options": [
+      "Store energy",
+      "Create fuel",
+      "Convert electrical to mechanical energy",
+      "Control temperature"
+    ],
+    "answerIndex": 2
   }
 ]
