@@ -3128,309 +3128,312 @@ B) Central locking
 C) ABS
 D) Air bag
 Answer: A) Hill Hold Control
-1. What is the main function of an automobile body? 
+1. What is the main function of an automobile body?
 
-A) Improve engine performance 
-B) Support electrical systems 
-C) Provide space for passengers and goods
+A) Improve engine performance
+ B) Support electrical systems
+ C) Provide space for passengers and goods
  D) Increase fuel consumption
- Answer: ✅ C) Provide space for passengers and goods 
-2. What is the term used for the lower part of the vehicle which includes the frame and suspension system? 
-A) Roof panel 
-B) Chassis 
-C) Bonnet 
-D) Firewall 
-Answer: ✅ B) Chassis 
-3. Which part of the body separates the engine compartment from the passenger compartment? 
-A) Dash panel 
-B) Firewall 
-C) Bonnet 
-D) Radiator grill 
-Answer: ✅ B) Firewall 
-4. A Monocoque body construction means: 
-A) The body and frame are separate 
-B) The body is built on a wooden frame 
-C) The body and chassis are integrated
- D) The body is made only of plastic 
-Answer: ✅ C) The body and chassis are integrate
-5. Which type of automobile body is commonly used in sports and racing cars? 
-A) Hatchback 
-B) Convertible 
-C) Coupe 
-D) SUV 
+Answer: C) Provide space for passengers and goods
+2. What is the term used for the lower part of the vehicle which includes the frame and 
+suspension system?
+A) Roof panel
+ B) Chassis
+ C) Bonnet
+ D) Firewall
+Answer: B) Chassis
+3. Which part of the body separates the engine compartment from the passenger compartment?
+A) Dash panel
+ B) Firewall
+ C) Bonnet
+ D) Radiator grille
+Answer: B) Firewall
+4. A monocoque body construction means:
+A) Body and frame are separate
+ B) Body is built on a wooden frame
+ C) Body and chassis are integrated
+ D) Body is made only of plastic
+Answer: C) Body and chassis are integrated
+5. Which type of automobile body is commonly used in sports and racing cars?
+A) Hatchback
+ B) Convertible
+ C) Coupe
+ D) SUV
+Answer: C) Coupe
+6. What is the primary material used in conventional automobile body construction?
+A) Copper
+ B) Plastic
+ C) Steel
+ D) Aluminum
+Answer: C) Steel
 
-Answer: ✅ C) Coupe 
-6. What is the primary material used in conventional automobile body construction? 
-A) Copper 
-B) Plastic 
-C) Steel 
-D) Aluminum 
-Answer: ✅ C) Steel 
-7. Which of the following is not a vehicle body type? 
-A) Sedan 
-B) Limousine 
-C) Transmission 
-D) Hatchback 
-Answer: ✅ C) Transmission 
-8. In which type of body construction is the frame and body built as one unit? 
-A) Body-on-frame 
-B) Semi-monocoque 
-C) Monocoque 
-D) Ladder frame 
-Answer: ✅ C) Monocoque
- 9. Which specification is not typically included when comparing vehicle bodies? 
-A) Fuel tank capacity 
-B) Seating capacity
- C) Boot space 
-D) Number of doors 
-Answer: ✅ A) Fuel tank capacity 
-10. What is a characteristic of a “convertible” car body? 
-A) Has no engine compartment 
-B) Fixed metal roof 
+7. Which of the following is not a vehicle body type?
+A) Sedan
+ B) Limousine
+ C) Transmission
+ D) Hatchback
+Answer: C) Transmission
+8. In which type of body construction is the frame and body built as one unit?
+A) Body-on-frame
+ B) Semi-monocoque
+ C) Monocoque
+ D) Ladder frame
+Answer: C) Monocoque
+9. Which specification is not typically included when comparing vehicle bodies?
+A) Fuel tank capacity
+ B) Seating capacity
+ C) Boot space
+ D) Number of doors
+Answer: A) Fuel tank capacity
+10. What is a characteristic of a convertible car body?
+A) Has no engine compartment
+ B) Fixed metal roof
+ C) Retractable or removable roof
+ D) Only two wheels
+Answer: C) Retractable or removable roof
+11. Which of the following is a feature of a station wagon vehicle?
+A) Small luggage space
+ B) Two seats only
+ C) Extended rear cargo area
+ D) No rear window
+Answer: C) Extended rear cargo area
+12. What is the typical body type of a heavy goods vehicle (HGV)?
+A) Coupe
+ B) SUV
+ C) Truck body
+ D) Sedan
+Answer: C) Truck body
 
-C) Retractable or removable roof 
-D) Only two wheels 
-Answer: ✅ C) Retractable or removable roof 
-11. Which of the following is a feature of a “station wagon” vehicle? 
-A) Small luggage space 
-B) Two seats only
- C) Extended rear cargo area D
-) No rear window 
-Answer: ✅ C) Extended rear cargo area 
-12. What is the typical body type of a heavy goods vehicle (HGV)? 
-A) Coupe 
-B) SUV 
-C) Truck body 
-D) Sedan 
-Answer: ✅ C) Truck body 
- 13. What does “SUV” stand for? 
-A) Super Utility Van 
-B) Standard Utility Vehicle 
-C) Sports Utility Vehicle 
-D) Special Use Vehicle 
-Answer: ✅ C) Sports Utility Vehicle 
-14. In body construction, what is the primary purpose of crumple zones? 
-A) Reduce fuel consumption 
-B) Provide comfort 
-C) Absorb impact energy in collisions 
-D) Add aesthetic design 
-Answer: ✅ C) Absorb impact energy in collisions 
-15. Which of the following vehicles is typically built with a body-on-frame construction? 
+13. What does “SUV” stand for?
+A) Super Utility Van
+ B) Standard Utility Vehicle
+ C) Sports Utility Vehicle
+ D) Special Use Vehicle
+Answer: C) Sports Utility Vehicle
+14. In body construction, what is the primary purpose of crumple zones?
+A) Reduce fuel consumption
+ B) Provide comfort
+ C) Absorb impact energy in collisions
+ D) Add aesthetic design
+Answer: C) Absorb impact energy in collisions
+15. Which of the following vehicles is typically built with a body-on-frame construction?
+A) Hatchback
+ B) SUV
+ C) Coupe
+ D) Convertible
+Answer: B) SUV
+16. Which of the following materials is most commonly used in automobile body construction?
+A) Copper
+ B) Mild steel
+ C) Brass
+ D) Zinc
+Answer: B) Mild steel
+17. Aluminium is used in automobile bodies mainly because of its:
+A) High cost
+ B) High weight
+ C) Corrosion resistance and lightweight
+ D) High strength only
+Answer: C) Corrosion resistance and lightweight
+18. Which material is primarily used in high-performance and luxury cars due to its strength-to-
+weight ratio?
+A) Mild steel
+ B) Cast iron
+ C) Carbon fiber
+ D) PVC
 
-A) Hatchback 
-B) SUV 
-C) Coupe 
-D) Convertible 
-Answer: ✅ B) SUV 
-16. Which of the following materials is most commonly used in automobile body construction? 
-A) Copper 
-B) Mild Steel 
-C) Brass 
-D) Zinc 
-Answer: ✅ B) Mild Steel 
-17. Aluminium is used in automobile bodies mainly because of its: 
-A) High cost 
-B) High weight 
-C) Corrosion resistance and lightweight 
-D) High strength only 
-Answer: ✅ C) Corrosion resistance and lightweight 
-18. Which material is primarily used in high-performance and luxury cars due to its strength-to-weight ratio? 
-A) Mild steel 
-B) Cast iron 
-C) Carbon fiber 
-D) PVC 
-Answer: ✅ C) Carbon fiber 
-19. What is the purpose of galvanization in automotive body panels? 
-A) Improve paint quality 
-B) Reduce body weight 
-C) Prevent rusting 
-D) Increase thickness 
-
-Answer: ✅ C) Prevent rusting 
-20. The first step in vehicle body fabrication is usually: 
-A) Painting 
-B) Welding 
-C) Cutting and shaping sheet metal 
-D) Sanding 
-Answer: ✅ C) Cutting and shaping sheet metal 
+Answer: C) Carbon fiber
+19. What is the purpose of galvanization in automotive body panels?
+A) Improve paint quality
+ B) Reduce body weight
+ C) Prevent rusting
+ D) Increase thickness
+Answer: C) Prevent rusting
+20. The first step in vehicle body fabrication is usually:
+A) Painting
+ B) Welding
+ C) Cutting and shaping sheet metal
+ D) Sanding
+Answer: C) Cutting and shaping sheet metal
 21. Which type of welding is most commonly used in automobile body repair?
- A) Arc welding 
-B) Gas welding 
-C) TIG welding 
-D) MIG welding 
-Answer: ✅ D) MIG welding 
-22. What is a common tool used for reshaping dented metal during accident repair? 
-A) Hacksaw 
-B) Dent puller 
-C) Lathe 
-D) Drill machine
- Answer: ✅ B) Dent puller 
-23. In accidental repairs, which of the following processes is used to smoothen the damaged surface before 
-painting? 
-A) Drilling 
-B) Sanding 
-C) Welding 
-D) Hammering Answer: 
-✅ B) Sanding 
-24. The function of primer in body painting is to: 
-A) Increase thickness 
-B) Provide color 
+A) Arc welding
+ B) Gas welding
+ C) TIG welding
+ D) MIG welding
+Answer: D) MIG welding
+22. What is a common tool used for reshaping dented metal during accident repair?
+A) Hacksaw
+ B) Dent puller
+ C) Lathe
+ D) Drill machine
+Answer: B) Dent puller
+23. In accidental repairs, which process is used to smoothen the damaged surface before 
+painting?
+A) Drilling
+ B) Sanding
+ C) Welding
+ D) Hammering
+Answer: B) Sanding
+24. The function of primer in body painting is to:
+A) Increase thickness
+ B) Provide color
 
-C) Improve paint adhesion and prevent rust
- D) Make it waterproof Answer: 
-✅ C) Improve paint adhesion and prevent rust 
-25. Which body accessory helps reduce wind resistance and improve aerodynamics? 
-A) Bumper 
-B) Spoiler 
-C) Mudguard 
-D) Sunroof 
-Answer: ✅ B) Spoiler 
-26. Which of the following is not considered a body accessory? 
-A) Fog lights 
-B) Roof rails 
-C) Chassis 
-D) Side mirrors 
-Answer: ✅ C) Chassis 
-27. What is the main function of a car’s bumper? 
-A) Improve aesthetics 
-B) Absorb impact during minor collisions 
-C) Support headlights 
-D) Help with fuel efficiency 
-Answer: ✅ B) Absorb impact during minor collisions 
-28. The purpose of mud flaps on a vehicle is to: 
-A) Enhance speed B) Reduce noise 
-C) Prevent mud and debris from hitting the body 
-D) Reduce emissions 
-Answer: ✅ C) Prevent mud and debris from hitting the body 
-29. Side view mirrors are mainly used for: 
-A) Decoration 
+ C) Improve paint adhesion and prevent rust
+ D) Make it waterproof
+Answer: C) Improve paint adhesion and prevent rust
+25. Which body accessory helps reduce wind resistance and improve aerodynamics?
+A) Bumper
+ B) Spoiler
+ C) Mudguard
+ D) Sunroof
+Answer: B) Spoiler
+26. Which of the following is not considered a body accessory?
+A) Fog lights
+ B) Roof rails
+ C) Chassis
+ D) Side mirrors
+Answer: C) Chassis
+27. What is the main function of a car’s bumper?
+A) Improve aesthetics
+ B) Absorb impact during minor collisions
+ C) Support headlights
+ D) Help fuel efficiency
+Answer: B) Absorb impact during minor collisions
+28. The purpose of mud flaps on a vehicle is to:
+A) Enhance speed
+ B) Reduce noise
+ C) Prevent mud and debris from hitting the body
+ D) Reduce emissions
+Answer: C) Prevent mud and debris from hitting the body
+29. Side view mirrors are mainly used for:
+A) Decoration
+ B) Increasing speed
+ C) Rear and side visibility for safe lane changing
+ D) Engine cooling
+Answer: C) Rear and side visibility for safe lane changing
+30. What is the function of roof rails on a vehicle?
 
-B) Increasing speed 
-C) Rear and side visibility for safe lane changing 
-D) Engine cooling 
-Answer: ✅ C) Rear and side visibility for safe lane changing 
-30. What is the function of roof rails on a vehicle? 
-A) Decoration only 
-B) Improve aerodynamics 
-C) Carry luggage or cargo on the roof 
-D) Support the windshield 
-Answer: ✅ C) Carry luggage or cargo on the roof 
-31. What is the main benefit of streamlining a vehicle body? 
-A) Better lighting 
-B) Lower manufacturing cost 
-C) Reduction in air resistance 
-D) More passenger space 
-Answer: ✅ C) Reduction in air resistance 
-32. Air resistance acting on a vehicle is also known as: 
+A) Decoration only
+ B) Improve aerodynamics
+ C) Carry luggage or cargo on the roof
+ D) Support windshield
+Answer: C) Carry luggage or cargo on the roof
+31. What is the main benefit of streamlining a vehicle body?
+A) Better lighting
+ B) Lower manufacturing cost
+ C) Reduction in air resistance
+ D) More passenger space
+Answer: C) Reduction in air resistance
+32. Air resistance acting on a vehicle is also known as:
 A) Gradient resistance
- B) Rolling resistance 
-C) Aerodynamic drag 
-D) Inertial resistance 
-Answer: ✅ C) Aerodynamic drag 
-33. Which shape offers the least air resistance for vehicles at high speed? 
-A) Rectangular 
-B) Cubical 
-C) Streamlined (teardrop-shaped) 
-D) Square 
- Answer: ✅ C) Streamlined (teardrop-shaped) 
-
+ B) Rolling resistance
+ C) Aerodynamic drag
+ D) Inertial resistance
+Answer: C) Aerodynamic drag
+33. Which shape offers the least air resistance at high speed?
+A) Rectangular
+ B) Cubical
+ C) Streamlined (teardrop-shaped)
+ D) Square
+Answer: C) Streamlined (teardrop-shaped)
 34. What does rolling resistance depend on most?
- A) Wind speed 
-B) Tyre material and road surface 
-C) Engine size
- D) Number of passengers 
-Answer: ✅B) Tyre material and road surface 
-35. Gradient resistance is encountered when: 
-A) Vehicle is in motion on a flat road
- B) Vehicle moves downhill only 
-C) Vehicle climbs an incline 
-D) Vehicle accelerates on a straight road 
-Answer: ✅ C) Vehicle climbs an incline 
-36. What is the formula for tractive resistance in basic terms? 
-A) Rolling + Gradient + Air resistance 
-B) Rolling – Air resistance 
-C) Gradient × Rolling 
-D) Engine power ÷ Weight Answer: 
-✅ A) Rolling + Gradient + Air resistance 
-37. The force available between the tyre and the road surface to move the vehicle forward is called: 
+A) Wind speed
+ B) Tyre material and road surface
+ C) Engine size
+ D) Number of passengers
+Answer: B) Tyre material and road surface
+35. Gradient resistance is encountered when:
+A) Vehicle moves on flat road
+ B) Vehicle moves downhill only
+ C) Vehicle climbs an incline
+ D) Vehicle accelerates on straight road
+Answer: C) Vehicle climbs an incline
+36. What is the formula for tractive resistance?
+
+A) Rolling + Gradient + Air resistance
+ B) Rolling − Air resistance
+ C) Gradient × Rolling
+ D) Engine power ÷ Weight
+Answer: A) Rolling + Gradient + Air resistance
+37. The force available between tyre and road to move the vehicle is called:
 A) Drag force
- B) Gradient force 
-C) Traction 
-D) Resistance
- Answer: ✅ C) Traction 
- 38. Tractive effort is defined as:
- A) Resistance caused by gravity 
-B) Force required to overcome all resistances and move the vehicle
- C) Power output of the engine 
-
-D) Braking force Answer: ✅ B) Force required to overcome all resistances and move the vehicle 
-39. Which of the following is not a type of resistance faced by a vehicle? 
+ B) Gradient force
+ C) Traction
+ D) Resistance
+Answer: C) Traction
+38. Tractive effort is defined as:
+A) Resistance caused by gravity
+ B) Force required to overcome all resistances
+ C) Power output of engine
+ D) Braking force
+Answer: B) Force required to overcome all resistances
+39. Which is not a type of vehicle resistance?
 A) Air resistance
- B) Rolling resistance 
-C) Lateral resistance 
-D) Gradient resistance 
-Answer: ✅ C) Lateral resistance 
-40. Which of the following increases when a vehicle travels at high speed? 
-A) Rolling resistance 
-B) Air resistance 
-C) Gradient resistance 
-D) Tractive effort 
-Answer: ✅ B) Air resistance
- 41. Pitching is the movement of the vehicle about its: 
-A) Longitudinal axis 
-B) Lateral axis (side to side) 
-C) Vertical axis 
-D) Center of gravity 
-Answer: ✅ B) Lateral axis (front up/down) 
- 42. Rolling refers to the movement about the: 
-A) Vertical axis 
-B) Lateral axis 
-C) Longitudinal axis
- D) Horizontal plane 
-Answer: ✅ C) Longitudinal axis (side-to-side tilting) 
-43. Yaw is the movement of the vehicle around the: 
-A) Vertical axis 
-B) Lateral axis 
+ B) Rolling resistance
+ C) Lateral resistance
+ D) Gradient resistance
+Answer: C) Lateral resistance
+40. Which resistance increases at high speed?
+A) Rolling resistance
+ B) Air resistance
+ C) Gradient resistance
+ D) Tractive effort
+Answer: B) Air resistance
+41. Pitching is the movement of the vehicle about its:
+A) Longitudinal axis
+ B) Lateral axis
+ C) Vertical axis
+ D) Center of gravity
+Answer: B) Lateral axis
+42. Rolling refers to movement about the:
 
-C) Horizontal axis 
-D) Front axle 
-Answer: ✅ A) Vertical axis (left or right turn of the nose) 
+A) Vertical axis
+ B) Lateral axis
+ C) Longitudinal axis
+ D) Horizontal plane
+Answer: C) Longitudinal axis
+43. Yaw is the movement around the:
+A) Vertical axis
+ B) Lateral axis
+ C) Horizontal axis
+ D) Front axle
+Answer: A) Vertical axis
 44. Bouncing occurs due to:
- A) Poor lighting 
-B) Steering misalignment 
-C) Poor suspension or uneven roads 
-D) Overinflated tyres 
-Answer: ✅ C) Poor suspension or uneven roads 
-45. Sway refers to: 
-A) Up and down motion 
-B) Side-to-side motion of the whole body 
-C) Rotating motion 
-D) Forward acceleration 
-Answer: ✅ B) Side-to-side motion of the whole body
- 46. The primary purpose of applying anticorrosive treatment to a vehicle body is to: 
-A) Improve fuel efficiency 
-B) Enhance engine performance 
-C) Prevent rust and corrosion 
-D) Improve aerodynamics 
-Answer: ✅ C) Prevent rust and corrosion 
-47. Which of the following is the first step in the vehicle painting process? 
-A) Top coat application 
-B) Priming 
-C) Surface cleaning and sanding
- D) Clear coat application 
-Answer: ✅ C) Surface cleaning and sanding 
-48. Which type of coating is applied immediately after surface cleaning to prevent corrosion? 
+A) Poor lighting
+ B) Steering misalignment
+ C) Poor suspension or uneven roads
+ D) Over-inflated tyres
+Answer: C) Poor suspension or uneven roads
+45. Sway refers to:
+A) Up-down motion
+ B) Side-to-side motion of body
+ C) Rotating motion
+ D) Forward acceleration
+Answer: B) Side-to-side motion of body
+46. The primary purpose of anticorrosive treatment is to:
+A) Improve fuel efficiency
+ B) Enhance engine performance
+ C) Prevent rust and corrosion
+ D) Improve aerodynamics
+Answer: C) Prevent rust and corrosion
+47. First step in vehicle painting process:
+A) Top coat
+ B) Priming
+ C) Surface cleaning and sanding
+ D) Clear coat
+Answer: C) Surface cleaning and sanding
+48. Coating applied immediately after surface cleaning:
 
-A) Clear coat 
-B) Primer 
-C) Base coat 
-D) Top coat Answer: ✅ 
-B) Primer 49. Which layer of paint provides the actual color and aesthetic appearance of the vehicle? 
-A) Base coat 
-B) Clear coat 
-C) Primer 
-D) Epoxy coating 
-Answer: ✅ A) Base coat 
+A) Clear coat
+ B) Primer
+ C) Base coat
+ D) Top coat
+Answer: B) Primer
+49. Which layer gives actual color and appearance?
+A) Base coat
+ B) Clear coat
+ C) Primer
+ D) Epoxy coating
+Answer: A) Base coat
 50. The clear coat in painting is used to:
 A) Add thickness to paint
  B) Increase friction

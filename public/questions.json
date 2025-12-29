@@ -5451,9 +5451,9 @@
       "Improve engine performance",
       "Support electrical systems",
       "Provide space for passengers and goods",
-      "Increase fuel consumption Answer: ✅ C) Provide space for passengers and goods"
+      "Increase fuel consumption"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 2,
@@ -5462,9 +5462,9 @@
       "Roof panel",
       "Chassis",
       "Bonnet",
-      "Firewall Answer: ✅ B) Chassis"
+      "Firewall"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 3,
@@ -5473,20 +5473,20 @@
       "Dash panel",
       "Firewall",
       "Bonnet",
-      "Radiator grill Answer: ✅ B) Firewall"
+      "Radiator grille"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 4,
-    "question": "A Monocoque body construction means:",
+    "question": "A monocoque body construction means:",
     "options": [
-      "The body and frame are separate",
-      "The body is built on a wooden frame",
-      "The body and chassis are integrated",
-      "The body is made only of plastic Answer: ✅ C) The body and chassis are integrate"
+      "Body and frame are separate",
+      "Body is built on a wooden frame",
+      "Body and chassis are integrated",
+      "Body is made only of plastic"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 5,
@@ -5495,9 +5495,9 @@
       "Hatchback",
       "Convertible",
       "Coupe",
-      "SUV Answer: ✅ C) Coupe"
+      "SUV"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 6,
@@ -5506,9 +5506,9 @@
       "Copper",
       "Plastic",
       "Steel",
-      "Aluminum Answer: ✅ C) Steel"
+      "Aluminum"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 7,
@@ -5517,9 +5517,9 @@
       "Sedan",
       "Limousine",
       "Transmission",
-      "Hatchback Answer: ✅ C) Transmission"
+      "Hatchback"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 8,
@@ -5528,9 +5528,9 @@
       "Body-on-frame",
       "Semi-monocoque",
       "Monocoque",
-      "Ladder frame Answer: ✅ C) Monocoque"
+      "Ladder frame"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 9,
@@ -5539,20 +5539,31 @@
       "Fuel tank capacity",
       "Seating capacity",
       "Boot space",
-      "Number of doors Answer: ✅ A) Fuel tank capacity"
+      "Number of doors"
     ],
     "answerIndex": 0
   },
   {
     "id": 10,
-    "question": "What is a characteristic of a “convertible” car body?",
+    "question": "What is a characteristic of a convertible car body?",
     "options": [
       "Has no engine compartment",
       "Fixed metal roof",
       "Retractable or removable roof",
-      "Only two wheels Answer: ✅ C) Retractable or removable roof"
+      "Only two wheels"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a feature of a station wagon vehicle?",
+    "options": [
+      "Small luggage space",
+      "Two seats only",
+      "Extended rear cargo area",
+      "No rear window"
+    ],
+    "answerIndex": 2
   },
   {
     "id": 12,
@@ -5561,9 +5572,9 @@
       "Coupe",
       "SUV",
       "Truck body",
-      "Sedan Answer: ✅ C) Truck body"
+      "Sedan"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 13,
@@ -5572,9 +5583,9 @@
       "Super Utility Van",
       "Standard Utility Vehicle",
       "Sports Utility Vehicle",
-      "Special Use Vehicle Answer: ✅ C) Sports Utility Vehicle"
+      "Special Use Vehicle"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 14,
@@ -5583,9 +5594,9 @@
       "Reduce fuel consumption",
       "Provide comfort",
       "Absorb impact energy in collisions",
-      "Add aesthetic design Answer: ✅ C) Absorb impact energy in collisions"
+      "Add aesthetic design"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 15,
@@ -5594,20 +5605,20 @@
       "Hatchback",
       "SUV",
       "Coupe",
-      "Convertible Answer: ✅ B) SUV"
+      "Convertible"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 16,
     "question": "Which of the following materials is most commonly used in automobile body construction?",
     "options": [
       "Copper",
-      "Mild Steel",
+      "Mild steel",
       "Brass",
-      "Zinc Answer: ✅ B) Mild Steel"
+      "Zinc"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 17,
@@ -5616,20 +5627,20 @@
       "High cost",
       "High weight",
       "Corrosion resistance and lightweight",
-      "High strength only Answer: ✅ C) Corrosion resistance and lightweight"
+      "High strength only"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 18,
-    "question": "Which material is primarily used in high-performance and luxury cars due to its strength-to-weight ratio?",
+    "question": "Which material is primarily used in high-performance and luxury cars due to its strength-to- weight ratio?",
     "options": [
       "Mild steel",
       "Cast iron",
       "Carbon fiber",
-      "PVC Answer: ✅ C) Carbon fiber"
+      "PVC"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 19,
@@ -5638,9 +5649,9 @@
       "Improve paint quality",
       "Reduce body weight",
       "Prevent rusting",
-      "Increase thickness Answer: ✅ C) Prevent rusting"
+      "Increase thickness"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 20,
@@ -5649,9 +5660,9 @@
       "Painting",
       "Welding",
       "Cutting and shaping sheet metal",
-      "Sanding Answer: ✅ C) Cutting and shaping sheet metal"
+      "Sanding"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 21,
@@ -5660,9 +5671,9 @@
       "Arc welding",
       "Gas welding",
       "TIG welding",
-      "MIG welding Answer: ✅ D) MIG welding"
+      "MIG welding"
     ],
-    "answerIndex": 0
+    "answerIndex": 3
   },
   {
     "id": 22,
@@ -5671,20 +5682,20 @@
       "Hacksaw",
       "Dent puller",
       "Lathe",
-      "Drill machine Answer: ✅ B) Dent puller"
+      "Drill machine"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 23,
-    "question": "In accidental repairs, which of the following processes is used to smoothen the damaged surface before painting?",
+    "question": "In accidental repairs, which process is used to smoothen the damaged surface before painting?",
     "options": [
       "Drilling",
       "Sanding",
       "Welding",
-      "Hammering Answer: ✅ B) Sanding"
+      "Hammering"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 24,
@@ -5693,9 +5704,9 @@
       "Increase thickness",
       "Provide color",
       "Improve paint adhesion and prevent rust",
-      "Make it waterproof Answer: ✅ C) Improve paint adhesion and prevent rust"
+      "Make it waterproof"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 25,
@@ -5704,9 +5715,9 @@
       "Bumper",
       "Spoiler",
       "Mudguard",
-      "Sunroof Answer: ✅ B) Spoiler"
+      "Sunroof"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 26,
@@ -5715,9 +5726,9 @@
       "Fog lights",
       "Roof rails",
       "Chassis",
-      "Side mirrors Answer: ✅ C) Chassis"
+      "Side mirrors"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 27,
@@ -5726,9 +5737,20 @@
       "Improve aesthetics",
       "Absorb impact during minor collisions",
       "Support headlights",
-      "Help with fuel efficiency Answer: ✅ B) Absorb impact during minor collisions"
+      "Help fuel efficiency"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
+  },
+  {
+    "id": 28,
+    "question": "The purpose of mud flaps on a vehicle is to:",
+    "options": [
+      "Enhance speed",
+      "Reduce noise",
+      "Prevent mud and debris from hitting the body",
+      "Reduce emissions"
+    ],
+    "answerIndex": 2
   },
   {
     "id": 29,
@@ -5737,9 +5759,9 @@
       "Decoration",
       "Increasing speed",
       "Rear and side visibility for safe lane changing",
-      "Engine cooling Answer: ✅ C) Rear and side visibility for safe lane changing"
+      "Engine cooling"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 30,
@@ -5748,9 +5770,9 @@
       "Decoration only",
       "Improve aerodynamics",
       "Carry luggage or cargo on the roof",
-      "Support the windshield Answer: ✅ C) Carry luggage or cargo on the roof"
+      "Support windshield"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 31,
@@ -5759,9 +5781,9 @@
       "Better lighting",
       "Lower manufacturing cost",
       "Reduction in air resistance",
-      "More passenger space Answer: ✅ C) Reduction in air resistance"
+      "More passenger space"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 32,
@@ -5770,20 +5792,20 @@
       "Gradient resistance",
       "Rolling resistance",
       "Aerodynamic drag",
-      "Inertial resistance Answer: ✅ C) Aerodynamic drag"
+      "Inertial resistance"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 33,
-    "question": "Which shape offers the least air resistance for vehicles at high speed?",
+    "question": "Which shape offers the least air resistance at high speed?",
     "options": [
       "Rectangular",
       "Cubical",
       "Streamlined (teardrop-shaped)",
-      "Square Answer: ✅ C) Streamlined (teardrop-shaped)"
+      "Square"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 34,
@@ -5792,106 +5814,106 @@
       "Wind speed",
       "Tyre material and road surface",
       "Engine size",
-      "Number of passengers Answer: ✅B) Tyre material and road surface"
+      "Number of passengers"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 35,
     "question": "Gradient resistance is encountered when:",
     "options": [
-      "Vehicle is in motion on a flat road",
+      "Vehicle moves on flat road",
       "Vehicle moves downhill only",
       "Vehicle climbs an incline",
-      "Vehicle accelerates on a straight road Answer: ✅ C) Vehicle climbs an incline"
+      "Vehicle accelerates on straight road"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 36,
-    "question": "What is the formula for tractive resistance in basic terms?",
+    "question": "What is the formula for tractive resistance?",
     "options": [
       "Rolling + Gradient + Air resistance",
-      "Rolling – Air resistance",
+      "Rolling − Air resistance",
       "Gradient × Rolling",
-      "Engine power ÷ Weight Answer: ✅ A) Rolling + Gradient + Air resistance"
+      "Engine power ÷ Weight"
     ],
     "answerIndex": 0
   },
   {
     "id": 37,
-    "question": "The force available between the tyre and the road surface to move the vehicle forward is called:",
+    "question": "The force available between tyre and road to move the vehicle is called:",
     "options": [
       "Drag force",
       "Gradient force",
       "Traction",
-      "Resistance Answer: ✅ C) Traction"
+      "Resistance"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 38,
     "question": "Tractive effort is defined as:",
     "options": [
       "Resistance caused by gravity",
-      "Force required to overcome all resistances and move the vehicle",
-      "Power output of the engine",
-      "Braking force Answer: ✅ B) Force required to overcome all resistances and move the vehicle"
+      "Force required to overcome all resistances",
+      "Power output of engine",
+      "Braking force"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 39,
-    "question": "Which of the following is not a type of resistance faced by a vehicle?",
+    "question": "Which is not a type of vehicle resistance?",
     "options": [
       "Air resistance",
       "Rolling resistance",
       "Lateral resistance",
-      "Gradient resistance Answer: ✅ C) Lateral resistance"
+      "Gradient resistance"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 40,
-    "question": "Which of the following increases when a vehicle travels at high speed?",
+    "question": "Which resistance increases at high speed?",
     "options": [
       "Rolling resistance",
       "Air resistance",
       "Gradient resistance",
-      "Tractive effort Answer: ✅ B) Air resistance"
+      "Tractive effort"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 41,
     "question": "Pitching is the movement of the vehicle about its:",
     "options": [
       "Longitudinal axis",
-      "Lateral axis (side to side)",
+      "Lateral axis",
       "Vertical axis",
-      "Center of gravity Answer: ✅ B) Lateral axis (front up/down)"
+      "Center of gravity"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 42,
-    "question": "Rolling refers to the movement about the:",
+    "question": "Rolling refers to movement about the:",
     "options": [
       "Vertical axis",
       "Lateral axis",
       "Longitudinal axis",
-      "Horizontal plane Answer: ✅ C) Longitudinal axis (side-to-side tilting)"
+      "Horizontal plane"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 43,
-    "question": "Yaw is the movement of the vehicle around the:",
+    "question": "Yaw is the movement around the:",
     "options": [
       "Vertical axis",
       "Lateral axis",
       "Horizontal axis",
-      "Front axle Answer: ✅ A) Vertical axis (left or right turn of the nose)"
+      "Front axle"
     ],
     "answerIndex": 0
   },
@@ -5902,40 +5924,62 @@
       "Poor lighting",
       "Steering misalignment",
       "Poor suspension or uneven roads",
-      "Overinflated tyres Answer: ✅ C) Poor suspension or uneven roads"
+      "Over-inflated tyres"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 45,
     "question": "Sway refers to:",
     "options": [
-      "Up and down motion",
-      "Side-to-side motion of the whole body",
+      "Up-down motion",
+      "Side-to-side motion of body",
       "Rotating motion",
-      "Forward acceleration Answer: ✅ B) Side-to-side motion of the whole body"
+      "Forward acceleration"
     ],
-    "answerIndex": 0
+    "answerIndex": 1
   },
   {
     "id": 46,
-    "question": "The primary purpose of applying anticorrosive treatment to a vehicle body is to:",
+    "question": "The primary purpose of anticorrosive treatment is to:",
     "options": [
       "Improve fuel efficiency",
       "Enhance engine performance",
       "Prevent rust and corrosion",
-      "Improve aerodynamics Answer: ✅ C) Prevent rust and corrosion"
+      "Improve aerodynamics"
     ],
-    "answerIndex": 0
+    "answerIndex": 2
   },
   {
     "id": 47,
-    "question": "Which of the following is the first step in the vehicle painting process?",
+    "question": "First step in vehicle painting process:",
     "options": [
-      "Top coat application",
+      "Top coat",
       "Priming",
       "Surface cleaning and sanding",
-      "Clear coat application Answer: ✅ C) Surface cleaning and sanding"
+      "Clear coat"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": 48,
+    "question": "Coating applied immediately after surface cleaning:",
+    "options": [
+      "Clear coat",
+      "Primer",
+      "Base coat",
+      "Top coat"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": 49,
+    "question": "Which layer gives actual color and appearance?",
+    "options": [
+      "Base coat",
+      "Clear coat",
+      "Primer",
+      "Epoxy coating"
     ],
     "answerIndex": 0
   },
